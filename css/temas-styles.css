@@ -1,0 +1,92 @@
+.botones{
+    position: absolute;
+    left: 15%;
+    top: 7rem;
+    width: 70%;
+    height: 25rem;
+}
+.boton {
+    width: 100%;
+    height: 5rem;
+    margin-top: 1rem;
+    border-radius: 30px;
+    border:none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#L {
+    background-color: #5ce1e6; 
+}
+#L:hover{
+    background-color: #61cccf;
+}
+
+#A{
+    background-color: #ffd25e;
+}
+#A:hover{
+    background-color: #e7be57;
+}
+
+#J{
+    background-color: #ffd15ede;
+}
+#J:hover{
+    background-color: #e7be57;
+}
+
+#D{
+    background-color: #dd2e44;
+}
+#D:hover{
+    background-color: #ca2d42;
+}
+.boton-act {
+    width: 10%;
+    height: 2rem;
+    position: absolute;
+    left: 10%;
+    top: 2.5rem;
+}
+.boton-act2 {
+    width: 10%;
+    height: 2rem;
+    position: absolute;
+    left: 10%;
+    top: 8.5rem;
+}
+.boton-act3 {
+    width: 10%;
+    height: 2rem;
+    position: absolute;
+    left: 10%;
+    top: 14.5rem;
+}
+.boton-act4 {
+    width: 10%;
+    height: 2rem;
+    position: absolute;
+    left: 10%;
+    top: 20.5rem;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    position: absolute;
+    right: 21%;
+    top: 0.3rem;
+}
+.p2{
+    top: 7.3rem;
+    right: 16%;
+}
+.p3{
+    top: 12.5rem;
+    right: 19%;
+}
+.p4{
+    top: 18.7rem;
+    right: 22%;
+}

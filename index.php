@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\index-style.css">
+    <link rel="Stylesheet" href="css\index-styles.css">
     <title>Sabiduria Chapina</title>
 </head>
 <body>

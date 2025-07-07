@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\Lecciones-styles.css">
-    <title>Temas</title>
+    <link rel="Stylesheet" href="css\Lecciones-style.css">
+    <title>Lecciones</title>
 </head>
 <body>
     <header>
@@ -21,13 +21,13 @@
     <section class="botones">
         <a href="CS">
             <button class="boton" id="L">
-                <img src="img\cesped.jpg" class="boton-act" id="boton-act">
+                <img src="img\CS.png" class="boton-act" id="boton-act">
                 <p>Ciencias <br>Sociales</p>
             </button>
         </a>
         <a href="Math">
             <button class="boton" id="A">
-                <img src="img\cesped.jpg" class="boton-act2" id="boton-act">
+                <img src="img\Mate.png" class="boton-act2" id="boton-act">
                 <p class="p2">Matemáticas</p>
             </button>
         </a>
@@ -35,13 +35,13 @@
     <section class="botones2">
         <a href="CN">
             <button class="boton" id="J">
-                <img src="img\cesped.jpg" class="boton-act3" id="boton-act">
+                <img src="img\CN.png" class="boton-act3" id="boton-act">
                 <p class="p3">Ciencias <br>Naturales</p>
             </button>
         </a>
         <a href="IE">
             <button class="boton" id="D">
-                <img src="img\cesped.jpg" class="boton-act4" id="boton-act">
+                <img src="img\IE.png" class="boton-act4" id="boton-act">
                 <p class="p4">Idioma <br>Español</p>
             </button>
         </a>

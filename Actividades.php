@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\Temas-styles.css">
-    <title>Temas</title>
+    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\Actividades-styles.css">
+    <title>Actividades</title>
 </head>
 <body>
     <header>
@@ -16,7 +16,8 @@
             </div>
                 
     </header>
-    <h1>Lecciones Divertidas</h1>
+    <h1>Actividades</h1>
+
     <section class="botones">
         <a href="CS">
             <button class="boton" id="L">
@@ -45,15 +46,18 @@
             </button>
         </a>
     </section>
-    <ul class="nav-list" id="nav-list">
-                    <div class="hamburger-cerrar" id="hamburger-cerrar">
-                        <span class="bar-cerrar1"></span>
-                        <span class="bar-cerrar2"></span>
-                    </div>
-                    <li><a href="index.php">Inicio</a></li><br>
-                    <li><a href="Contactos.php">Contactanos</a></li><br>
-                    <li><a href="">Cerrar Sesion</a></li>
-                </ul>
+    <div class="nav-list" id="nav-list">
+        <div class="hamburger-cerrar" id="hamburger-cerrar">
+            <span class="bar-cerrar1"></span>
+            <span class="bar-cerrar2"></span>
+        </div>
+        <div class="LCAC">
+            <li><a href="index.php">Inicio</a></li><br>
+            <li><a href="Actividades.php">Actividades</a></li><br>
+            <li><a href="Contactos.php">Contactanos</a></li><br>
+            <li><a href="">Cerrar Sesion</a></li>
+        </div>
+    </div>
 
     <script src="js\script.js"></script>
 </body>

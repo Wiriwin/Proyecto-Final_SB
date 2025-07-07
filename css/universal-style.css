@@ -9,9 +9,10 @@ body{
 /*menu de hamburguesa*/
 .nav-list {
     background-color: #d4eaed;
+    list-style: none;
     position: absolute;
     display:flow-root;
-    padding-top: 1rem;
+    padding: 0;
     top: 0;
     bottom: 0;
     box-shadow: 0 0 0 100vmax rgb(0, 0, 0, .1);    
@@ -22,12 +23,10 @@ body{
     transition: 0.7s;
 }
 .LCAC{
-    position: relative;
-    background-color: brown;
-    flex-direction: column;
-    list-style: none;
-    margin-top: 2rem;
+    margin: 1rem;
+    margin-top: 2.5rem;
 }
+
 .nav-list li a {
     text-decoration: none;
     font-size: 12px;
@@ -58,8 +57,9 @@ body{
     position: absolute;
     display: flex;
     cursor: pointer;
-    margin: 0;
     width: 30px;
+    top: 1.2rem;
+    right: 10%;
 }
 .bar-cerrar1 {
     width: 25px;
@@ -67,8 +67,6 @@ body{
     transform: rotate(45deg);
     background-color: #ffa64d;
     position: absolute;
-    top: 0.5rem;
-    left: 180%;
 }
 .bar-cerrar2 {
     width: 25px;
@@ -76,8 +74,6 @@ body{
     transform: rotate(135deg);
     background-color: #ffa64d;
     position: absolute;
-    top: 0.5rem;
-    left: 180%;
 }
 @media (min-width: 368px) {
 

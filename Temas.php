@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\Temas-styles.css">
     <title>Temas</title>
 </head>
@@ -18,26 +18,32 @@
     </header>
     <h1>Lecciones Divertidas</h1>
     <section class="botones">
+        <a href="CS">
             <button class="boton" id="L">
                 <img src="img\cesped.jpg" class="boton-act" id="boton-act">
                 <p>Ciencias <br>Sociales</p>
             </button>
-
+        </a>
+        <a href="Math">
             <button class="boton" id="A">
                 <img src="img\cesped.jpg" class="boton-act2" id="boton-act">
                 <p class="p2">Matemáticas</p>
             </button>
+        </a>
     </section>
     <section class="botones2">
+        <a href="CN">
             <button class="boton" id="J">
                 <img src="img\cesped.jpg" class="boton-act3" id="boton-act">
                 <p class="p3">Ciencias <br>Naturales</p>
             </button>
-
+        </a>
+        <a href="IE">
             <button class="boton" id="D">
                 <img src="img\cesped.jpg" class="boton-act4" id="boton-act">
                 <p class="p4">Idioma <br>Español</p>
             </button>
+        </a>
     </section>
     <ul class="nav-list" id="nav-list">
                     <div class="hamburger-cerrar" id="hamburger-cerrar">

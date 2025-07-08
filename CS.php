@@ -5,10 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\CS.css">
-    <title>Sabiduria Chapina</title>
+    <link rel="Stylesheet" href="css\CS-style.css">
+    <title>Ciencias Sociales</title>
 </head>
 <body>
+    <img src="img\fondoCS.png" class="fondo">
+    
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>
@@ -19,57 +21,60 @@
 
     <h1>Ciencias Sociales</h1>
 
-    <div>
-        <button>1 y 2</button>
-        <button>3 y 4</button>
-        <button>5 y 6</button>
+    <div class="grad">
+        <button class="grad_1-6">1 y 2</button>
+        <ul class="list-PyS">
+            <li class="list-inside">
+                <a><button>La Familia</button></a>
+            </li>
+            <li class="list-inside">
+                <a><button>La Escuela</button></a>
+            </li>
+            <li class="list-inside">
+                <a><button>El Barrio y la Comunidad</button></a>
+            </li>
+            <li class="list-inside">
+                <a><button>Valores y Principios</button></a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="grad">
+        <button class="grad_1-6">3 y 4</button>
+            <ul class="list-TyC">
+            <li>
+                <a><button>El Municipio y La Provincia</button></a>
+            </li>
+            <li>
+                <a><button>Medios de Transporte y Comunicación</button></a>
+            </li>
+            <li>
+                <a><button>Historia y Geografía</button></a>
+            </li>
+            <li>
+                <a><button>Conquista de América</button></a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="grad">
+        <button class="grad_1-6">5 y 6</button>
+            <ul class="list-QyS">
+            <li>
+                <a><button>Historia de Guatemala</button></a>
+            </li>
+            <li>
+                <a><button>Geografía</button></a>
+            </li>
+            <li>
+                <a><button>Derechos y Deberes</button></a>
+            </li>
+            <li>
+                <a><button>Economía</button></a>
+            </li>
+        </ul>
     </div>
     
-    <ul class="1y2">
-        <li>
-            <a><button>La Familia</button></a>
-        </li>
-        <li>
-            <a><button>La Escuela</button></a>
-        </li>
-        <li>
-            <a><button>El Barrio y la Comunidad</button></a>
-        </li>
-        <li>
-            <a><button>Valores y Principios</button></a>
-        </li>
-    </ul>
-    
-    <ul class="3y4">
-        <li>
-            <a><button>El Municipio y La Provincia</button></a>
-        </li>
-        <li>
-            <a><button>Medios de Transporte y Comunicación</button></a>
-        </li>
-        <li>
-            <a><button>Historia y Geografía</button></a>
-        </li>
-        <li>
-            <a><button>Conquista de América</button></a>
-        </li>
-    </ul>
-
-    <ul class="5y6">
-        <li>
-            <a><button>Historia de Guatemala</button></a>
-        </li>
-        <li>
-            <a><button>Geografía</button></a>
-        </li>
-        <li>
-            <a><button>Derechos y Deberes</button></a>
-        </li>
-        <li>
-            <a><button>Economía</button></a>
-        </li>
-    </ul>
-
     <div class="nav-list" id="nav-list">
         <div class="hamburger-cerrar" id="hamburger-cerrar">
             <span class="bar-cerrar1"></span>

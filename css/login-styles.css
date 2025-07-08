@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #d4eaed;
     margin: 0;
     padding: 0;
     display: flex;
@@ -156,4 +156,8 @@ body {
         align-items: flex-start;
         padding-top: 40px;
     }
+}
+.error-message,
+.success-message {
+    display: none !important;
 }

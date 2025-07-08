@@ -1,0 +1,190 @@
+body{
+    background-color: #d4eaed;
+}
+
+.botones{
+    position: absolute;
+    left: 16.5%;
+    top: 7rem;
+    width: 70%;
+    height: 25rem;
+}
+.botones2{
+    position: absolute;
+    left: 16.5%;
+    top: 31.5rem;
+    width: 70%;
+    height: 25rem;
+}
+.boton {
+    width: 95%;
+    height: 11rem;
+    margin-top: 1rem;
+    border-radius: 30px;
+    border:none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin: 3rem;
+    margin-top: -1rem;
+    margin-left: 27%;
+    color: #4dacc4;
+}
+
+#L {
+    background-color:#ffa64d; 
+}
+#L:hover{
+    background-color: #ffa64d;
+}
+
+#A{
+    background-color: #dd2e44;
+}
+#A:hover{
+    background-color: #e7be57;
+}
+
+#J{
+    background-color: #bacf6d;
+}
+#J:hover{
+    background-color: #e7be57;
+}
+
+#D{
+    background-color: #65a1b7;
+}
+#D:hover{
+    background-color: #ca2d42;
+}
+.boton-act {
+    width: 85%;
+    height: 9.2rem;
+    position: absolute;
+    left: 5%;
+    top: 1.9rem;
+    border-radius: 20px;
+}
+.boton-act2 {
+    width: 85%;
+    height: 9.2rem;
+    position: absolute;
+    left: 5%;
+    top: 14rem;
+    border-radius: 20px;
+}
+.boton-act3 {
+    width: 85%;
+    height: 9.2rem;
+    position: absolute;
+    left: 5%;
+    top: 1.9rem;
+    border-radius: 20px;
+}
+.boton-act4 {
+    width: 85%;
+    height: 9.2rem;
+    position: absolute;
+    left: 5%;
+    top: 14rem;
+    border-radius: 20px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    position: absolute;
+    right:26%;
+    color: white;
+    top: 1.5rem;
+}
+
+.p2{
+    top: 15rem;
+    right: 12%;
+}
+.p3{
+    top: 1.5rem;
+    right: 23%;
+}
+.p4{
+    top: 13.5rem;
+    right: 29%;
+}
+
+@media (min-width: 368px){
+    
+h1{
+    margin-left: 30%;
+}
+.boton {
+    width: 95%;
+    height: 20.5rem;
+    margin-top: 1rem;
+    border-radius: 30px;
+    border:none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.botones2{
+    position: absolute;
+    left: 16.5%;
+    top: 50.5rem;
+    width: 70%;
+    height: 25rem;
+}
+.boton-act {
+    width: 85%;
+    height: 18.4rem;
+    position: absolute;
+    left: 5%;
+    top: 2rem;
+    border-radius: 20px;
+}
+.boton-act2 {
+    width: 85%;
+    height: 18rem;
+    position: absolute;
+    left: 5%;
+    top: 24rem;
+    border-radius: 20px;
+}
+.boton-act3 {
+    width: 85%;
+    height: 18.4rem;
+    position: absolute;
+    left: 5%;
+    top: 2rem;
+    border-radius: 20px;
+}
+.boton-act4 {
+    width: 85%;
+    height: 18rem;
+    position: absolute;
+    left: 5%;
+    top: 24rem;
+    border-radius: 20px;
+}
+p {
+    font-size: 60px;
+    right:26%;
+    top: 3rem;
+}
+.p2{
+    top: 26.5rem;
+    right: 12%;
+}
+.p3{
+    top: 3rem;
+    right: 23%;
+}
+.p4{
+    top: 24rem;
+    right: 29%;
+}
+}

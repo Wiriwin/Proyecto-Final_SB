@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,7 +16,7 @@
                 <span class="bar-abrir"></span>
             </div>
                 
-            <a href="log_new_user.html"><button class="boton">Registro</button></a>
+            <a href=""><button class="boton">Registrarse</button></a>
     </header>
 
     <section class="center">
@@ -36,15 +36,18 @@
         <img src="" class="cesped">
     </div>
 
-    <ul class="nav-list" id="nav-list">
-                    <div class="hamburger-cerrar" id="hamburger-cerrar">
-                        <span class="bar-cerrar1"></span>
-                        <span class="bar-cerrar2"></span>
-                    </div>
-                    <li><a href="Temas.php">Temas</a></li><br>
-                    <li><a href="Contactos.php">Contactanos</a></li><br>
-                    <li><a href="">Cerrar Sesion</a></li>
-                </ul>
+    <div class="nav-list" id="nav-list">
+        <div class="hamburger-cerrar" id="hamburger-cerrar">
+            <span class="bar-cerrar1"></span>
+            <span class="bar-cerrar2"></span>
+        </div>
+        <div class="LCAC">
+            <li><a href="Lecciones.php">Lecciones Divertidas</a></li><br>
+            <li><a href="Actividades.php">Actividades</a></li><br>
+            <li><a href="Contactos.php">Contactanos</a></li><br>
+            <li><a href="">Cerrar Sesion</a></li>
+        </div>
+    </div>
 
     <script src="js\script.js"></script>
 </body>

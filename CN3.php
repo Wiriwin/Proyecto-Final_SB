@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\CN-style.css">
+    <link rel="Stylesheet" href="css\CN-styles.css">
     <title>Lecciones y Actividades</title>
 </head>
 <body>
+    <img src="img/planets.png" class="fondo">
+
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>
@@ -16,21 +18,23 @@
         </div>
     </header>
 
-    <ul class="list-PyS" id="list-PyS">
-        <li class="list-inside">
-            <a><button>Partes Externas del Cuerpo Humano</button></a>
+    <h1>Ciencias Naturales</h1>
+
+    <ul class="list-PyS">
+        <li>
+            <a><button>Teoría de la Gran Explosión (Big Bang)</button></a>
         </li>
-        <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+        <li>
+            <a><button>Organización Celular en los Tejidos</button></a>
         </li>
-        <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+        <li>
+            <a><button>Principales Componentes del Tejido Sanguíneo</button></a>
         </li>
-        <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+        <li>
+            <a><button>Reforestación y los Recursos Hídricos</button></a>
         </li>
-        <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+        <li>
+            <a><button>Importancia del Uso de Plaguicidas</button></a>
         </li>
     </ul>
     
@@ -41,8 +45,8 @@
         </div>
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
-            <li><a href="Lecciones.php">Lecciones Divertidas</a></li><br>
-            <li><a href="Actividades.php">Actividades</a></li><br>
+            <li><a href="Grados.php">Grados</a></li><br>
+            <li><a href="Lecciones3.php">Lecciones</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

@@ -35,7 +35,7 @@
         </a>
     </section>
     <section class="botones2">
-        <a href="CN">
+        <a href="CN1.php">
             <button class="boton" id="J">
                 <img src="img\CN.png" class="boton-act3" id="boton-act">
                 <p class="p3">Ciencias <br>Naturales</p>
@@ -55,7 +55,7 @@
         </div>
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
-            <li><a href="Actividades.php">Actividades</a></li><br>
+            <li><a href="Grados.php">Grados</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

@@ -5,11 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\IE.css">
-    <title>Ciencias Sociales</title>
+    <link rel="Stylesheet" href="css\Math-style.css">
+    <title>Matemáticas</title>
 </head>
 <body>
-
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>
@@ -17,26 +16,39 @@
             <span class="bar-abrir"></span>
         </div>
     </header>
+    <div class="up">
+        <img src="img/mas.png" class="mas">
+        <img src="img/por.png" class="por">
+        <img src="img/div.png" class="div">
+    </div>
+    <div class="Down">
+        <img src="img/mas.png" class="mas2">
+        <img src="img/por.png" class="por2">
+        <img src="img/div.png" class="div2">
+    </div>
 
-    <h1>Ciencias Sociales</h1>
+    <h1>Matemáticas</h1>
 
     <div class="grad">
-        <ul class="list-PyS">
-            <li class="list-inside">
-                <a><button>La Familia</button></a>
+            <ul class="list-TyC">
+            <li>
+                <a><button>Concepto de los Angulos</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>La Escuela</button></a>
+            <li>
+                <a><button>La Suma</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>El Barrio y la Comunidad</button></a>
+            <li>
+                <a><button>La Resta</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>Valores y Principios</button></a>
+            <li>
+                <a><button>La Mutiplicación</button></a>
+            </li>
+            <li>
+                <a><button>Números Romanos</button></a>
             </li>
         </ul>
     </div>
-    
+
     <div class="nav-list" id="nav-list">
         <div class="hamburger-cerrar" id="hamburger-cerrar">
             <span class="bar-cerrar1"></span>
@@ -45,7 +57,7 @@
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
             <li><a href="Grados.php">Grados</a></li><br>
-            <li><a href="Lecciones1.php">Lecciones</a></li><br>
+            <li><a href="Lecciones2.php">Lecciones</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

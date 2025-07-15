@@ -1,27 +1,27 @@
 body{
     background-color: #b5f6af;
+    overflow-x: hidden;
 }
+
+.fondo{
+    width: 140%;
+    position: absolute;
+    top: -5rem;
+    rotate: 20grad;
+    right: -5rem;
+}
+
 h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 40px;
+    font-size: 35px;
     margin: auto;
     color: #dd2e44;
     text-align: center;
-}
-
-.grad{
-    width: 70%;
-    text-align: center;
     position: relative;
-    left: 15%;
-    top: 2rem;
-}
-.grad_1-6{
-    width: 100%;
 }
 
 button{
-    width: 95%;
+    width: 80%;
     height: auto;
     padding: 1rem;
     margin-bottom: 0.5rem;
@@ -33,7 +33,7 @@ button{
     color: white;
 }
 .list-PyS{
-    margin-top: 0;
+    margin-top: 2rem;
     padding: 0;
     list-style: none;
     text-align: center;

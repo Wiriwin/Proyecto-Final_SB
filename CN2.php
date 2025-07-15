@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\CN-style.css">
+    <link rel="Stylesheet" href="css\CN-styles.css">
     <title>Lecciones y Actividades</title>
 </head>
 <body>
+    <img src="img/planets.png" class="fondo">
+    
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>
@@ -16,7 +18,9 @@
         </div>
     </header>
 
-    <ul class="list-TyC">
+    <h1>Ciencias Naturales</h1>
+
+    <ul class="list-PyS">
         <li>
             <a><button>Descripción del Universo</button></a>
         </li>
@@ -41,8 +45,8 @@
         </div>
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
-            <li><a href="Lecciones.php">Lecciones Divertidas</a></li><br>
-            <li><a href="Actividades.php">Actividades</a></li><br>
+            <li><a href="Grados.php">Grados</a></li><br>
+            <li><a href="Lecciones1.php">Lecciones</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

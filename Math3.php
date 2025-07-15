@@ -5,11 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\IE.css">
-    <title>Ciencias Sociales</title>
+    <link rel="Stylesheet" href="css\Math-style.css">
+    <title>Matemáticas</title>
 </head>
 <body>
-
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>
@@ -17,22 +16,35 @@
             <span class="bar-abrir"></span>
         </div>
     </header>
+    <div class="up">
+        <img src="img/mas.png" class="mas">
+        <img src="img/por.png" class="por">
+        <img src="img/div.png" class="div">
+    </div>
+    <div class="Down">
+        <img src="img/mas.png" class="mas2">
+        <img src="img/por.png" class="por2">
+        <img src="img/div.png" class="div2">
+    </div>
 
-    <h1>Ciencias Sociales</h1>
+    <h1>Matemáticas</h1>
 
     <div class="grad">
         <ul class="list-PyS">
             <li class="list-inside">
-                <a><button>La Familia</button></a>
+                <a><button>La División</button></a>
             </li>
             <li class="list-inside">
-                <a><button>La Escuela</button></a>
+                <a><button>La Potencia</button></a>
             </li>
             <li class="list-inside">
-                <a><button>El Barrio y la Comunidad</button></a>
+                <a><button>Raíz Cuadrada</button></a>
             </li>
             <li class="list-inside">
-                <a><button>Valores y Principios</button></a>
+                <a><button>Números Primos y Compuestos</button></a>
+            </li>
+            <li class="list-inside">
+                <a><button>Cálculo de Circunferencia y Área de un Círculo</button></a>
             </li>
         </ul>
     </div>
@@ -45,7 +57,7 @@
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
             <li><a href="Grados.php">Grados</a></li><br>
-            <li><a href="Lecciones1.php">Lecciones</a></li><br>
+            <li><a href="Lecciones3.php">Lecciones</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

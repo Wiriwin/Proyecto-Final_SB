@@ -1,14 +1,57 @@
 body{
-    background-color: #c3fffd;
-    overflow-x: hidden;
+    background-color: #9cd6e5;
 }
-.fondo{
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    margin: auto;
+    color:#006c56;
+    text-align: center;
+}
+.mas{
     position: absolute;
-    top: 7rem;
+    width: 24%;
+    height: 5rem;
+    top: 0.5rem;
+    right: 5%;
+}
+.por{
+    position: absolute;
+    width: 22%;
+    height: 5rem;
+    top: 8rem;
 }
 
-h1{
-    color: #4dacc4;
+.div{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+    right: 2%;
+    top: 18rem;
+}
+.Down{
+    position: relative;
+    top: 20rem;
+}
+.mas2{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+}
+.por2{
+    position: absolute;
+    width: 22%;
+    height: 5rem;
+    top: 7.5rem;
+    right: 5%;
+}
+
+.div2{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+    left: 2%;
+    top: 15rem;
 }
 
 .grad{
@@ -27,7 +70,7 @@ button{
     height: auto;
     padding: 1rem;
     margin-bottom: 0.5rem;
-    background-color: #c1dc62;
+    background-color: #dd2e44;
     border: none;
     border-radius: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -41,9 +84,8 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
-    overflow: hidden;
 }
+
 .list-TyC{
     margin-top: 0;
     padding: 0;
@@ -51,7 +93,6 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
 }
 .list-QyS{
     margin-top: 0;
@@ -60,5 +101,4 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
 }

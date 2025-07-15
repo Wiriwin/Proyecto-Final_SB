@@ -21,13 +21,13 @@
     </div>
 
     <section class="botones">
-        <a href="CS1">
+        <a href="CS2">
             <button class="boton" id="L">
                 <img src="img\CS.png" class="boton-act" id="boton-act">
                 <p>Ciencias <br>Sociales</p>
             </button>
         </a>
-        <a href="Math">
+        <a href="Math2">
             <button class="boton" id="A">
                 <img src="img\Mate.png" class="boton-act2" id="boton-act">
                 <p class="p2">Matemáticas</p>
@@ -35,13 +35,13 @@
         </a>
     </section>
     <section class="botones2">
-        <a href="CN">
+        <a href="CN2">
             <button class="boton" id="J">
                 <img src="img\CN.png" class="boton-act3" id="boton-act">
                 <p class="p3">Ciencias <br>Naturales</p>
             </button>
         </a>
-        <a href="IE">
+        <a href="IE2">
             <button class="boton" id="D">
                 <img src="img\IE.png" class="boton-act4" id="boton-act">
                 <p class="p4">Idioma <br>Español</p>
@@ -55,7 +55,7 @@
         </div>
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
-            <li><a href="Actividades.php">Actividades</a></li><br>
+            <li><a href="Grados.php">Grados</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

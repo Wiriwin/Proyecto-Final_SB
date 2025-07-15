@@ -5,10 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\CS-style.css">
+    <link rel="Stylesheet" href="css\CS-styles.css">
     <title>Ciencias Sociales</title>
 </head>
 <body>
+    <img src="img\fondoCS.png" class="fondo">
+    <img src="img/earth.png" class="earth">
     
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
@@ -17,11 +19,10 @@
             <span class="bar-abrir"></span>
         </div>
     </header>
-    <img src="img\fondoCS.png" class="fondo">
-    <h1>Primero y Segundo</h1>
+
+    <h1>Ciencias Sociales</h1>
 
     <div class="grad">
-        <button class="grad_1-6">5 y 6</button>
             <ul class="list-QyS">
             <li>
                 <a><button>Historia de Guatemala</button></a>
@@ -44,8 +45,9 @@
             <span class="bar-cerrar2"></span>
         </div>
         <div class="LCAC">
-            <li><a href="Lecciones.php">Lecciones Divertidas</a></li><br>
-            <li><a href="Actividades.php">Actividades</a></li><br>
+            <li><a href="index.php">Inicio</a></li><br>
+            <li><a href="Grados.php">Grados</a></li><br>
+            <li><a href="Lecciones3.php">Lecciones</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

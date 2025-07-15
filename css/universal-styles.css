@@ -4,6 +4,12 @@ html, body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
 /*menu de hamburguesa*/
 .nav-list {
     background-color: #d4eaed;

@@ -1,15 +1,21 @@
 body{
-    background-color: #c3fffd;
-    overflow-x: hidden;
+    background-color: #9cd6e5;
 }
-.fondo{
-    position: absolute;
-    top: 7rem;
-}
-
 h1{
-    color: #4dacc4;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    margin: auto;
+    color:#006c56;
+    text-align: center;
 }
+.mas{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+}
+.por{}
+
+.div{}
 
 .grad{
     width: 70%;
@@ -27,7 +33,7 @@ button{
     height: auto;
     padding: 1rem;
     margin-bottom: 0.5rem;
-    background-color: #c1dc62;
+    background-color: #dd2e44;
     border: none;
     border-radius: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -41,9 +47,8 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
-    overflow: hidden;
 }
+
 .list-TyC{
     margin-top: 0;
     padding: 0;
@@ -51,7 +56,6 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
 }
 .list-QyS{
     margin-top: 0;
@@ -60,5 +64,4 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
 }

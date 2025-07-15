@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\Actividades-style.css">
-    <title>Actividades</title>
+    <link rel="Stylesheet" href="css\Lecciones-styles.css">
+    <title>Lecciones</title>
 </head>
 <body>
     <header>
@@ -16,10 +16,12 @@
             </div>
                 
     </header>
-    <h1>Actividades</h1>
+    <div class="title">
+        <h1>Lecciones</h1>
+    </div>
 
     <section class="botones">
-        <a href="CS">
+        <a href="CS1">
             <button class="boton" id="L">
                 <img src="img\CS.png" class="boton-act" id="boton-act">
                 <p>Ciencias <br>Sociales</p>
@@ -53,7 +55,7 @@
         </div>
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
-            <li><a href="Lecciones.php">Lecciones Divertidas</a></li><br>
+            <li><a href="Actividades.php">Actividades</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

@@ -5,10 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\Math.css">
-    <title>Matemáticas</title>
+    <link rel="Stylesheet" href="css\CS-style.css">
+    <title>Ciencias Sociales</title>
 </head>
 <body>
+    <img src="img\fondoCS.png" class="fondo">
+    
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>
@@ -16,28 +18,22 @@
             <span class="bar-abrir"></span>
         </div>
     </header>
-    <img src="img/mas.png" class="mas">
-    <img src="img/por.png" class="por">
-    <img src="img/div.png" class="div">
 
-    <h1>Matemáticas</h1>
+    <h1>Tercero y Cuarto</h1>
 
     <div class="grad">
-        <ul class="list-PyS">
-            <li class="list-inside">
-                <a><button>Partes de Una Fracción</button></a>
+            <ul class="list-TyC">
+            <li>
+                <a><button>El Municipio y La Provincia</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>Identificación de Conjuntos</button></a>
+            <li>
+                <a><button>Medios de Transporte y Comunicación</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>Figuras Geométricas</button></a>
+            <li>
+                <a><button>Historia y Geografía</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>La Recta Numérica</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Trazos De Líneas</button></a>
+            <li>
+                <a><button>Conquista de América</button></a>
             </li>
         </ul>
     </div>

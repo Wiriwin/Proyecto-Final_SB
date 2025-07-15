@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
     <link rel="Stylesheet" href="css\Math.css">
     <title>Matemáticas</title>
 </head>
@@ -16,13 +16,11 @@
             <span class="bar-abrir"></span>
         </div>
     </header>
-    <img src="img/mas.png" class="mas">
-    <img src="img/por.png" class="por">
-    <img src="img/div.png" class="div">
 
     <h1>Matemáticas</h1>
 
     <div class="grad">
+        <button class="grad_1-6">1 y 2</button>
         <ul class="list-PyS">
             <li class="list-inside">
                 <a><button>Partes de Una Fracción</button></a>
@@ -38,6 +36,48 @@
             </li>
             <li class="list-inside">
                 <a><button>Trazos De Líneas</button></a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="grad">
+        <button class="grad_1-6">3 y 4</button>
+            <ul class="list-TyC">
+            <li>
+                <a><button>Descripción del Universo</button></a>
+            </li>
+            <li>
+                <a><button>Animales Ovíparos y Vivíparos</button></a>
+            </li>
+            <li>
+                <a><button>Diferiencias Entre Boca, Trompa, Pico y Ocico</button></a>
+            </li>
+            <li>
+                <a><button>Seres Vivos Según su Forma de Locomoción</button></a>
+            </li>
+            <li>
+                <a><button>Estados de la Materia</button></a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="grad">
+        <button class="grad_1-6">5 y 6</button>
+            <ul class="list-QyS">
+            <li>
+                <a><button>Teoría de la Gran Explosión (Big Bang)</button></a>
+            </li>
+            <li>
+                <a><button>Organización Celular en los Tejidos</button></a>
+            </li>
+            <li>
+                <a><button>Principales Componentes del Tejido Sanguíneo</button></a>
+            </li>
+            <li>
+                <a><button>Reforestación y los Recursos Hídricos</button></a>
+            </li>
+            <li>
+                <a><button>Importancia del Uso de Plaguicidas</button></a>
             </li>
         </ul>
     </div>

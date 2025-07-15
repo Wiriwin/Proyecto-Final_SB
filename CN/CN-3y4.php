@@ -1,12 +1,11 @@
- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\Math.css">
-    <title>Matemáticas</title>
+    <link rel="Stylesheet" href="css\CN-style.css">
+    <title>Lecciones y Actividades</title>
 </head>
 <body>
     <header>
@@ -16,31 +15,24 @@
             <span class="bar-abrir"></span>
         </div>
     </header>
-    <img src="img/mas.png" class="mas">
-    <img src="img/por.png" class="por">
-    <img src="img/div.png" class="div">
 
-    <h1>Matemáticas</h1>
-
-    <div class="grad">
-        <ul class="list-PyS">
-            <li class="list-inside">
-                <a><button>Partes de Una Fracción</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Identificación de Conjuntos</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Figuras Geométricas</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>La Recta Numérica</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Trazos De Líneas</button></a>
-            </li>
-        </ul>
-    </div>
+    <ul class="list-TyC">
+        <li>
+            <a><button>Descripción del Universo</button></a>
+        </li>
+        <li>
+            <a><button>Animales Ovíparos y Vivíparos</button></a>
+        </li>
+        <li>
+            <a><button>Diferiencias Entre Boca, Trompa, Pico y Ocico</button></a>
+        </li>
+        <li>
+            <a><button>Seres Vivos Según su Forma de Locomoción</button></a>
+        </li>
+        <li>
+            <a><button>Estados de la Materia</button></a>
+        </li>
+    </ul>
     
     <div class="nav-list" id="nav-list">
         <div class="hamburger-cerrar" id="hamburger-cerrar">
@@ -48,6 +40,7 @@
             <span class="bar-cerrar2"></span>
         </div>
         <div class="LCAC">
+            <li><a href="index.php">Inicio</a></li><br>
             <li><a href="Lecciones.php">Lecciones Divertidas</a></li><br>
             <li><a href="Actividades.php">Actividades</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
@@ -56,5 +49,6 @@
     </div>
 
     <script src="js\script.js"></script>
+
 </body>
 </html>

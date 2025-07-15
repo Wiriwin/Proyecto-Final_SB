@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\index-style.css">
     <title>Sabiduria Chapina</title>
 </head>
@@ -42,6 +42,7 @@
             <span class="bar-cerrar2"></span>
         </div>
         <div class="LCAC">
+            <li><a href="Grados.php">Grados</a></li><br>
             <li><a href="Lecciones.php">Lecciones Divertidas</a></li><br>
             <li><a href="Actividades.php">Actividades</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>

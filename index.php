@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\index-style.css">
+    <link rel="Stylesheet" href="css\index-diseño.css">
     <title>Sabiduria Chapina</title>
 </head>
 <body>
@@ -32,8 +32,15 @@
 
         <img src="img\nube1.png" class="nubes4" id="nubes">
     </div>
-    <div class="fondo-cesped">
-        <img src="" class="cesped">
+
+    <div>
+        <imf src="img/maripLeft.png" class="maripLeft">
+        <imf src="img/maripRight.png" class="maripRight">
+    </div>
+    <div class="footer">
+        <img src="img/niños.png" class="niños">
+        <img src="img/cesped1.png" class="cesped2">
+        <img src="img/cesped1.png" class="cesped">
     </div>
 
     <div class="nav-list" id="nav-list">

@@ -4,16 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\Lecciones-styles.css">
+    <link rel="Stylesheet" href="css\Lecciones-style.css">
     <title>Lecciones</title>
 </head>
 <body>
+    <div>
+        <img src="img\maripLeft.png" class="maripLeft">
+        <img src="img\maripRight.png" class="maripRight">
+    </div>
+    
     <header>
-            <div class="hamburger-abrir" id="hamburger-abrir">
-                <span class="bar-abrir"></span>
-                <span class="bar-abrir"></span>
-                <span class="bar-abrir"></span>
-            </div>
+        <div class="hamburger-abrir" id="hamburger-abrir">
+            <span class="bar-abrir"></span>
+            <span class="bar-abrir"></span>
+            <span class="bar-abrir"></span>
+        </div>
                 
     </header>
     <div class="title">

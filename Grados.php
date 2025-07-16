@@ -3,11 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\Grados.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\Grados-style.css">
     <title>Grados</title>
 </head>
 <body>
+    <div>
+        <img src="img\maripLeft.png" class="maripLeft">
+        <img src="img\maripRight.png" class="maripRight">
+    </div>
+    
     <header>
             <div class="hamburger-abrir" id="hamburger-abrir">
                 <span class="bar-abrir"></span>
@@ -16,6 +21,7 @@
             </div>
                 
     </header>
+
     <div class="title">
         <h1>Grados</h1>
     </div>

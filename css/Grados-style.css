@@ -13,35 +13,36 @@ body{
 .boton {
     width: 70%;
     height: 11rem;
-    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
     border-radius: 30px;
-    border:none;
+    border-color: #ffffffc0;
     cursor: pointer;
 }
 
 h1{
-   color: #4dacc4; 
+   color: #4dacc4;
+   font-size: 50px;
 }
 
 #L {
-    background-color:#ffa64d; 
+    background-color: #5ce1e6; 
 }
 #L:hover{
-    background-color: #ffa64d;
+    background-color: #5ce1e6d2;
 }
 
 #A{
-    background-color: #dd2e44;
+    background-color: #ffd25e;
 }
 #A:hover{
-    background-color: #e7be57;
+    background-color: #ffd15edc;
 }
 
 #J{
-    background-color: #bacf6d;
+    background-color: #ffa64d;
 }
 #J:hover{
-    background-color: #e7be57;
+    background-color: #ee9a46;
 }
 
 p {
@@ -49,6 +50,18 @@ p {
     font-size: 35px;
     position: relative;
     color: white;
+}
+
+/*Fondo*/
+.maripLeft{
+    position: absolute;
+    width: 100%;
+    top: 21rem;
+}
+.maripRight{
+    position: absolute;
+    width: 100%;
+    top: 0rem;
 }
 
 

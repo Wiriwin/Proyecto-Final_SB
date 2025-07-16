@@ -13,8 +13,8 @@ body{
     cursor: pointer;
     width: 80px;
     height: 25px;
-    right: 20px;
-    top: 25px;
+    right: 8%;
+    top: 1.5rem;
     transition: background-color 0.3s ease;
 }
 .boton:hover{
@@ -25,13 +25,13 @@ body{
 
 /*diseño del fondo*/
 .arcoiris {
-    width: 70%;
-    height: 10rem;
+    width: 80%;
+    height: 11rem;
     position: absolute;
     display: flex;
     visibility: visible;
     top: 8rem;
-    left: 15%;
+    left: 10%;
     filter: brightness(1)
 }
 
@@ -41,7 +41,7 @@ body{
     position: absolute;
     width: 70%;
     height: 6rem;
-    left: -50%;
+    left: -55%;
     top: 7rem;
 }
 .nubes2{
@@ -58,7 +58,7 @@ body{
     width: 70%;
     height: 6rem;
     position: absolute;
-    right: -50%;
+    right: -40%;
     top: 17rem;
 }
 .nubes4{
@@ -67,8 +67,28 @@ body{
     width: 70%;
     height: 6rem;
     position: absolute;
-    left: -40%;
+    left: -50%;
     top: 17.5rem;
+}
+
+.niños{
+    align-items: center;
+    width: 95%;
+    position: relative;
+    top: 22rem;
+    left: 2%;
+}
+.cesped{
+    position: relative;
+    top: 20.5rem;
+    width: 120%;
+    height: 5.5rem;
+}
+.cesped2{
+    position: relative;
+    top: 21rem;
+    width: 120%;
+    height: 5.5rem;
 }
 
 

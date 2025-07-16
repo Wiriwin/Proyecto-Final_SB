@@ -1,6 +1,19 @@
 body{
     background-color: #d4eaed;
 }
+
+/*Fondo*/
+.maripLeft{
+    position: absolute;
+    width: 100%;
+    top: 24rem;
+}
+.maripRight{
+    position: absolute;
+    width: 100%;
+    top: 2rem;
+}
+
 .botones{
     position: absolute;
     left: 16.5%;

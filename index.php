@@ -4,11 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\index-diseño.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\index-style.css">
     <title>Sabiduria Chapina</title>
 </head>
 <body>
+    <img src="img\nube1.png" class="nubes" id="nubes">
+
     <header>
             <div class="hamburger-abrir" id="hamburger-abrir">
                 <span class="bar-abrir"></span>
@@ -24,8 +26,6 @@
     </section>
 
     <div class="fondo-nubes">
-        <img src="img\nube1.png" class="nubes" id="nubes">
-
         <img src="img\nube1.png" class="nubes2" id="nubes">
 
         <img src="img\nube1.png" class="nubes3" id="nubes">

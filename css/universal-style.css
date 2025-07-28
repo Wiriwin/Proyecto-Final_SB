@@ -89,21 +89,19 @@ h1{
     border-radius: 40px;
 }
 .nav-list {
-        padding: 1.8rem;
+        padding: 1rem;
 }
 .nav-list li a {
-        font-size: 16px;
+        font-size: 18px;
 }
 .bar-cerrar1 {
     width: 35px;
     height: 5px;
     top: 0.2rem;
-    left: 280%;
 }
 .bar-cerrar2 {
     width: 35px;
     height: 5px;
     top: 0.2rem;
-    left: 280%;
 }
 }

@@ -44,33 +44,19 @@ h1{
    font-size: 50px;
 }
 
-#L {
+#L{
     background-color:#ffa64d; 
 }
-#L:hover{
-    background-color: #ffa64d;
-}
-
 #A{
     background-color: #dd2e44;
 }
-#A:hover{
-    background-color: #e7be57;
-}
-
 #J{
     background-color: #bacf6d;
 }
-#J:hover{
-    background-color: #e7be57;
-}
-
 #D{
     background-color: #65a1b7;
 }
-#D:hover{
-    background-color: #ca2d42;
-}
+
 .boton-act {
     width: 85%;
     height: 9.2rem;
@@ -129,71 +115,93 @@ p {
 @media (min-width: 368px){
     
 h1{
-    margin-left: 30%;
+    font-size: 100px;
+    top: -5rem;
 }
 .boton {
-    width: 95%;
-    height: 20.5rem;
-    margin-top: 1rem;
+    width: 70%;
+    height: 20rem;
+    margin-bottom: 3rem;
     border-radius: 30px;
     border:none;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    text-align: center;
+}
+.botones{
+    text-align: center;
+    width: 50%;
+    top: 13rem;
+    left: 5%;
 }
 .botones2{
-    position: absolute;
-    left: 16.5%;
-    top: 50.5rem;
-    width: 70%;
-    height: 25rem;
+    text-align: center;
+    width: 50%;
+    top: 13rem;
+    left: 45%;
 }
 .boton-act {
-    width: 85%;
-    height: 18.4rem;
-    position: absolute;
-    left: 5%;
-    top: 2rem;
+    position: relative;
     border-radius: 20px;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: auto;
 }
 .boton-act2 {
-    width: 85%;
-    height: 18rem;
-    position: absolute;
-    left: 5%;
-    top: 24rem;
+    position: relative;
     border-radius: 20px;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: auto;
 }
 .boton-act3 {
-    width: 85%;
-    height: 18.4rem;
-    position: absolute;
-    left: 5%;
-    top: 2rem;
+    position: relative;
     border-radius: 20px;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: auto;
 }
 .boton-act4 {
-    width: 85%;
-    height: 18rem;
-    position: absolute;
-    left: 5%;
-    top: 24rem;
+    position: relative;
     border-radius: 20px;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: auto;
 }
 p {
     font-size: 60px;
-    right:26%;
-    top: 3rem;
+    left: 25%;
 }
 .p2{
-    top: 26.5rem;
-    right: 12%;
+    font-size: 60px;
+    left: 12%;
+    top: 28rem;
 }
 .p3{
-    top: 3rem;
-    right: 23%;
+    font-size: 60px;
+    left: 25%;
 }
 .p4{
-    top: 24rem;
-    right: 29%;
+    font-size: 60px;
+    left: 28%;
+    top: 27rem;
+}
+
+/*Fondo*/
+.maripLeft{
+    position: absolute;
+    width: 50%;
+    top: 8rem;
+    left: -5%;
+}
+.maripRight{
+    position: absolute;
+    width: 50%;
+    top: 0rem;
+    right: 0;
 }
 }

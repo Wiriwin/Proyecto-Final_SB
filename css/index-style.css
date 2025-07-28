@@ -104,33 +104,33 @@ body{
     transition: background-color 0.3s ease;
 }
 .arcoiris {
-    width: 65%;
-    height: 25rem;
+    width: 45%;
+    height: 20.5rem;
     position: absolute;
     display: flex;
     visibility: visible;
-    top: 6rem;
-    left: 17%;
+    top: 3rem;
+    left: 26%;
 }
 .nubes{
     position: absolute;
-    width: 30%;
-    height: 12rem;
-    top: 5rem;
+    width: 25%;
+    height: 10rem;
+    top: 3rem;
     left: -7%;
 }
 .nubes2{
     position: absolute;
-    width: 30%;
-    height: 12rem;
+    width: 25%;
+    height: 10rem;
     right: -12%;
-    top: 24rem;
+    top: 20rem;
     background-position: center;
 }
 .nubes3{
     position: absolute;
-    width: 30%;
-    height: 12rem;
+    width: 25%;
+    height: 10rem;
     top: 5rem;
     right: -7%;
     background-position: center;
@@ -138,8 +138,26 @@ body{
 .nubes4{
     position: absolute;
     left: -12%;
-    height: 12rem;
-    top: 24rem;
-    width: 30%;
+    height: 10rem;
+    top: 21rem;
+    width: 25%;
+}
+.niños{
+    width: 45%;
+    position: relative;
+    top: 17rem;
+    left: 27%;
+}
+.cesped{
+    position: relative;
+    top: 9.5rem;
+    width: 100%;
+    height: 5.5rem;
+}
+.cesped2{
+    position: relative;
+    top: 15.5rem;
+    width: 100%;
+    height: 5.5rem;
 }
 }

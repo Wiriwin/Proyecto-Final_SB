@@ -17,14 +17,14 @@ body{
 .botones{
     position: absolute;
     left: 16.5%;
-    top: 7rem;
+    top: 9rem;
     width: 70%;
     height: 25rem;
 }
 .botones2{
     position: absolute;
     left: 16.5%;
-    top: 31.5rem;
+    top: 33.5rem;
     width: 70%;
     height: 25rem;
 }
@@ -39,7 +39,9 @@ body{
 }
 
 h1{
-   color: #4dacc4; 
+   color: #4dacc4;
+   position: relative;
+   font-size: 50px;
 }
 
 #L {

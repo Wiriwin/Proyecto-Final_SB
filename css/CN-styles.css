@@ -1,0 +1,59 @@
+body{
+    background-color: #b5f6af;
+    overflow-x: hidden;
+}
+
+.fondo{
+    width: 140%;
+    position: absolute;
+    top: -5rem;
+    rotate: 20grad;
+    right: -5rem;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    margin: auto;
+    color: #dd2e44;
+    text-align: center;
+    position: relative;
+}
+
+button{
+    width: 80%;
+    height: auto;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    background-color: #006c56;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.list-PyS{
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.list-TyC{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+.list-QyS{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}

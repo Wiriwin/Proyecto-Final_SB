@@ -1,0 +1,145 @@
+body{
+    overflow-x: hidden;
+    background-color: #d4eaed;
+
+}
+.boton{
+    background-color: #ffa64d;
+    position: absolute;
+    font-size: 12px;
+    color: #ffff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    width: 80px;
+    height: 25px;
+    right: 8%;
+    top: 1.5rem;
+    transition: background-color 0.3s ease;
+}
+.boton:hover{
+    background-color: #ee9a46;
+
+}
+
+
+/*diseño del fondo*/
+.arcoiris {
+    width: 80%;
+    height: 11rem;
+    position: absolute;
+    display: flex;
+    visibility: visible;
+    top: 8rem;
+    left: 10%;
+    filter: brightness(1)
+}
+
+.nubes{
+    visibility: visible;
+    display: flex;
+    position: absolute;
+    width: 70%;
+    height: 6rem;
+    left: -55%;
+    top: 7rem;
+}
+.nubes2{
+    visibility: visible;
+    display: flex;
+    position: absolute;
+    width: 70%;
+    height: 6rem;
+    right: -50%;
+}
+.nubes3{
+    visibility: visible;
+    display: flex;
+    width: 70%;
+    height: 6rem;
+    position: absolute;
+    right: -40%;
+    top: 17rem;
+}
+.nubes4{
+    visibility: visible;
+    display: flex;
+    width: 70%;
+    height: 6rem;
+    position: absolute;
+    left: -50%;
+    top: 17.5rem;
+}
+
+.niños{
+    align-items: center;
+    width: 95%;
+    position: relative;
+    top: 22rem;
+    left: 2%;
+}
+.cesped{
+    position: relative;
+    top: 20.5rem;
+    width: 120%;
+    height: 5.5rem;
+}
+.cesped2{
+    position: relative;
+    top: 21rem;
+    width: 120%;
+    height: 5.5rem;
+}
+
+
+@media (min-width: 368px) {
+
+.boton{
+    font-size: 18px;
+    border-radius: 50px;
+    width: 130px;
+    height: 35px;
+    right: 3%;
+    top: 25px;
+    transition: background-color 0.3s ease;
+}
+.arcoiris {
+    width: 65%;
+    height: 25rem;
+    position: absolute;
+    display: flex;
+    visibility: visible;
+    top: 6rem;
+    left: 17%;
+}
+.nubes{
+    position: absolute;
+    width: 30%;
+    height: 12rem;
+    top: 5rem;
+    left: -7%;
+}
+.nubes2{
+    position: absolute;
+    width: 30%;
+    height: 12rem;
+    right: -12%;
+    top: 24rem;
+    background-position: center;
+}
+.nubes3{
+    position: absolute;
+    width: 30%;
+    height: 12rem;
+    top: 5rem;
+    right: -7%;
+    background-position: center;
+}
+.nubes4{
+    position: absolute;
+    left: -12%;
+    height: 12rem;
+    top: 24rem;
+    width: 30%;
+}
+}

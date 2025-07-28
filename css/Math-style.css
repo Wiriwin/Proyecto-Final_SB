@@ -1,0 +1,104 @@
+body{
+    background-color: #9cd6e5;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    margin: auto;
+    color:#006c56;
+    text-align: center;
+}
+.mas{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+    top: 0.5rem;
+    right: 5%;
+}
+.por{
+    position: absolute;
+    width: 22%;
+    height: 5rem;
+    top: 8rem;
+}
+
+.div{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+    right: 2%;
+    top: 18rem;
+}
+.Down{
+    position: relative;
+    top: 20rem;
+}
+.mas2{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+}
+.por2{
+    position: absolute;
+    width: 22%;
+    height: 5rem;
+    top: 7.5rem;
+    right: 5%;
+}
+
+.div2{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+    left: 2%;
+    top: 15rem;
+}
+
+.grad{
+    width: 70%;
+    text-align: center;
+    position: relative;
+    left: 15%;
+    top: 2rem;
+}
+.grad_1-6{
+    width: 100%;
+}
+
+button{
+    width: 95%;
+    height: auto;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    background-color: #dd2e44;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.list-PyS{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.list-TyC{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+.list-QyS{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\Actividades-style.css">
     <title>Actividades</title>
 </head>

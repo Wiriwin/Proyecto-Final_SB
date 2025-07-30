@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (empty($usuario)) {
         $error = "El nombre de usuario es requerido";
     } elseif (!preg_match('/^[a-zA-Z0-9_]{4,20}$/', $usuario)) {
-        $error = "El usuario debe tener entre 4-20 caracteres (solo letras, números y _)";
+        $error = "El usuario debe tener entre 4-20 caracteres (solo letras, números y otros)";
     } elseif (strlen($contrasena) < 8) {
         $error = "La contraseña debe tener al menos 8 caracteres";
     } elseif (!preg_match('/[A-Z]/', $contrasena) || !preg_match('/[0-9]/', $contrasena) || !preg_match('/[^a-zA-Z0-9]/', $contrasena)) {

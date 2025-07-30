@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\CN-styles.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\CN-style.css">
     <title>Lecciones y Actividades</title>
 </head>
 <body>
@@ -21,20 +21,22 @@
     <h1>Ciencias Naturales</h1>
 
     <ul class="list-PyS" id="list-PyS">
-        <li class="list-inside">
-            <a><button>Partes Externas del Cuerpo Humano</button></a>
+        <li class="list-inside1">
+            <a id="boton1"><button>Partes Externas del Cuerpo Humano</button></a>
         </li>
-        <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+        <li class="list-inside2">
+            <a id="boton2"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
-        <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+        <li class="list-inside3">
+            <a id="boton3"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
-        <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+    </ul>
+    <ul class="list-TyC">
+        <li class="list-inside4">
+            <a id="boton4"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
-        <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+        <li class="list-inside5">
+            <a id="boton5"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
     </ul>
     

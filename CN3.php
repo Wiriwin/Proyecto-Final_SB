@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\CN-styles.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\CN-style.css">
     <title>Lecciones y Actividades</title>
 </head>
 <body>
@@ -20,21 +20,23 @@
 
     <h1>Ciencias Naturales</h1>
 
-    <ul class="list-PyS">
-        <li>
-            <a><button>Teoría de la Gran Explosión (Big Bang)</button></a>
+    <ul class="list-PyS" id="list-PyS">
+        <li class="list-inside1">
+            <a id="boton1"><button>Teoría de la Gran Explosión (Big Bang)</button></a>
         </li>
-        <li>
-            <a><button>Organización Celular en los Tejidos</button></a>
+        <li class="list-inside2">
+            <a id="boton2"><button>Organización Celular en los Tejidos</button></a>
         </li>
-        <li>
-            <a><button>Principales Componentes del Tejido Sanguíneo</button></a>
+        <li class="list-inside3">
+            <a id="boton3"><button>Principales Componentes del Tejido Sanguíneo</button></a>
         </li>
-        <li>
-            <a><button>Reforestación y los Recursos Hídricos</button></a>
+    </ul>
+    <ul class="list-TyC">
+        <li class="list-inside4">
+            <a id="boton4"><button>Reforestación y los Recursos Hídricos</button></a>
         </li>
-        <li>
-            <a><button>Importancia del Uso de Plaguicidas</button></a>
+        <li class="list-inside5">
+            <a id="boton5"><button>Importancia del Uso de Plaguicidas</button></a>
         </li>
     </ul>
     

@@ -1,0 +1,137 @@
+body{
+    background-color: #b5f6af;
+    overflow-x: hidden;
+}
+
+.fondo{
+    width: 140%;
+    position: absolute;
+    top: -5rem;
+    rotate: 20grad;
+    right: -5rem;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    margin: auto;
+    color: #dd2e44;
+    text-align: center;
+    position: relative;
+}
+
+button{
+    width: 80%;
+    height: auto;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    background-color: #006c56;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.list-PyS{
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.list-TyC{
+    margin-top: -1rem;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+.list-QyS{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+@media (min-width: 368px){
+
+.fondo{
+    width: 55%;
+    top: -12rem;
+    rotate: 75grad;
+    right: 15%;
+}
+
+h1{
+    font-size: 90px;
+}
+
+button{
+    width: 90%;
+    height: auto;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    background-color: #006c56;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.list-PyS{
+    background-color: brown;
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    position: relative;
+}
+
+.list-TyC{
+    background-color: blueviolet;
+    margin-top: 17rem;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    position: relative;
+}
+.list-QyS{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+#boton1{
+    position: absolute;
+    top: 0%;
+    left: 5%;
+}
+#boton2{
+    position: absolute;
+    top: 0%;
+    left: 35%;
+}
+#boton3{
+    position: absolute;
+    top: 0%;
+    left: 65%;
+}
+#boton4{
+    position: absolute;
+    top: 0%;
+    left: 20%;
+}
+#boton5{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+}
+}

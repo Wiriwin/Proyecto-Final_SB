@@ -1,31 +1,42 @@
 body{
-    background-color: #b5f6af;
+    background-color: #9cd6e5;
     overflow-x: hidden;
 }
-
 .fondo{
-    width: 140%;
     position: absolute;
-    top: -5rem;
-    rotate: 20grad;
-    right: -5rem;
+    top: 2rem;
+    left: 5%;
+}
+.earth{
+    position: absolute;
+    width: 35%;
+    height: 7rem;
+    bottom: 5rem;
+    left: 10%;
 }
 
 h1{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 35px;
-    margin: auto;
-    color: #dd2e44;
-    text-align: center;
+    color: #4dacc4;
     position: relative;
 }
 
+.grad{
+    width: 70%;
+    text-align: center;
+    position: relative;
+    left: 15%;
+    top: 2rem;
+}
+.grad_1-6{
+    width: 100%;
+}
+
 button{
-    width: 80%;
+    width: 95%;
     height: auto;
     padding: 1rem;
     margin-bottom: 0.5rem;
-    background-color: #006c56;
+    background-color: #dd2e44;
     border: none;
     border-radius: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -33,14 +44,15 @@ button{
     color: white;
 }
 .list-PyS{
-    margin-top: 2rem;
+    margin-top: 0;
     padding: 0;
     list-style: none;
     text-align: center;
     width: 100%;
     position: relative;
+    display: block;
+    overflow: hidden;
 }
-
 .list-TyC{
     margin-top: 0;
     padding: 0;
@@ -48,6 +60,7 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
+    display: block;
 }
 .list-QyS{
     margin-top: 0;
@@ -56,4 +69,5 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
+    display: block;
 }

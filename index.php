@@ -59,36 +59,11 @@
 </html>
 
 <?php
-session_start();
+// session_start();
 
 // Verificar si el usuario está logueado
-if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
-    header("Location: login.php");
-    exit();
-}
+//if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
+//header("Location: login.php");
+//exit();
+//}
 ?>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\index-style.css">
-    <title>Sabiduria Chapina</title>
-</head>
-<body>
-    <header>
-            <div class="hamburger-abrir" id="hamburger-abrir">
-                <span class="bar-abrir"></span>
-                <span class="bar-abrir"></span>
-                <span class="bar-abrir"></span>
-            </div>
-                
-            <a href="logout.php"><button class="boton">Cerrar Sesión</button></a>
-    </header>
-
-    <section class="center">
-        <img src="img\arcoiris.png" class="arcoiris">
-        <h1>Bienvenido, <?php echo htmlspecialchars($_SESSION['user_name']); ?></h1>
-    </section>

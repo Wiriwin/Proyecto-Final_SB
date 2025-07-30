@@ -1,4 +1,4 @@
- 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +24,7 @@
     <div class="grad">
         <ul class="list-PyS">
             <li class="list-inside">
-                <a><button>Uso de Mayùsculas</button></a>
+                <a><button>Uso de Mayúsculas</button></a>
             </li>
             <li class="list-inside">
                 <a><button>Tipos de Silabas</button></a>
@@ -36,7 +36,7 @@
                 <a><button>Formación de Palabras</button></a>
             </li>
             <li class="list-inside">
-                <a><button>TRabalenguas y Rimas</button></a>
+                <a><button>Trabalenguas y Rimas</button></a>
             </li>
             <li class="list-inside">
                 <a><button>Uso del Punto</button></a>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\CN-styles.css">
+    <link rel="Stylesheet" href="css\CN-style.css">
     <title>Lecciones y Actividades</title>
 </head>
 <body>
@@ -22,19 +22,19 @@
 
     <ul class="list-PyS" id="list-PyS">
         <li class="list-inside">
-            <a><button>Partes Externas del Cuerpo Humano</button></a>
+            <a href="pdf/partes-externas.pdf" target="_blank"><button>Partes Externas del Cuerpo Humano</button></a>
         </li>
         <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+            <a href="pdf/partes-internas.pdf" target="_blank"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
         <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+            <a href="pdf/otro-documento.pdf" target="_blank"><button>Factores Bióticos y Abióticos</button></a>
         </li>
         <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+            <a href="pdf/ejemplo.pdf" target="_blank"><button>Sistema Respiratorio</button></a>
         </li>
         <li class="list-inside">
-            <a><button>Partes Internas del Cuerpo Humano</button></a>
+            <a href="pdf/.pdf" target="_blank"><button>Los Ecositemas</button></a>
         </li>
     </ul>
     
@@ -45,8 +45,8 @@
         </div>
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
-            <li><a href="Grados.php">Grados</a></li><br>
-            <li><a href="Lecciones1.php">Lecciones</a></li><br>
+            <li><a href="Grades.php">Grados</a></li><br>
+            <li><a href="Lessons1.php">Lecciones</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

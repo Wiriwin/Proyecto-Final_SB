@@ -1,8 +1,10 @@
-body{
-    overflow-x: hidden;
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
     background-color: #d4eaed;
-
 }
+
 .boton{
     background-color: #ffa64d;
     position: absolute;
@@ -21,7 +23,6 @@ body{
     background-color: #ee9a46;
 
 }
-
 
 /*diseño del fondo*/
 .arcoiris {
@@ -89,6 +90,21 @@ body{
     top: 21rem;
     width: 120%;
     height: 5.5rem;
+}
+.arcoiris {
+    width: 60%; /* Aumenta el porcentaje si quieres que ocupe más ancho */
+    height: auto; /* Mantiene la proporción original */
+    display: block;
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
+
+.titulo-bienvenida {
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 3rem;
+    color: #ff6600;
+    text-align: center;
+    margin-top: 4rem;
+    text-shadow: 1px 1px 2px #fff;
 }
 
 

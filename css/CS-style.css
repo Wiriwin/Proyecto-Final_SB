@@ -40,7 +40,7 @@ button{
     border: none;
     border-radius: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     color: white;
 }
 .list-PyS{
@@ -50,7 +50,6 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
     overflow: hidden;
 }
 .list-TyC{
@@ -60,7 +59,6 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
 }
 .list-QyS{
     margin-top: 0;
@@ -69,5 +67,63 @@ button{
     text-align: center;
     width: 100%;
     position: relative;
-    display: block;
+}
+
+@media (min-width: 368px){
+
+h1{
+    font-size: 90px;
+    top: -3rem;
+}
+.grad{
+    width: 100%;
+    position: relative;
+    left: 0;
+    top: 2rem;
+}
+
+button{
+    width: 60%;
+    height: auto;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: #c1dc62;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.list-PyS{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    left: 5%;
+}
+.list-TyC{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    right: 5%;
+}
+
+/*Diseño de Fondo*/
+.fondo{
+    top: 1rem;
+    left: 58.5%;
+    height: 44rem;
+}
+.earth{
+    width: auto;
+    height: 14rem;
+    bottom: 4rem;
+    left: 2%;
+}
 }

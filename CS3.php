@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\CS-styles.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\CS-style.css">
     <title>Ciencias Sociales</title>
 </head>
 <body>
@@ -23,13 +23,15 @@
     <h1>Ciencias Sociales</h1>
 
     <div class="grad">
-            <ul class="list-QyS">
+        <ul class="list-PyS">
             <li>
                 <a><button>Historia de Guatemala</button></a>
             </li>
             <li>
                 <a><button>Geografía</button></a>
             </li>
+        </ul>
+        <ul class="list-TyC">
             <li>
                 <a><button>Derechos y Deberes</button></a>
             </li>

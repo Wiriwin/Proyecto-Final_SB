@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
-    <link rel="Stylesheet" href="css\Lecciones-diseño.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\Lecciones-diseños.css">
     <title>Lecciones</title>
 </head>
 <body>
@@ -39,6 +39,7 @@
             </button>
         </a>
     </section>
+    
     <section class="botones2">
         <a href="CN1.php">
             <button class="boton" id="J">
@@ -53,6 +54,7 @@
             </button>
         </a>
     </section>
+
     <div class="nav-list" id="nav-list">
         <div class="hamburger-cerrar" id="hamburger-cerrar">
             <span class="bar-cerrar1"></span>

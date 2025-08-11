@@ -5,7 +5,7 @@ body{
 .fondo{
     position: absolute;
     top: 2rem;
-    left: -5%;
+    left: 5%;
 }
 .earth{
     position: absolute;
@@ -16,6 +16,11 @@ body{
 }
 
 h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    margin: auto;
+    color: #1c42eb;
+    text-align: center;
     color: #4dacc4;
     position: relative;
 }
@@ -70,4 +75,14 @@ button{
     width: 100%;
     position: relative;
     display: block;
+}
+
+.list-PyS button {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.list-PyS button:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); 
+    cursor: pointer; 
 }

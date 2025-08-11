@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
     <link rel="Stylesheet" href="css\CN-style.css">
     <title>Lecciones y Actividades</title>
 </head>
@@ -20,21 +21,23 @@
 
     <h1>Ciencias Naturales</h1>
 
-    <ul class="list-PyS">
-        <li>
-            <a><button>Descripción del Universo</button></a>
+    <ul class="list-PyS" id="list-PyS">
+        <li class="list-inside1">
+            <a id="boton1"><button>Partes Externas del Cuerpo Humano</button></a>
         </li>
-        <li>
-            <a><button>Animales Ovíparos y Vivíparos</button></a>
+        <li class="list-inside2">
+            <a id="boton2"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
-        <li>
-            <a><button>Diferiencias Entre Boca, Trompa, Pico y Ocico</button></a>
+        <li class="list-inside3">
+            <a id="boton3"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
-        <li>
-            <a><button>Seres Vivos Según su Forma de Locomoción</button></a>
+    </ul>
+    <ul class="list-TyC">
+        <li class="list-inside4">
+            <a id="boton4"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
-        <li>
-            <a><button>Estados de la Materia</button></a>
+        <li class="list-inside5">
+            <a id="boton5"><button>Partes Internas del Cuerpo Humano</button></a>
         </li>
     </ul>
     

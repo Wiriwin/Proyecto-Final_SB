@@ -59,7 +59,7 @@
 </html>
 
 <?php
-session_start();
+// session_start();
 
 // Verificar si el usuario está logueado
 if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
@@ -72,3 +72,6 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
     <section class="center">
        <h1 class="titulo-bienvenida">Bienvenido, <?php echo htmlspecialchars($_SESSION['user_name']); ?></h1>
     </section>
+
+
+

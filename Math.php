@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\Math-style.css">
+    <link rel="Stylesheet" href="css\Math-diseño.css">
     <title>Matemáticas</title>
 </head>
 <body>
@@ -30,21 +30,23 @@
     <h1>Matemáticas</h1>
 
     <div class="grad">
-        <ul class="list-PyS">
-            <li class="list-inside">
-                <a><button>Partes de Una Fracción</button></a>
+        <ul class="list-PyS" id="list-PyS">
+            <li class="list-inside1">
+                <a id="boton1"><button>Partes de Una Fracción</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>Identificación de Conjuntos</button></a>
+            <li class="list-inside2">
+                <a id="boton2"><button>Identificación de Conjuntos</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>Figuras Geométricas</button></a>
+            <li class="list-inside3">
+                <a id="boton3"><button>Figuras Geométricas</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>La Recta Numérica</button></a>
+        </ul>
+        <ul class="list-TyC">
+            <li class="list-inside4">
+                <a id="boton4"><button>La Recta Numérica</button></a>
             </li>
-            <li class="list-inside">
-                <a><button>Trazos De Líneas</button></a>
+            <li class="list-inside5">
+                <a id="boton5"><button>Trazos De Líneas</button></a>
             </li>
         </ul>
     </div>

@@ -102,3 +102,98 @@ button{
     width: 100%;
     position: relative;
 }
+
+@media (min-width: 368px){
+
+h1{
+    font-size: 90px;
+}
+
+    /*Diseño de Fondo*/
+.mas{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    top: 1rem;
+    right: 15%;
+}
+.por{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    top: 8rem;
+    left: 10%;
+}
+
+.div{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    right: 30%;
+    top: 18rem;
+}
+.Down{
+    position: relative;
+    top: 20rem;
+}
+.mas2{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    left: 20%;
+}
+.por2{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    top: 9rem;
+    right: 15%;
+}
+
+.div2{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    left: 10%;
+    top: 16rem;
+}
+
+button{
+    width: 60%;
+    height: auto;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    background-color: #006c56;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.list-PyS{
+    background-color: brown;
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    position: relative;
+}
+
+.list-TyC{
+    background-color: blueviolet;
+    margin-top: 17rem;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    position: relative;
+}
+.list-QyS{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+}

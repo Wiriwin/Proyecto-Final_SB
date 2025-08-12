@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
     <link rel="Stylesheet" href="css\Math-style.css">
     <title>Matemáticas</title>
 </head>
@@ -27,26 +27,31 @@
         <img src="img/div.png" class="div2">
     </div>
 
-    <h1>Matemáticas</h1>
+    <h1 class="titulo">Matemáticas</h1>
 
-    <div class="grad">
-            <ul class="list-TyC">
-            <li>
-                <a><button>Concepto de los Angulos</button></a>
-            </li>
-            <li>
-                <a><button>La Suma</button></a>
-            </li>
-            <li>
-                <a><button>La Resta</button></a>
-            </li>
-            <li>
-                <a><button>La Mutiplicación</button></a>
-            </li>
-            <li>
-                <a><button>Números Romanos</button></a>
-            </li>
-        </ul>
+    <div class="block1">
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+    </div>
+    <div class="block1">
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+    </div>
+    <div class="block1">
+        <div></div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div></div>
+    </div>
+
+    <div>
+        <div class="botonextra">
+            <a href="#" class="tema" style="text-decoration: none;">Actividades</a>
+        </div>
     </div>
 
     <div class="nav-list" id="nav-list">

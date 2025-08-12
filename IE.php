@@ -1,15 +1,16 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Stylesheet" href="css\IE-styles.css">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\IE-diseño.css">
     <title>Comunicación y Lenguaje</title>
 </head>
 <body>
+
     <img src="img/fondoIE.png" class="fondo">
+    <img src="img/fondoIE.png" class="fondo2">
 
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
@@ -19,43 +20,33 @@
         </div>
     </header>
 
-    <h1>Comunicación y Lenguaje</h1>
+    <h1 class="titulo">Comunicación y Lenguaje</h1>
 
-    <div class="grad">
-        <ul class="list-PyS">
-            <li class="list-inside">
-                <a><button>Uso de Mayúsculas</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Tipos de Silabas</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Adjetivos Calificativos</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Formación de Palabras</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Trabalenguas y Rimas</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Uso del Punto</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Separación de Silabas</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Diminutivo y Aumentativo</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Oraciones Exclamativas</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Oraciones Interrogativas</button></a>
-            </li>
-        </ul>
+    <div class="block1">
+        <div class="tema">Uso de Mayúsculas</div>
+        <div class="tema">Tipos de Silabas</div>
+        <div class="tema">Adjetivos Calificativos</div>
+        <div class="tema">Formación de Palabras</div>
     </div>
-    
+    <div class="block1">
+        <div class="tema">Trabalenguas y Rimas</div>
+        <div class="tema">Uso del Punto</div>
+        <div class="tema">Separación de Silabas</div>
+        <div class="tema">Diminutivo y Aumentativo</div>
+    </div>
+    <div class="block1">
+        <div></div>
+        <div class="tema">Oraciones Exclamativas</div>
+        <div class="tema">Oraciones Interrogativas</div>
+        <div></div>
+    </div>
+
+    <div>
+        <div class="botonextra">
+            <a href="#" class="tema" style="text-decoration: none;">Actividades</a>
+        </div>
+    </div>
+
     <div class="nav-list" id="nav-list">
         <div class="hamburger-cerrar" id="hamburger-cerrar">
             <span class="bar-cerrar1"></span>
@@ -70,6 +61,6 @@
         </div>
     </div>
 
-    <script src="js\script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>

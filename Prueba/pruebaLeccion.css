@@ -112,7 +112,7 @@ p {
     right: 29%;
 }
 
-@media (min-width: 368px){
+@media (min-width: 768px){
     
 h1{
     font-size: 100px;

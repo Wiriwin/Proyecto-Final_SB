@@ -1,15 +1,16 @@
- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\IE-styles.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
     <title>Comunicación y Lenguaje</title>
 </head>
 <body>
+
     <img src="img/fondoIE.png" class="fondo">
+    <img src="img/fondoIE.png" class="fondo2">
 
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
@@ -19,43 +20,33 @@
         </div>
     </header>
 
-    <h1>Comunicación y Lenguaje</h1>
+    <h1 class="titulo">Comunicación y Lenguaje</h1>
 
-    <div class="grad">
-        <ul class="list-PyS">
-            <li class="list-inside">
-                <a><button>Silabas tónicas</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Silabas átona</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Palabras agudas, graves y esdrújulas.</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Campos semánticos</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Ideas principales</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Ideas secundarias</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Conjunciones</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Prefijos</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Sufijos</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Palabras homófonas y homógrafas</button></a>
-            </li>
-        </ul>
+    <div class="block1">
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
     </div>
-    
+    <div class="block1">
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+    </div>
+    <div class="block1">
+        <div></div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div></div>
+    </div>
+
+    <div>
+        <div class="botonextra">
+            <a href="#" class="tema" style="text-decoration: none;">Actividades</a>
+        </div>
+    </div>
+
     <div class="nav-list" id="nav-list">
         <div class="hamburger-cerrar" id="hamburger-cerrar">
             <span class="bar-cerrar1"></span>
@@ -70,6 +61,6 @@
         </div>
     </div>
 
-    <script src="js\script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>

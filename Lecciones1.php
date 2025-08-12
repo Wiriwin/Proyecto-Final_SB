@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\Lecciones-diseños.css">
+    <link rel="Stylesheet" href="css\Lecciones-styles.css">
     <title>Lecciones</title>
 </head>
 <body>
@@ -26,7 +26,7 @@
     </div>
 
     <section class="botones">
-        <a href="CS1">
+        <a href="CS">
             <button class="boton" id="L">
                 <img src="img\CS.png" class="boton-act" id="boton-act">
                 <p>Ciencias <br>Sociales</p>

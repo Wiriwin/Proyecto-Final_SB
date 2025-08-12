@@ -1,15 +1,16 @@
- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\IE-styles.css">
+    <link rel="Stylesheet" href="css\universal-style.css">
     <title>Comunicación y Lenguaje</title>
 </head>
 <body>
+
     <img src="img/fondoIE.png" class="fondo">
+    <img src="img/fondoIE.png" class="fondo2">
 
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
@@ -19,43 +20,33 @@
         </div>
     </header>
 
-    <h1>Comunicación y Lenguaje</h1>
+    <h1 class="titulo">Comunicación y Lenguaje</h1>
 
-    <div class="grad">
-        <ul class="list-PyS">
-            <li class="list-inside">
-                <a><button>Lectura de dígrafos</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Diptongo</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Triptongo</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Singular y plural</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Sinonimos y antonimos</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Sustanvivo</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Predicado</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Verbo</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Oraciones</button></a>
-            </li>
-            <li class="list-inside">
-                <a><button>Textos informativos</button></a>
-            </li>
-        </ul>
+    <div class="block1">
+        <div class="tema">Lectura de Díagrafos</div>
+        <div class="tema">Diptongo</div>
+        <div class="tema">Triptongos</div>
+        <div class="tema">Singular y Plurar</div>
     </div>
-    
+    <div class="block1">
+        <div class="tema">Sinonimos y Antonimos</div>
+        <div class="tema">Sustantivos</div>
+        <div class="tema">Predicado</div>
+        <div class="tema">Verbo</div>
+    </div>
+    <div class="block1">
+        <div></div>
+        <div class="tema">Oraciones</div>
+        <div class="tema">Textos Informativos</div>
+        <div></div>
+    </div>
+
+    <div>
+        <div class="botonextra">
+            <a href="#" class="tema" style="text-decoration: none;">Actividades</a>
+        </div>
+    </div>
+
     <div class="nav-list" id="nav-list">
         <div class="hamburger-cerrar" id="hamburger-cerrar">
             <span class="bar-cerrar1"></span>
@@ -70,6 +61,6 @@
         </div>
     </div>
 
-    <script src="js\script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>

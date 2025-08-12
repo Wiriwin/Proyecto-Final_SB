@@ -1,13 +1,9 @@
 body{
     background-color: #9cd6e5;
+    overflow-x: hidden;
 }
-h1{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 40px;
-    margin: auto;
-    color:#006c56;
-    text-align: center;
-}
+
+    /*Fondo*/
 .mas{
     position: absolute;
     width: 24%;
@@ -54,59 +50,81 @@ h1{
     top: 15rem;
 }
 
-.grad{
-    width: 70%;
+.titulo{
+    color: #006c56;
     text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
     position: relative;
-    left: 15%;
-    top: 2rem;
-}
-.grad_1-6{
-    width: 100%;
 }
 
-button{
-    width: 95%;
+.tema{
+    background-color: #dd2e44;
+    width: auto;
     height: auto;
     padding: 1rem;
-    margin-bottom: 0.5rem;
-    background-color: #dd2e44;
-    border: none;
+    margin: 0.5rem;
     border-radius: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
-}
-.list-PyS{
-    margin-top: 0;
-    padding: 0;
-    list-style: none;
     text-align: center;
-    width: 100%;
+}
+.botonextra{
+    text-align: center;
     position: relative;
+    top: 1.5rem;
 }
 
-.list-TyC{
-    margin-top: 0;
-    padding: 0;
-    list-style: none;
-    text-align: center;
-    width: 100%;
+.block1{
     position: relative;
+    margin: auto;
+    width: 80%;
 }
-.list-QyS{
-    margin-top: 0;
-    padding: 0;
-    list-style: none;
-    text-align: center;
-    width: 100%;
+.block2{
     position: relative;
+    margin: auto;
+    width: 80%;
 }
 
 @media (min-width: 368px){
 
-h1{
-    font-size: 90px;
+.tema{
+    width: 20%;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.botonextra{
+    width: 99%;
+    position: relative;
+    top: 5rem;
+    text-align: end;
+}
+
+.titulo{
+    font-size: 80px;
+}
+
+.block1 {
+  position: relative;
+  padding: 0.5rem;
+  width: 95%;  
+  height: auto;  
+  display: flex;
+  justify-content: space-between; /* distribuye espacio entre items */
+  align-items:flex-start; /* alinea en el eje transversal */
+}
+.block2{
+  position: relative;
+  padding: 0.5rem;
+  width: 100%;  
+  height: auto;  
+  display: flex;
+  justify-content: space-between; /* distribuye espacio entre items */
+  align-items:flex-start; /* alinea en el eje transversal */
 }
 
     /*Diseño de Fondo*/
@@ -124,7 +142,6 @@ h1{
     top: 8rem;
     left: 10%;
 }
-
 .div{
     position: absolute;
     width: 10%;
@@ -157,43 +174,9 @@ h1{
     left: 10%;
     top: 16rem;
 }
-
-button{
-    width: 60%;
-    height: auto;
-    padding: 1rem;
-    margin-bottom: 0.5rem;
-    background-color: #006c56;
-    border: none;
-    border-radius: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
-    color: white;
 }
 
-.list-PyS{
-    background-color: brown;
-    margin-top: 2rem;
-    padding: 0;
-    list-style: none;
-    width: 100%;
-    position: relative;
-}
-
-.list-TyC{
-    background-color: blueviolet;
-    margin-top: 17rem;
-    padding: 0;
-    list-style: none;
-    width: 100%;
-    position: relative;
-}
-.list-QyS{
-    margin-top: 0;
-    padding: 0;
-    list-style: none;
-    text-align: center;
-    width: 100%;
-    position: relative;
-}
-}
+/* Colores
+titulo #006c56
+boton #dd2e44
+*/

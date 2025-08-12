@@ -1,0 +1,207 @@
+body{
+    background-color: #d4eaed;
+}
+
+/*Fondo*/
+.maripLeft{
+    position: absolute;
+    width: 100%;
+    top: 24rem;
+}
+.maripRight{
+    position: absolute;
+    width: 100%;
+    top: 2rem;
+}
+
+.botones{
+    position: absolute;
+    left: 16.5%;
+    top: 9rem;
+    width: 70%;
+    height: 25rem;
+}
+.botones2{
+    position: absolute;
+    left: 16.5%;
+    top: 33.5rem;
+    width: 70%;
+    height: 25rem;
+}
+.boton {
+    width: 95%;
+    height: 11rem;
+    margin-top: 1rem;
+    border-radius: 30px;
+    border:none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+h1{
+   color: #4dacc4;
+   position: relative;
+   font-size: 50px;
+}
+
+#L{
+    background-color:#ffa64d; 
+}
+#A{
+    background-color: #dd2e44;
+}
+#J{
+    background-color: #bacf6d;
+}
+#D{
+    background-color: #65a1b7;
+}
+
+.boton-act {
+    width: 85%;
+    height: 9.2rem;
+    position: absolute;
+    left: 5%;
+    top: 1.9rem;
+    border-radius: 20px;
+}
+.boton-act2 {
+    width: 85%;
+    height: 9.2rem;
+    position: absolute;
+    left: 5%;
+    top: 14rem;
+    border-radius: 20px;
+}
+.boton-act3 {
+    width: 85%;
+    height: 9.2rem;
+    position: absolute;
+    left: 5%;
+    top: 1.9rem;
+    border-radius: 20px;
+}
+.boton-act4 {
+    width: 85%;
+    height: 9.2rem;
+    position: absolute;
+    left: 5%;
+    top: 14rem;
+    border-radius: 20px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    position: absolute;
+    color: white;
+    right:26%;
+    top: 1.5rem;
+}
+
+.p2{
+    top: 15rem;
+    right: 12%;
+}
+.p3{
+    top: 1.5rem;
+    right: 23%;
+}
+.p4{
+    top: 13.5rem;
+    right: 29%;
+}
+
+@media (min-width: 768px){
+    
+h1{
+    font-size: 100px;
+    top: -5rem;
+}
+.boton {
+    width: 70%;
+    height: 20rem;
+    margin-bottom: 3rem;
+    border-radius: 30px;
+    border:none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+.botones{
+    text-align: center;
+    width: 50%;
+    top: 13rem;
+    left: 5%;
+}
+.botones2{
+    text-align: center;
+    width: 50%;
+    top: 13rem;
+    left: 45%;
+}
+.boton-act {
+    position: relative;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: auto;
+}
+.boton-act2 {
+    position: relative;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: auto;
+}
+.boton-act3 {
+    position: relative;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: auto;
+}
+.boton-act4 {
+    position: relative;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+    width: auto;
+    height: auto;
+}
+p {
+    font-size: 60px;
+    left: 25%;
+}
+.p2{
+    font-size: 60px;
+    left: 12%;
+    top: 28rem;
+}
+.p3{
+    font-size: 60px;
+    left: 25%;
+}
+.p4{
+    font-size: 60px;
+    left: 28%;
+    top: 27rem;
+}
+
+/*Fondo*/
+.maripLeft{
+    position: absolute;
+    width: 50%;
+    top: 8rem;
+    left: -5%;
+}
+.maripRight{
+    position: absolute;
+    width: 50%;
+    top: 0rem;
+    right: 0;
+}
+}

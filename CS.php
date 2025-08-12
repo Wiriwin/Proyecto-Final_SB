@@ -5,10 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\Math-style.css">
-    <title>Matemáticas</title>
+    <link rel="Stylesheet" href="css\CS-diseño.css">
+    <title>Ciencias Sociales</title>
 </head>
 <body>
+    <img src="img\fondoCS.png" class="fondo">
+    <img src="img/earth.png" class="earth">
+    
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>
@@ -16,18 +19,8 @@
             <span class="bar-abrir"></span>
         </div>
     </header>
-    <div class="up">
-        <img src="img/mas.png" class="mas">
-        <img src="img/por.png" class="por">
-        <img src="img/div.png" class="div">
-    </div>
-    <div class="Down">
-        <img src="img/mas.png" class="mas2">
-        <img src="img/por.png" class="por2">
-        <img src="img/div.png" class="div2">
-    </div>
 
-    <h1 class="titulo">Matemáticas</h1>
+    <h1 class="titulo">Ciencias Sociales</h1>
 
     <div class="block1">
         <div class="tema">Tema</div>
@@ -62,7 +55,7 @@
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
             <li><a href="Grados.php">Grados</a></li><br>
-            <li><a href="Lecciones3.php">Lecciones</a></li><br>
+            <li><a href="Lecciones1.php">Lecciones</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

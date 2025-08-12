@@ -1,8 +1,20 @@
-html, body{
-    background-color: #9cd6e5;
-    margin: 0;
-    padding: 0;
+body{
+    background-color: #c3fffd;
+    overflow-x: hidden;
 }
+.fondo{
+    position: absolute;
+    top: 2rem;
+    left: -5%;
+}
+.earth{
+    position: absolute;
+    width: 35%;
+    height: 7rem;
+    bottom: 5rem;
+    left: 10%;
+}
+
 .titulo{
     color: #4dacc4;
     text-align: center;
@@ -12,7 +24,7 @@ html, body{
 }
 
 .tema{
-    background-color: #dd2e44;
+    background-color: #c1dc62;
     width: auto;
     height: auto;
     padding: 1rem;
@@ -24,9 +36,9 @@ html, body{
     text-align: center;
 }
 .botonextra{
-    width: 2rem;
     position: relative;
     top: 1.5rem;
+    text-align: center;
 }
 
 .block1{
@@ -40,21 +52,7 @@ html, body{
     width: 80%;
 }
 
-/*Fondo*/
-.fondo{
-    position: absolute;
-    top: 2rem;
-    left: 5%;
-}
-.fondo2{
-    position: absolute;
-    visibility: hidden;
-    top: 2rem;
-    left: 5%;
-}
-
-
-@media (min-width: 368px){
+@media (min-width: 868px){
 
 .tema{
     width: 20%;
@@ -94,18 +92,21 @@ html, body{
   align-items:flex-start; /* alinea en el eje transversal */
 }
 
-    /*Fondo*/
+/*Diseño de Fondo*/
 .fondo{
-    position: absolute;
-    top: 2rem;
-    left: 5%;
-    height: 15rem;
+    top: 1rem;
+    left: 58.5%;
+    height: 44rem;
+}
+.earth{
     width: auto;
-}
-.fondo2{
-    position: absolute;
-    visibility: visible;
-    top: 30rem;
-    left: 75%;
+    height: 14rem;
+    bottom: 4rem;
+    left: 2%;
 }
 }
+
+/* Colores
+titulo color: #4dacc4;
+boton #c1dc62
+*/

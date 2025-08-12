@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\CS-style.css">
+    <link rel="Stylesheet" href="css\CS-diseño.css">
     <title>Ciencias Sociales</title>
 </head>
 <body>
@@ -22,23 +22,29 @@
 
     <h1>Ciencias Sociales</h1>
 
-    <div class="grad">
-        <ul class="list-PyS">
-            <li>
-                <a><button>Historia de Guatemala</button></a>
-            </li>
-            <li>
-                <a><button>Geografía</button></a>
-            </li>
-        </ul>
-        <ul class="list-TyC">
-            <li>
-                <a><button>Derechos y Deberes</button></a>
-            </li>
-            <li>
-                <a><button>Economía</button></a>
-            </li>
-        </ul>
+    <div class="block1">
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+    </div>
+    <div class="block1">
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+    </div>
+    <div class="block1">
+        <div></div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div></div>
+    </div>
+
+    <div>
+        <div class="botonextra">
+            <a href="#" class="tema" style="text-decoration: none;">Actividades</a>
+        </div>
     </div>
     
     <div class="nav-list" id="nav-list">

@@ -13,7 +13,11 @@
             <div class="caret"></div>
         </div>
         <ul class="menu">
+<<<<<<< HEAD
             <li><a href="Leccioes1.php">Lecciones</a></li>
+=======
+            <li><a href="Lecciones1.php">Lecciones</a></li>
+>>>>>>> f2c48619ccb5fde6161a26b04994a176affdcb6e
             <li><a>Actividades</a></li>
         </ul>
     </div>

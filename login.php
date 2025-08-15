@@ -1,18 +1,20 @@
 <?php
+// Iniciar el búfer de salida para evitar problemas con las cabeceras
+ob_start();
 session_start();
 require_once 'includes/config.php';
 
 // Si el usuario ya está logueado, redirigir al index
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true) {
-    header("Location: index.php");
+    header("Location:http://localhost//sabiduria-chapina/index.php"); // Usar URL absoluta para mayor compatibilidad
     exit();
 }
 
 $error = '';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $usuario = trim($_POST['usuario']);
-    $contrasena = trim($_POST['contrasena']);
+    $usuario = trim($_POST['usuario'] ?? '');
+    $contrasena = trim($_POST['contrasena'] ?? '');
 
     // Validaciones básicas
     if (empty($usuario)) {
@@ -21,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $error = "La contraseña es obligatoria";
     } else {
         try {
-            // Buscar usuario en la base de datos (sin cerrar la conexión)
+            // Buscar usuario en la base de datos
             $stmt = $conn->prepare("SELECT ID, Usuario, Contraseña, TipoCuenta FROM usuarios WHERE Usuario = ?");
             $stmt->bind_param("s", $usuario);
             $stmt->execute();
@@ -36,15 +38,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     
                     // Iniciar sesión
                     $_SESSION['user_id'] = $user['ID'];
-                    $_SESSION['user_name'] = htmlspecialchars($user['Usuario'], ENT_QUOTES);
+                    $_SESSION['user_name'] = htmlspecialchars($user['Usuario'], ENT_QUOTES, 'UTF-8');
                     $_SESSION['user_type'] = $user['TipoCuenta'];
                     $_SESSION['loggedin'] = true;
                     
-                    // Cerrar statement pero NO la conexión
+                    // Cerrar statement
                     $stmt->close();
                     
                     // Redirigir al index
-                    header("Location: index.php");
+                    header("Location:http://localhost/sabiduria-chapina/index.php"); // Usar URL absoluta
                     exit();
                 } else {
                     $error = "Credenciales incorrectas";
@@ -54,15 +56,20 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             }
             
             // Cerrar statement si no se ha cerrado
-            if (isset($stmt)) $stmt->close();
+            if (isset($stmt)) {
+                $stmt->close();
+            }
             
         } catch (Exception $e) {
-            $error = "Error en el sistema. Por favor intente más tarde.";
+            $error = "Error en el sistema. Por favor intenta de nuevo más tarde.";
             error_log("Error en login: " . $e->getMessage());
         }
     }
-    // No cerramos $conn aquí para que permanezca abierta
+    // No cerramos $conn intencionalmente para mantener la conexión abierta si es necesario
 }
+
+// Liberar el búfer de salida
+ob_end_flush();
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -77,17 +84,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <h1>Iniciar Sesión</h1>
         
         <?php if (!empty($error)): ?>
-            <div class="alert error"><?php echo htmlspecialchars($error, ENT_QUOTES); ?></div>
+            <div class="alert error"><?php echo htmlspecialchars($error, ENT_QUOTES, 'UTF-8'); ?></div>
         <?php endif; ?>
         
-        <form method="POST" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" autocomplete="off">
-         <div class="form-group">
-    <label for="usuario">Usuario:</label>
-    <input type="text" id="usuario" name="usuario" value="<?php 
-        echo isset($_POST['usuario']) ? htmlspecialchars($_POST['usuario'], ENT_QUOTES) : 
-        (isset($_GET['usuario']) ? htmlspecialchars($_GET['usuario'], ENT_QUOTES) : ''); 
-    ?>" required autofocus>
-</div>
+        <form method="POST" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF'], ENT_QUOTES, 'UTF-8'); ?>" autocomplete="off">
+            <div class="form-group">
+                <label for="usuario">Usuario:</label>
+                <input type="text" id="usuario" name="usuario" value="<?php 
+                    echo isset($_POST['usuario']) ? htmlspecialchars($_POST['usuario'], ENT_QUOTES, 'UTF-8') : 
+                    (isset($_GET['usuario']) ? htmlspecialchars($_GET['usuario'], ENT_QUOTES, 'UTF-8') : ''); 
+                ?>" required autofocus>
+            </div>
             
             <div class="form-group">
                 <label for="contrasena">Contraseña:</label>

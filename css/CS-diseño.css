@@ -1,3 +1,21 @@
+.list-PyS button {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.list-PyS button:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); 
+    cursor: pointer; 
+}
+.list-TyC button {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.list-TyC button:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); 
+    cursor: pointer; 
+}
 body{
     background-color: #c3fffd;
     overflow-x: hidden;

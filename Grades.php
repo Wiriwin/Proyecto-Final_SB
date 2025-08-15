@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\Grados-diseño.css">
+    <link rel="Stylesheet" href="css\Grades-design.css">
     <title>Grados</title>
 </head>
 <body>
@@ -27,19 +27,19 @@
     </div>
 
     <section class="botones">
-        <a href="Lecciones1.php">
+        <a href="Lessons1.php">
             <button class="boton" id="L">
                 <p>Primer y Segundo Grado</p>
             </button>
         </a>
-        <a href="Lecciones2.php">
+        <a href="Lessons2.php">
             <button class="boton" id="A">
                 <p class="p2">Tercer y Cuarto Grado</p>
             </button>
         </a>
     </section>
     <section class="botones2">
-        <a href="Lecciones3.php">
+        <a href="Lessons3.php">
             <button class="boton" id="J">
                 <p class="p3">Quinto y Sexto Grado</p>
             </button>

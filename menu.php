@@ -13,7 +13,7 @@
             <div class="caret"></div>
         </div>
         <ul class="menu">
-            <li><a href="Lessons1.php">Lecciones</a></li>
+            <li><a href="Lecciones1.php">Lecciones</a></li>
             <li><a>Actividades</a></li>
         </ul>
     </div>
@@ -23,7 +23,7 @@
             <div class="caret"></div>
         </div>
         <ul class="menu">
-            <li><a href="Lessons1.php">Lecciones</a></li>
+            <li><a href="Lecciones1.php">Lecciones</a></li>
             <li><a>Actividades</a></li>
         </ul>
     </div>

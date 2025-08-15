@@ -63,8 +63,8 @@
         </div>
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
-            <li><a href="Grades.php">Grados</a></li><br>
-            <li><a href="Lessons1.php">Lecciones</a></li><br>
+            <li><a href="Grados.php">Grados</a></li><br>
+            <li><a href="Lecciones.php">Lecciones</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

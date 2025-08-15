@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\Grades-design.css">
-    <title>Grados</title>
+    <link rel="Stylesheet" href="css\Lecciones-styles.css">
+    <title>Lecciones</title>
 </head>
 <body>
     <div>
@@ -14,34 +14,42 @@
     </div>
 
     <header>
-            <div class="hamburger-abrir" id="hamburger-abrir">
-                <span class="bar-abrir"></span>
-                <span class="bar-abrir"></span>
-                <span class="bar-abrir"></span>
-            </div>
+        <div class="hamburger-abrir" id="hamburger-abrir">
+            <span class="bar-abrir"></span>
+            <span class="bar-abrir"></span>
+            <span class="bar-abrir"></span>
+        </div>
                 
     </header>
-
     <div class="title">
-        <h1>Grados</h1>
+        <h1>Lecciones</h1>
     </div>
 
     <section class="botones">
-        <a href="Lessons1.php">
+        <a href="CS3.php">
             <button class="boton" id="L">
-                <p>Primer y Segundo Grado</p>
+                <img src="img\CS.png" class="boton-act" id="boton-act">
+                <p>Ciencias <br>Sociales</p>
             </button>
         </a>
-        <a href="Lessons2.php">
+        <a href="Math3.php">
             <button class="boton" id="A">
-                <p class="p2">Tercer y Cuarto Grado</p>
+                <img src="img\Mate.png" class="boton-act2" id="boton-act">
+                <p class="p2">Matemáticas</p>
             </button>
         </a>
     </section>
     <section class="botones2">
-        <a href="Lessons3.php">
+        <a href="CN3.php">
             <button class="boton" id="J">
-                <p class="p3">Quinto y Sexto Grado</p>
+                <img src="img\CN.png" class="boton-act3" id="boton-act">
+                <p class="p3">Ciencias <br>Naturales</p>
+            </button>
+        </a>
+        <a href="IE3.php">
+            <button class="boton" id="D">
+                <img src="img\IE.png" class="boton-act4" id="boton-act">
+                <p class="p4">Idioma <br>Español</p>
             </button>
         </a>
     </section>
@@ -52,7 +60,7 @@
         </div>
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
-            <li><a href="Actividades.php">Actividades</a></li><br>
+            <li><a href="Grados.php">Grados</a></li><br>
             <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

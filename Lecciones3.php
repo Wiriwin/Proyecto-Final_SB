@@ -1,5 +1,3 @@
-<<<<<<< HEAD:Lessons3.php
-=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,4 +69,3 @@
     <script src="js\script.js"></script>
 </body>
 </html>
->>>>>>> f2c48619ccb5fde6161a26b04994a176affdcb6e:Lecciones3.php

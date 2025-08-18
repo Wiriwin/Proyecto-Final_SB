@@ -55,7 +55,6 @@
             <li><a href="index.php">Inicio</a></li><br>
             <li><a href="Grados.php">Grades</a></li><br>
             <li><a href="Lecciones2.php">Lecciones</a></li><br>
-            <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>
     </div>

@@ -53,7 +53,6 @@
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
             <li><a href="Actividades.php">Actividades</a></li><br>
-            <li><a href="Contactos.php">Contactanos</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>
     </div>

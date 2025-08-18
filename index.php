@@ -60,7 +60,6 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
         <div class="LCAC">
             <ul>
                 <li><a href="Grades.php">Grados</a></li>
-                <li><a href="Contactos.php">Contáctanos</a></li>
                 <li><a href="logout.php">Cerrar Sesión</a></li>
             </ul>
         </div>

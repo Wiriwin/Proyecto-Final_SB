@@ -4,10 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\Math-style.css">
+    <link rel="stylesheet" href="css\universal-style.css">
+    <link rel="stylesheet" href="css\Math-style.css">
     <title>Matemáticas</title>
 </head>
+<style>
+
+
+</style>
 <body>
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
@@ -30,21 +34,21 @@
     <h1 class="titulo">Matemáticas</h1>
 
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <button class="tema">Tema</button>
+        <button class="tema">Tema</button>
+        <button class="tema">Tema</button>
+        <button class="tema">Tema</button>
     </div>
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <button class="tema">Tema</button>
+        <button class="tema">Tema</button>
+        <button class="tema">Tema</button>
+        <button class="tema">Tema</button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <button class="tema">Tema</button>
+        <button class="tema">Tema</button>
         <div></div>
     </div>
 

@@ -59,8 +59,9 @@ body{
 }
 
 .tema{
+    border-color: #d95768;
     background-color: #dd2e44;
-    width: auto;
+    width: 95%;
     height: auto;
     padding: 1rem;
     margin: 0.5rem;
@@ -70,6 +71,25 @@ body{
     color: white;
     text-align: center;
 }
+
+.imagen-tema{
+    display: none;
+}
+
+.tema:hover .imagen-tema{
+    display: block !important;
+}
+
+.documento-modal{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+}
+
 .botonextra{
     text-align: center;
     position: relative;
@@ -127,6 +147,17 @@ body{
   align-items:flex-start; /* alinea en el eje transversal */
 }
 
+.imagen-tema{
+    display: none;
+    width: 17.5%;
+    position: absolute;
+    top: 5rem;
+    z-index: 400;
+}
+
+.tema:hover .imagen-tema{
+    display: block !important;
+}
     /*Diseño de Fondo*/
 .mas{
     position: absolute;

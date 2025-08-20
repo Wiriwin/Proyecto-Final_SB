@@ -22,15 +22,28 @@
     <h1 class="titulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <div class="tema">Partes externas de cuerpo humano</div>
-        <div class="tema">Partes internas de cuerpo humano</div>
-        <div class="tema">Factores bióticos y abióticos</div>
-        <div class="tema">Sistema Respiratorio</div>
+        <button class="tema">Partes externas de cuerpo humano</button>
+        <button class="tema">Partes internas de cuerpo humano</button>
+        <button class="tema">Factores bióticos y abióticos</button>
+        <button class="tema">Sistema Respiratorio</button>
     </div>
     <div class="block1">
+<<<<<<< HEAD
+        <button class="tema">Ecosistemas</button>
+        <button class="tema">Prácticas de hábitos de higiene corporal</button>
+        <button class="tema">Partes de la planta</button>
+        <button class="tema">Tema</button>
+    </div>
+    <div class="block1">
+        <div></div>
+        <div class="tema">Tema</div>
+        <div class="tema">Tema</div>
+        <div></div>
+=======
         <div class="tema">Ecosistemas</div>
         <div class="tema">Prácticas de hábitos de higiene corporal</div>
         <div class="tema">Partes de la planta</div>
+>>>>>>> 9ecbfe7ae849fca28616c08a47bf4ecf760cb01d
     </div>
 
     <div>

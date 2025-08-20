@@ -20,7 +20,8 @@
         </div>
     </header>
 
-    <h1>Tercero y Cuarto</h1>
+    <h1>Ciencias Sociales</h1>
+    <h1>Tercer y Cuarto grado</h1>
 
     <div class="block1">
         <div class="tema">Conquista de América</div>

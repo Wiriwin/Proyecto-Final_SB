@@ -21,6 +21,7 @@
     </header>
 
     <h1>Ciencias Sociales</h1>
+    <h1>Quinto y sexto Grado</h1>
 
     <div class="block1">
         <div class="tema">Derechos y Deberes</div>

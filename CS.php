@@ -24,21 +24,21 @@
     <h1 class="titulo">Primer y segundo grado</h1>
 
     <div class="block1">
-        <div class="tema">El barrio y la comunidad </div>
-        <div class="tema">Identidad cultural</div>
-        <div class="tema">la escuela</div>
-        <div class="tema">la familia </div>
+        <button class="tema">El barrio y la comunidad </button>
+        <button class="tema">Identidad cultural</button>
+        <button class="tema">la escuela</button>
+        <button class="tema">la familia </button>
     </div>
     <div class="block1">
-        <div class="tema">Características de América</div>
-        <div class="tema">Demografía de Guatemala </div>
-        <div class="tema">Historia universal </div>
-        <div class="tema">Migración y crecimiento Urbano </div>
+        <button class="tema">Características de América</button>
+        <button class="tema">Demografía de Guatemala </button>
+        <button class="tema">Historia universal </button>
+        <button class="tema">Migración y crecimiento Urbano </button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Valores y principios</div>
-        <div class="tema">Problemas ambientales</div>
+        <button class="tema">Valores y principios</button>
+        <button class="tema">Problemas ambientales</button>
         <div></div>
     </div>
 

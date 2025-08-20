@@ -30,20 +30,20 @@
     <h1 class="titulo">Matemáticas</h1>
 
     <div class="block1">
-        <div class="tema">Concepto de los ángulos</div>
-        <div class="tema">La suma</div>
-        <div class="tema">La resta</div>
-        <div class="tema">La multiplicación</div>
+        <button class="tema">Concepto de los ángulos</button>
+        <button class="tema">La suma</button>
+        <button class="tema">La resta</button>
+        <button class="tema">La multiplicación</button>
     </div>
     <div class="block1">
-        <div class="tema">Números romanos</div>
-        <div class="tema">concepto de conjunto vacío y unitario</div>
-        <div class="tema">Identificación de conjuntos iguales y equivalentes</div>
-        <div class="tema">Unión e intersecciónde conjuntos</div>
+        <button class="tema">Números romanos</button>
+        <button class="tema">concepto de conjunto vacío y unitario</button>
+        <button class="tema">Identificación de conjuntos iguales y equivalentes</button>
+        <button class="tema">Unión e intersecciónde conjuntos</button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Asociación de triángulo equilátero, isósceles y escaleno</div>
+        <button class="tema">Asociación de triángulo equilátero, isósceles y escaleno</button>
         <div></div>
     </div>
 

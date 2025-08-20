@@ -24,21 +24,21 @@
     <h1>Tercer y Cuarto grado</h1>
 
     <div class="block1">
-        <div class="tema">Conquista de América</div>
-        <div class="tema">Geografía e historia de Guatemala </div>
-        <div class="tema">Historia Nacional y Cultural</div>
-        <div class="tema">Medios de Transporte</div>
+        <button class="tema">Conquista de América</button>
+        <button class="tema">Geografía e historia de Guatemala </button>
+        <button class="tema">Historia Nacional y Cultural</button>
+        <button class="tema">Medios de Transporte</button>
     </div>
     <div class="block1">
-        <div class="tema">Actividades económicas de Guatemala</div>
-        <div class="tema">Convivencia democrática y derechos humanos</div>
-        <div class="tema">Funciones del estado y organizaciones</div>
-        <div class="tema">Participación ciudadana y equidad</div>
+        <button class="tema">Actividades económicas de Guatemala</button>
+        <button class="tema">Convivencia democrática y derechos humanos</button>
+        <button class="tema">Funciones del estado y organizaciones</button>
+        <button class="tema">Participación ciudadana y equidad</button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Municipios y departamentos </div>
-        <div class="tema">Resolución solidaria de conflictos y desigualdades</div>
+        <button class="tema">Municipios y departamentos </button>
+        <button class="tema">Resolución solidaria de conflictos y desigualdades</button>
         <div></div>
     </div>
 

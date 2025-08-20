@@ -26,8 +26,8 @@
     <div class="block1">
         <button class="tema">El barrio y la comunidad </button>
         <button class="tema">Identidad cultural</button>
-        <button class="tema">la escuela</button>
-        <button class="tema">la familia </button>
+        <button class="tema">La escuela</button>
+        <button class="tema">La familia </button>
     </div>
     <div class="block1">
         <button class="tema">Características de América</button>

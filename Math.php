@@ -30,7 +30,6 @@
     <h1 class="titulo">Matemáticas</h1>
 
     <div class="block1">
-<<<<<<< HEAD
         <div class="tema">Partes de una fracción</div>
         <div class="tema">Identificación de conjuntos</div>
         <div class="tema">Figuras geométricas</div>
@@ -46,23 +45,6 @@
         <div></div>
         <div class="tema">Unidades de medidas de peso</div>
         <div class="tema">identificacion de ángulo recto</div>
-=======
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-    </div>
-    <div class="block1">
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-    </div>
-    <div class="block1">
-        <div></div>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
->>>>>>> ea9ce049b72ab5d76c4f3d6aed3e6f4adc796a63
         <div></div>
     </div>
 

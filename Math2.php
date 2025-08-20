@@ -44,7 +44,6 @@
     <div class="block1">
         <div></div>
         <div class="tema">Asociación de triángulo equilátero, isósceles y escaleno</div>
-        <div class="tema"></div>
         <div></div>
     </div>
 

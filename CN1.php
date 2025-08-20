@@ -31,13 +31,6 @@
         <div class="tema">Ecosistemas</div>
         <div class="tema">Prácticas de hábitos de higiene corporal</div>
         <div class="tema">Partes de la planta</div>
-        <div class="tema">Tema</div>
-    </div>
-    <div class="block1">
-        <div></div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div></div>
     </div>
 
     <div>

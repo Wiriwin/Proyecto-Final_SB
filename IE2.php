@@ -23,21 +23,21 @@
     <h1 class="titulo">Comunicación y Lenguaje</h1>
 
     <div class="block1">
-        <div class="tema">Lectura de Díagrafos</div>
-        <div class="tema">Diptongo</div>
-        <div class="tema">Triptongos</div>
-        <div class="tema">Singular y Plurar</div>
+        <button class="tema">Lectura de Díagrafos</button>
+        <button class="tema">Diptongo</button>
+        <button class="tema">Triptongos</button>
+        <button class="tema">Singular y Plurar</button>
     </div>
     <div class="block1">
-        <div class="tema">Sinonimos y Antonimos</div>
-        <div class="tema">Sustantivos</div>
-        <div class="tema">Predicado</div>
-        <div class="tema">Verbo</div>
+        <button class="tema">Sinonimos y Antonimos</button>
+        <button class="tema">Sustantivos</button>
+        <button class="tema">Predicado</button>
+        <button class="tema">Verbo</button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Oraciones</div>
-        <div class="tema">Textos Informativos</div>
+        <button class="tema">Oraciones</button>
+        <button class="tema">Textos Informativos</button>
         <div></div>
     </div>
 

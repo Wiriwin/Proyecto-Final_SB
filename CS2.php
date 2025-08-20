@@ -23,21 +23,21 @@
     <h1>Tercero y Cuarto</h1>
 
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Conquista de América</div>
+        <div class="tema">Geografía e historia de Guatemala </div>
+        <div class="tema">Historia Nacional y Cultural</div>
+        <div class="tema">Medios de Transporte</div>
     </div>
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Actividades económicas de Guatemala</div>
+        <div class="tema">Convivencia democrática y derechos humanos</div>
+        <div class="tema">Funciones del estado y organizaciones</div>
+        <div class="tema">Participación ciudadana y equidad</div>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Municipios y departamentos </div>
+        <div class="tema">Resolución solidaria de conflictos y desigualdades</div>
         <div></div>
     </div>
 

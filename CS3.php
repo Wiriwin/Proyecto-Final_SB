@@ -23,21 +23,21 @@
     <h1>Ciencias Sociales</h1>
 
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Derechos y Deberes</div>
+        <div class="tema">Diversidad cultural</div>
+        <div class="tema">Geografía</div>
+        <div class="tema">historia de Guatemala</div>
     </div>
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Recursos Naturales</div>
+        <div class="tema">Coordenada geográficas</div>
+        <div class="tema">Riesgos naturales y vulnerabilidad</div>
+        <div class="tema">Comparación de recursos regionales</div>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">La economía</div>
+        <div class="tema">Diversidad cultural, tecnología y tratados internacionales</div>
         <div></div>
     </div>
 

@@ -30,21 +30,21 @@
     <h1 class="titulo">Matemáticas</h1>
 
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Partes de una fracción</div>
+        <div class="tema">Identificación de conjuntos</div>
+        <div class="tema">Figuras geométricas</div>
+        <div class="tema">La recta numérica</div>
     </div>
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Trazo de líneas</div>
+        <div class="tema">Asociacion del conjunto vacío con el numeral cero</div>
+        <div class="tema">Descripción de triángulos y Cuadrilateros</div>
+        <div class="tema">Lectura y escritura de numerales del 1 al 9</div>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Unidades de medidas de peso</div>
+        <div class="tema">identificacion de ángulo recto</div>
         <div></div>
     </div>
 

@@ -34,16 +34,16 @@
     <h1 class="titulo">Matemáticas</h1>
 
     <div class="block1">
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
+        <button class="tema">La divión</button>
+        <button class="tema">La potencia</button>
+        <button class="tema">Raíz cuadrada</button>
+        <button class="tema">Números primos y compuestos</button>
     </div>
     <div class="block1">
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
+        <button class="tema">Identificación de la circunferencia, radio y diámetro</button>
+        <button class="tema">Clasificación de triángulos por sus ángulos</button>
+        <button class="tema">Cálculo de circunferencia y área del círculo</button>
+        <button class="tema">Cálculo de un rectángulo y cuadrado aplicando fórmula</button>
     </div>
     <div class="block1">
         <div></div>

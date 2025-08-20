@@ -23,21 +23,21 @@
     <h1 class="titulo">Comunicación y Lenguaje</h1>
 
     <div class="block1">
-        <div class="tema">Uso de Mayúsculas</div>
-        <div class="tema">Tipos de Silabas</div>
-        <div class="tema">Adjetivos Calificativos</div>
-        <div class="tema">Formación de Palabras</div>
+        <button class="tema">Uso de Mayúsculas</button>
+        <button class="tema">Tipos de Silabas</button>
+        <button class="tema">Adjetivos Calificativos</button>
+        <button class="tema">Formación de Palabras</button>
     </div>
     <div class="block1">
-        <div class="tema">Trabalenguas y Rimas</div>
-        <div class="tema">Uso del Punto</div>
-        <div class="tema">Separación de Silabas</div>
-        <div class="tema">Diminutivo y Aumentativo</div>
+        <button class="tema">Trabalenguas y Rimas</button>
+        <button class="tema">Uso del Punto</button>
+        <button class="tema">Separación de Silabas</button>
+        <button class="tema">Diminutivo y Aumentativo</button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Oraciones Exclamativas</div>
-        <div class="tema">Oraciones Interrogativas</div>
+        <button class="tema">Oraciones Exclamativas</button>
+        <button class="tema">Oraciones Interrogativas</button>
         <div></div>
     </div>
 

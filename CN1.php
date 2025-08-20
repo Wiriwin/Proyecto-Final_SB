@@ -22,15 +22,15 @@
     <h1 class="titulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <div class="tema">KKKK</div>
-        <div class="tema">TTTT</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Partes externas de cuerpo humano</div>
+        <div class="tema">Partes internas de cuerpo humano</div>
+        <div class="tema">Factores bióticos y abióticos</div>
+        <div class="tema">Sistema Respiratorio</div>
     </div>
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Ecosistemas</div>
+        <div class="tema">Prácticas de hábitos de higiene corporal</div>
+        <div class="tema">Partes de la planta</div>
         <div class="tema">Tema</div>
     </div>
     <div class="block1">

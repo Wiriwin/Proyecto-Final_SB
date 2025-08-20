@@ -24,21 +24,21 @@
     <h1>Quinto y sexto Grado</h1>
 
     <div class="block1">
-        <div class="tema">Derechos y Deberes</div>
-        <div class="tema">Diversidad cultural</div>
-        <div class="tema">Geografía</div>
-        <div class="tema">historia de Guatemala</div>
+        <button class="tema">Derechos y Deberes</button>
+        <button class="tema">Diversidad cultural</button>
+        <button class="tema">Geografía</button>
+        <button class="tema">historia de Guatemala</button>
     </div>
     <div class="block1">
-        <div class="tema">Recursos Naturales</div>
-        <div class="tema">Coordenada geográficas</div>
-        <div class="tema">Riesgos naturales y vulnerabilidad</div>
-        <div class="tema">Comparación de recursos regionales</div>
+        <button class="tema">Recursos Naturales</button>
+        <button class="tema">Coordenada geográficas</button>
+        <button class="tema">Riesgos naturales y vulnerabilidad</button>
+        <button class="tema">Comparación de recursos regionales</button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">La economía</div>
-        <div class="tema">Diversidad cultural, tecnología y tratados internacionales</div>
+        <button class="tema">La economía</button>
+        <button class="tema">Diversidad cultural, tecnología y tratados internacionales</button>
         <div></div>
     </div>
 

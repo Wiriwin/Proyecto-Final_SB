@@ -45,12 +45,6 @@
         <button class="tema">Cálculo de circunferencia y área del círculo</button>
         <button class="tema">Cálculo de un rectángulo y cuadrado aplicando fórmula</button>
     </div>
-    <div class="block1">
-        <div></div>
-        <button class="tema">Tema</button>
-        <button class="tema">Tema</button>
-        <div></div>
-    </div>
 
     <div>
         <div class="botonextra">

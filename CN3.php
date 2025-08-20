@@ -22,21 +22,21 @@
     <h1 class="titulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <div class="tema">Teoría de la gran explosión (Big Bang)</div>
-        <div class="tema">Organización celular en los tejidos</div>
-        <div class="tema">Principales componentes del tejido sanguíneo</div>
-        <div class="tema"> Reforestación y los recursos hídricos</div>
+        <button class="tema">Teoría de la gran explosión (Big Bang)</button>
+        <button class="tema">Organización celular en los tejidos</button>
+        <button class="tema">Principales componentes del tejido sanguíneo</button>
+        <button class="tema"> Reforestación y los recursos hídricos</button>
     </div>
     <div class="block1">
-        <div class="tema">Importancia del uso de plaguicidas</div>
-        <div class="tema">Seres vivos en los reinos animal y vegetal</div>
-        <div class="tema">Importancia de las vacunas</div>
-        <div class="tema">Sistema binario para clasificar los animales</div>
+        <button class="tema">Importancia del uso de plaguicidas</button>
+        <button class="tema">Seres vivos en los reinos animal y vegetal</button>
+        <button class="tema">Importancia de las vacunas</button>
+        <button class="tema">Sistema binario para clasificar los animales</button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Nutrientes presentes en los alimentos</div>
-        <div class="tema">Diferentes manifestaciones de la energía</div>
+        <button class="tema">Nutrientes presentes en los alimentos</button>
+        <button class="tema">Diferentes manifestaciones de la energía</button>
         <div></div>
     </div>
 

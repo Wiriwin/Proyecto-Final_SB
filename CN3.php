@@ -22,7 +22,7 @@
     <h1 class="titulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <div class="tema">KKKK</div>
+        <div class="tema">hola</div>
         <div class="tema">Tema</div>
         <div class="tema">Tema</div>
         <div class="tema">Tema</div>

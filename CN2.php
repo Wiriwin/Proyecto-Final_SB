@@ -22,21 +22,21 @@
     <h1 class="titulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <div class="tema">Descripción del universo</div>
-        <div class="tema">animales ovíparos y vivíparos</div>
-        <div class="tema">Diferencia entre boca, trompa, pico y hocico</div>
-        <div class="tema">Seres vivos según su forma de locomoción</div>
+        <button class="tema">Descripción del universo</button>
+        <button class="tema">animales ovíparos y vivíparos</button>
+        <button class="tema">Diferencia entre boca, trompa, pico y hocico</button>
+        <button class="tema">Seres vivos según su forma de locomoción</button>
     </div>
     <div class="block1">
-        <div class="tema">Estados de la materia</div>
-        <div class="tema">Instituciones que brindan ayuda en caso de emergencia </div>
-        <div class="tema">Identificación de problemas ambientales </div>
-        <div class="tema">Características fisicas de los primeros seres vivos en la tierra</div>
+        <button class="tema">Estados de la materia</button>
+        <button class="tema">Instituciones que brindan ayuda en caso de emergencia </button>
+        <button class="tema">Identificación de problemas ambientales </button>
+        <button class="tema">Características fisicas de los primeros seres vivos en la tierra</button>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Célula como unidad estructural y funcional de los seres vivos</div>
-        <div class="tema">Distinción entre los tipos de membrana celular</div>
+        <button class="tema">Célula como unidad estructural y funcional de los seres vivos</button>
+        <button class="tema">Distinción entre los tipos de membrana celular</button>
         <div></div>
     </div>
 

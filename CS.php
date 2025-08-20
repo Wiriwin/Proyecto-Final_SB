@@ -23,21 +23,21 @@
     <h1 class="titulo">Ciencias Sociales</h1>
 
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">El barrio y la comunidad </div>
+        <div class="tema">Identidad cultural</div>
+        <div class="tema">la escuela</div>
+        <div class="tema">la familia </div>
     </div>
     <div class="block1">
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Características de América</div>
+        <div class="tema">Demografía de Guatemala </div>
+        <div class="tema">Historia universal </div>
+        <div class="tema">Migración y crecimiento Urbano </div>
     </div>
     <div class="block1">
         <div></div>
-        <div class="tema">Tema</div>
-        <div class="tema">Tema</div>
+        <div class="tema">Valores y principios</div>
+        <div class="tema">Problemas ambientales</div>
         <div></div>
     </div>
 

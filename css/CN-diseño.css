@@ -25,17 +25,6 @@ h1{
     position: relative;
 }
 
-.grad{
-    width: 70%;
-    text-align: center;
-    position: relative;
-    left: 15%;
-    top: 2rem;
-}
-.grad_1-6{
-    width: 100%;
-}
-
 button{
     width: 95%;
     height: auto;

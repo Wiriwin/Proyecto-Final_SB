@@ -120,6 +120,24 @@ body{
         .tema {
             animation: pulse 2s infinite;
         }
+ HEAD        
+.botonextra{
+    position: relative;
+    top: 1.5rem;
+    text-align: center;
+}
+
+.block1{
+    position: relative;
+    margin: auto;
+    width: 80%;
+    border: rgb(252, 252, 252);
+}
+.block2{
+    position: relative;
+    margin: auto;
+    width: 80%;
+}
 
 @media (min-width: 868px){
 

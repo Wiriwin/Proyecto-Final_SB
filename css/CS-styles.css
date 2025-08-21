@@ -69,6 +69,7 @@ body{
 }
 
 .tema {
+    text-decoration: none;
             background-color: #c1dc62;
             width: 95%;
             height: auto;

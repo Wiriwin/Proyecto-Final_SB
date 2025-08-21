@@ -25,21 +25,21 @@
 
 
     <div class="block1">
-        <button class="tema">Derechos y Deberes</button>
-        <button class="tema">Diversidad cultural</button>
-        <button class="tema">Geografía</button>
-        <button class="tema">historia de Guatemala</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Derechos y Deberes</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diversidad cultural</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Geografía</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">historia de Guatemala</a>
     </div>
     <div class="block1">
-        <button class="tema">Recursos Naturales</button>
-        <button class="tema">Coordenada geográficas</button>
-        <button class="tema">Riesgos naturales y vulnerabilidad</button>
-        <button class="tema">Comparación de recursos regionales</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Recursos Naturales</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Coordenada geográficas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Riesgos naturales y vulnerabilidad</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Comparación de recursos regionales</a>
     </div>
     <div class="block1">
         <div></div>
-        <button class="tema">La economía</button>
-        <button class="tema">Diversidad cultural, tecnología y tratados internacionales</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">La economía</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diversidad cultural, tecnología y tratados internacionales</a>
         <div></div>
     </div>
 

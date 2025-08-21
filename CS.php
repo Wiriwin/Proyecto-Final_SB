@@ -21,7 +21,7 @@
     </header>
 
     <h1 class="titulo">Ciencias Sociales</h1>
-    <h1 class="subtitulo">Primer y segundo grado</h1>
+    <h1 class="subtitulo">Primer y segundo Grado</h1>
 
     <div class="block1">
         <button class="tema">El barrio y la comunidad </button>

@@ -28,9 +28,11 @@
         <button class="tema">Sistema Respiratorio</button>
     </div>
     <div class="block1">
+        <div></div>
         <button class="tema">Ecosistemas</button>
         <button class="tema">Prácticas de hábitos de higiene corporal</button>
         <button class="tema">Partes de la planta</button>
+        <div></div>
     </div>
 
     <div>

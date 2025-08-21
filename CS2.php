@@ -20,8 +20,8 @@
         </div>
     </header>
 
-    <h1>Ciencias Sociales</h1>
-    <h1>Tercer y Cuarto grado</h1>
+    <h1 class="titulo">Ciencias Sociales</h1>
+    <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
 
     <div class="block1">
         <button class="tema">Conquista de América</button>

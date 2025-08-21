@@ -22,8 +22,7 @@ $document_query = $conex->prepare("SELECT pay_doc, date FROM pay_docs WHERE stor
                     echo "<iframe src='../Bitscompare/Bitscompare/" . htmlspecialchars($document) . "' width='100%' height='200'></iframe>";
                 }
             } else {
-                echo "<h1>No se ha encontrado un comprobante de pago</h1>";
-            }
+             }
         echo "</div>";
         echo "</article>";
 

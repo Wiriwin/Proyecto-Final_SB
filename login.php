@@ -1,12 +1,10 @@
 <?php
-// Iniciar el búfer de salida para evitar problemas con las cabeceras
 ob_start();
 session_start();
 require_once 'includes/config.php';
 
-// Si el usuario ya está logueado, redirigir al index
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true) {
-    header("Location:http://localhost//sabiduria-chapina/index.php"); // Usar URL absoluta para mayor compatibilidad
+    header("Location:http://localhost//Proyecto-Final_SB/index.php"); 
     exit();
 }
 
@@ -46,7 +44,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     $stmt->close();
                     
                     // Redirigir al index
-                    header("Location:http://localhost/sabiduria-chapina/index.php"); // Usar URL absoluta
+                    header("Location:http://localhost/Proyecto-Final_SB/index.php"); // Usar URL absoluta
                     exit();
                 } else {
                     $error = "Credenciales incorrectas";

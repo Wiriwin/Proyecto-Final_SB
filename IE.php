@@ -23,21 +23,21 @@
     <h1 class="titulo">Comunicación y Lenguaje</h1>
 
     <div class="block1">
-        <button class="tema">Uso de Mayúsculas</button>
-        <button class="tema">Tipos de Silabas</button>
-        <button class="tema">Adjetivos Calificativos</button>
-        <button class="tema">Formación de Palabras</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Uso de Mayúsculas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tipos de Silabas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Adjetivos Calificativos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Formación de Palabras</a>
     </div>
     <div class="block1">
-        <button class="tema">Trabalenguas y Rimas</button>
-        <button class="tema">Uso del Punto</button>
-        <button class="tema">Separación de Silabas</button>
-        <button class="tema">Diminutivo y Aumentativo</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Trabalenguas y Rimas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Uso del Punto</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Separación de Silabas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diminutivo y Aumentativo</a>
     </div>
     <div class="block1">
         <div></div>
-        <button class="tema">Oraciones Exclamativas</button>
-        <button class="tema">Oraciones Interrogativas</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Oraciones Exclamativas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Oraciones Interrogativas</a>
         <div></div>
     </div>
 

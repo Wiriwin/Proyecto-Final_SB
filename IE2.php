@@ -23,21 +23,21 @@
     <h1 class="titulo">Comunicación y Lenguaje</h1>
 
     <div class="block1">
-        <button class="tema">Lectura de Díagrafos</button>
-        <button class="tema">Diptongo</button>
-        <button class="tema">Triptongos</button>
-        <button class="tema">Singular y Plurar</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Lectura de Díagrafos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diptongo</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Triptongos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Singular y Plurar</a>
     </div>
     <div class="block1">
-        <button class="tema">Sinonimos y Antonimos</button>
-        <button class="tema">Sustantivos</button>
-        <button class="tema">Predicado</button>
-        <button class="tema">Verbo</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sinonimos y Antonimos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sustantivos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Predicado</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Verbo</a>
     </div>
     <div class="block1">
         <div></div>
-        <button class="tema">Oraciones</button>
-        <button class="tema">Textos Informativos</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Oraciones</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Textos Informativos</a>
         <div></div>
     </div>
 

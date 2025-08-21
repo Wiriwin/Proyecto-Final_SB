@@ -21,13 +21,13 @@
     </header>
 
     <h1 class="titulo">Ciencias Sociales</h1>
-    <h1 class="titulo">Primer y segundo grado</h1>
+    <h1 class="subtitulo">Primer y Segundo Grado</h1>
 
     <div class="block1">
         <button class="tema">El barrio y la comunidad </button>
         <button class="tema">Identidad cultural</button>
-        <button class="tema">la escuela</button>
-        <button class="tema">la familia </button>
+        <button class="tema">La escuela</button>
+        <button class="tema">La familia </button>
     </div>
     <div class="block1">
         <button class="tema">Características de América</button>

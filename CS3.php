@@ -20,8 +20,8 @@
         </div>
     </header>
 
-    <h1>Ciencias Sociales</h1>
-    <h1>Quinto y sexto Grado</h1>
+    <h1 class="titulo">Ciencias Sociales</h1>
+    <h1 class="subtitulo">Quinto y Sexto Grado</h1>
 
     <div class="block1">
         <button class="tema">Derechos y Deberes</button>

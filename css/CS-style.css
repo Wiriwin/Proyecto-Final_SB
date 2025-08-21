@@ -1,3 +1,30 @@
+.titulo {
+            font-size: 3.2rem;
+            font-weight: 700;
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: -15px;
+            padding-bottom: -20px;
+            border-bottom: 3px solid #3498db;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            font-family: 'Georgia', serif;
+            text-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+            margin-top: 0;
+        }
+        
+        .subtitulo {
+            font-size: 1.8rem;
+            font-weight: 400;
+            color: #7f8c8d;
+            text-align: center;
+            margin-top: 0;
+            font-style: italic;
+            letter-spacing: 0.5px;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #e74c3c;
+        }
 .list-PyS button {
     transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
@@ -41,18 +68,41 @@ body{
     position: relative;
 }
 
-.tema{
-    background-color: #c1dc62;
-    width: 95%;
-    height: auto;
-    padding: 1rem;
-    margin: 0.5rem;
-    border-radius: 20px;
-    font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
-    text-align: center;
-}
+.tema {
+            background-color: #c1dc62;
+            width: 95%;
+            height: auto;
+            padding: 1rem;
+            margin: 0.5rem;
+            border-radius: 20px;
+            font-size: 20px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: white;
+            text-align: center;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Animación al pasar el mouse */
+        .tema:hover {
+            background-color: #b0d04a;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+        }
+
+        /* Animación al hacer clic */
+        .tema:active {
+            transform: translateY(1px);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Animación de pulso suave */
+        .tema {
+            animation: pulse 2s infinite;
+        }
+        
 .botonextra{
     position: relative;
     top: 1.5rem;
@@ -63,6 +113,7 @@ body{
     position: relative;
     margin: auto;
     width: 80%;
+    border: rgb(252, 252, 252);
 }
 .block2{
     position: relative;

@@ -22,21 +22,21 @@
     <h1 class="titulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <button class="tema">Teoría de la gran explosión (Big Bang)</button>
-        <button class="tema">Organización celular en los tejidos</button>
-        <button class="tema">Principales componentes del tejido sanguíneo</button>
-        <button class="tema"> Reforestación y los recursos hídricos</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Teoría de la gran explosión (Big Bang)</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Organización celular en los tejidos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Principales componentes del tejido sanguíneo</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema"> Reforestación y los recursos hídricos</a>
     </div>
     <div class="block1">
-        <button class="tema">Importancia del uso de plaguicidas</button>
-        <button class="tema">Seres vivos en los reinos animal y vegetal</button>
-        <button class="tema">Importancia de las vacunas</button>
-        <button class="tema">Sistema binario para clasificar los animales</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Importancia del uso de plaguicidas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Seres vivos en los reinos animal y vegetal</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Importancia de las vacunas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sistema binario para clasificar los animales</a>
     </div>
     <div class="block1">
         <div></div>
-        <button class="tema">Nutrientes presentes en los alimentos</button>
-        <button class="tema">Diferentes manifestaciones de la energía</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Nutrientes presentes en los alimentos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diferentes manifestaciones de la energía</a>
         <div></div>
     </div>
 

@@ -22,16 +22,16 @@
     <h1 class="titulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <button class="tema">Partes externas de cuerpo humano</button>
-        <button class="tema">Partes internas de cuerpo humano</button>
-        <button class="tema">Factores bióticos y abióticos</button>
-        <button class="tema">Sistema Respiratorio</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Partes externas de cuerpo humano</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Partes internas de cuerpo humano</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Factores bióticos y abióticos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sistema Respiratorio</a>
     </div>
     <div class="block1">
         <div></div>
-        <button class="tema">Ecosistemas</button>
-        <button class="tema">Prácticas de hábitos de higiene corporal</button>
-        <button class="tema">Partes de la planta</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Ecosistemas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Prácticas de hábitos de higiene corporal</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Partes de la planta</a>
         <div></div>
     </div>
 

@@ -34,16 +34,16 @@
     <h1 class="titulo">Matemáticas</h1>
 
     <div class="block1">
-        <button class="tema">La divión</button>
-        <button class="tema">La potencia</button>
-        <button class="tema">Raíz cuadrada</button>
-        <button class="tema">Números primos y compuestos</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">La divión</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">La potencia</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Raíz cuadrada</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Números primos y compuestos</a>
     </div>
     <div class="block1">
-        <button class="tema">Identificación de la circunferencia, radio y diámetro</button>
-        <button class="tema">Clasificación de triángulos por sus ángulos</button>
-        <button class="tema">Cálculo de circunferencia y área del círculo</button>
-        <button class="tema">Cálculo de un rectángulo y cuadrado aplicando fórmula</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Identificación de la circunferencia, radio y diámetro</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Clasificación de triángulos por sus ángulos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Cálculo de circunferencia y área del círculo</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Cálculo de un rectángulo y cuadrado aplicando fórmula</a>
     </div>
 
     <div>

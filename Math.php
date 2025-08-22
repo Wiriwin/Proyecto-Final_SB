@@ -30,7 +30,7 @@
     <h1 class="titulo">Matemáticas</h1>
 
     <div class="block1">
-        <button class="tema">Partes de una fracción</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Partes de una fracción</button>
         <button class="tema">Identificación de conjuntos</button>
         <button class="tema">Figuras geométricas</button>
         <button class="tema">La recta numérica</button>

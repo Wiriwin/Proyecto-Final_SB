@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\CN-diseño.css">
+    <link rel="Stylesheet" href="css\CN-diseñito.css">
     <title>Lecciones y Actividades</title>
 </head>
 <body>

@@ -21,7 +21,6 @@
     </header>
 
     <h1 class="titulo">Ciencias Sociales</h1>
-
     <h1 class="subtitulo">Tercer y Cuarto grado</h1>
 
     <div class="block1">

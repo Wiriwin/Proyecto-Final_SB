@@ -28,6 +28,7 @@
     </div>
 
     <h1 class="titulo">Matemáticas</h1>
+    <h1 class="subtitulo">Primer y Segundo Grado</h1>
 
     <div class="block1">
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Partes de una fracción</a>

@@ -25,6 +25,31 @@
             border-radius: 5px;
             border-left: 4px solid #e74c3c;
         }
+        .subtitulocs2 {
+            font-size: 1.8rem;
+            font-weight: 400;
+            color: #7f8c8d;
+            text-align: center;
+            margin-top: 0;
+            font-style: italic;
+            letter-spacing: 0.5px;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #e74c3c;
+        }
+        .subtitulocs3 {
+            font-size: 1.8rem;
+            font-weight: 400;
+            color: #7f8c8d;
+            text-align: center;
+            margin-top: 0;
+            font-style: italic;
+            letter-spacing: 0.5px;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #e74c3c;
+        }
+
 .list-PyS button {
     transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }

@@ -21,7 +21,7 @@
     </header>
 
     <h1 class="titulo">Ciencias Sociales</h1>
-    <h1 class="subtitulo">Tercer y Cuarto grado</h1>
+    <h1 class="subtitulo">ya no doy</h1>
 
     <div class="block1">
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Conquista de América</a>

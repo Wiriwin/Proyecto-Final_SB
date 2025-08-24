@@ -21,7 +21,7 @@
     </header>
 
     <h1 class="titulo">Ciencias Sociales</h1>
-    <h1 class="subtitulocs3">Quinto y sexto Grado</h1>
+    <h1 class="subtitulo">Quinto y sexto Grado</h1>
       
 
 

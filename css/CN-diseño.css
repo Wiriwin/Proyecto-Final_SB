@@ -24,6 +24,18 @@ h1{
     color: #4dacc4;
     position: relative;
 }
+  .subtitulo {
+            font-size: 1.8rem;
+            font-weight: 400;
+            color: #7f8c8d;
+            text-align: center;
+            margin-top: 0;
+            font-style: italic;
+            letter-spacing: 0.5px;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #e74c3c;
+        }
 
 button{
     width: 95%;

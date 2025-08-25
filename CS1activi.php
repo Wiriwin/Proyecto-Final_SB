@@ -26,7 +26,7 @@
 
     <div class="block1">
         <a href= "pdf_sociales_2\Primero_segundoS\Barrio y comunidad.pdf" class="tema">El barrio y la comunidad</a>
-        <a href= "pdf_sociales_2\Primero_segundoS\actividad de Identidad.pdf">Identidad cultural</a>
+        <a href= "pdf_sociales_2\Primero_segundoS\actividad de Identidad.pdf" class="tema">Identidad cultural</a>
         <a href= "pdf_sociales_2\Primero_segundoS\Actividades de la escuela.pdf" class="tema">La escuela</a>
         <a href= "pdf_sociales_2\Primero_segundoS\actividades de familia.pdf" class="tema">La familia </a>
     </div>

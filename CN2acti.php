@@ -23,21 +23,21 @@
     <h1 class="subtitulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Descripción del universo</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">animales ovíparos y vivíparos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diferencia entre boca, trompa, pico y hocico</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Seres vivos según su forma de locomoción</a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad Descripción del Universo.pdf" class="tema" class="tema">Descripción del universo</a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad Animales Ovíparos y Vivíparos.pdf" class="tema" class="tema">animales ovíparos y vivíparos</a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad Diferenciación entre Boca Trompa Pico y Hocico.pdf" class="tema" class="tema">Diferencia entre boca, trompa, pico y hocico</a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad Organización de los Animales según su locomoción (1).pdf" class="tema" class="tema">Seres vivos según su forma de locomoción</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Estados de la materia</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Instituciones que brindan ayuda en caso de emergencia </a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Identificación de problemas ambientales </a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Características fisicas de los primeros seres vivos en la tierra</a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad Estados de la Materia.pdf" class="tema" class="tema">Estados de la materia</a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad Instituciones que brindan ayuda.pdf" class="tema" class="tema">Instituciones que brindan ayuda en caso de emergencia </a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad Identificación de Problemas Ambientales.pdf" class="tema" class="tema">Identificación de problemas ambientales </a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad Características físicas de los primeros seres Vivos en la tierra.pdf" class="tema" class="tema">Características fisicas de los primeros seres vivos en la tierra</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Célula como unidad estructural y funcional de los seres vivos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Distinción entre los tipos de membrana celular</a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad La Célula como Unidad Estructural y Funcional de los Seres Vivos.pdf" class="tema" class="tema">Célula como unidad estructural y funcional de los seres vivos</a>
+        <a href= "pdf_natu_2\tercero_cuarto\Actividad distinción entre los tipos de membrana celular.pdf" class="tema" class="tema">Distinción entre los tipos de membrana celular</a>
         <div></div>
     </div>
 

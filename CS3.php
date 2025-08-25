@@ -26,21 +26,21 @@
 
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Derechos y Deberes</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diversidad cultural</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Geografía</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">historia de Guatemala</a>
+        <a href= "pdf-sociales-1\Quinto_sextoS\Derechos y deberes.pdf" class="tema" class="tema">Derechos y Deberes</a>
+        <a href= "pdf-sociales-1\Quinto_sextoS\Diversidad Cultural.pdf" class="tema" class="tema">Diversidad cultural</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Geografía e historia de Guatemala.pdf" class="tema" class="tema">Geografía</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Historia Nacional y cultural.pdf" class="tema" class="tema">historia de Guatemala</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Recursos Naturales</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Coordenada geográficas</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Riesgos naturales y vulnerabilidad</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Comparación de recursos regionales</a>
+        <a href= "pdf-sociales-1\Quinto_sextoS\Recursos naturales.pdf" class="tema" class="tema">Recursos Naturales</a>
+        <a href= "pdf-sociales-1\Quinto_sextoS\coordenadas geográficas.pdf" class="tema" class="tema">Coordenada geográficas</a>
+        <a href= "pdf-sociales-1\Quinto_sextoS\Riesgos naturales y vulnerabilidad.pdf" class="tema" class="tema">Riesgos naturales y vulnerabilidad</a>
+        <a href= "pdf-sociales-1\Quinto_sextoS\Comparación de recursos regionales.pdf" class="tema" class="tema">Comparación de recursos regionales</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">La economía</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diversidad cultural, tecnología y tratados internacionales</a>
+        <a href= "pdf-sociales-1\Quinto_sextoS\La economía.pdf" class="tema" class="tema">La economía</a>
+        <a href= "pdf-sociales-1\Quinto_sextoS\Diversidad cultural, tecnología y tratados internacionales.pdf" class="tema" class="tema">Diversidad cultural, tecnología y tratados internacionales</a>
         <div></div>
     </div>
 

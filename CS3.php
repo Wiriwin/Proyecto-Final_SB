@@ -27,9 +27,9 @@
 
     <div class="block1">
         <a href= "pdf-sociales-1\Quinto_sextoS\Derechos y deberes.pdf" class="tema" class="tema">Derechos y Deberes</a>
-        <a href= "pdf-sociales-1\Quinto_sextoS\Derechos y deberes.pdf" class="tema" class="tema">Derechos y Deberes</a>
-        <a href= "pdf-sociales-1\Quinto_sextoS\Derechos y deberes.pdf" class="tema" class="tema">Derechos y Deberes</a>
-        <a href= "pdf-sociales-1\Quinto_sextoS\Derechos y deberes.pdf" class="tema" class="tema">Derechos y Deberes</a>
+        <a href= "" class="tema" class="tema">Diversidad cultural</a>
+        <a href= "" class="tema" class="tema">Geografía</a>
+        <a href= "" class="tema" class="tema">Historia de Guatemala</a>
     </div>
     <div class="block1">
         <a href= "pdf-sociales-1\Quinto_sextoS\Recursos naturales.pdf" class="tema" class="tema">Recursos Naturales</a>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\IE-diseñito.css">
-    <link rel="Stylesheet" href="css\universal-style.css">
+    <link rel="Stylesheet" href="css\universal-styles.css">
     <title>Actividades</title>
 </head>
 <body>

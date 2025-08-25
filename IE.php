@@ -33,7 +33,7 @@
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Oraciones exclamativas.pdf" class="tema" class="tema">Oraciones Exclamativas</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Oraciones exclamativas.pdf" class="tema" >Oraciones Exclamativas</a>
         <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Oraciones interrogativas.pdf" class="tema">Oraciones Interrogativas</a>
         <div></div>
     </div>

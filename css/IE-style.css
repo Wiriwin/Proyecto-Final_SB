@@ -1,7 +1,12 @@
+html, body{
+    background-color: #9cd6e5;
+    margin: 0;
+    padding: 0;
+}
 .titulo {
             font-size: 3.2rem;
             font-weight: 700;
-            color: #c6272f;
+            color: #37a8ce;
             text-align: center;
             margin-bottom: -15px;
             padding-bottom: -20px;
@@ -16,7 +21,7 @@
         .subtitulo {
             font-size: 1.8rem;
             font-weight: 400;
-            color: #4b4b3a;
+            color: #504545;
             text-align: center;
             margin-top: 0;
             font-style: italic;
@@ -25,70 +30,22 @@
             border-radius: 5px;
         }
 
-body{
-    background-color: #9cd6e5;
-    overflow-x: hidden;
-}
-    /*Fondo*/
-.mas{
-    position: absolute;
-    width: 24%;
-    height: 5rem;
-    top: 0.5rem;
-    right: 5%;
-}
-.por{
-    position: absolute;
-    width: 22%;
-    height: 5rem;
-    top: 8rem;
-}
-
-.div{
-    position: absolute;
-    width: 24%;
-    height: 5rem;
-    right: 2%;
-    top: 18rem;
-}
-.Down{
-    position: relative;
-    top: 20rem;
-}
-.mas2{
-    position: absolute;
-    width: 24%;
-    height: 5rem;
-}
-.por2{
-    position: absolute;
-    width: 22%;
-    height: 5rem;
-    top: 7.5rem;
-    right: 5%;
-}
-
-.div2{
-    position: absolute;
-    width: 24%;
-    height: 5rem;
-    left: 2%;
-    top: 15rem;
-}
-
-.documento-modal{
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: grey;
-    width: 100%;
-    height: 100%;
-}
-
-.botonextra{
+.tema{
+    background-color: #dd2e44;
+    width: auto;
+    height: auto;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
     text-align: center;
+    text-decoration: none;
+}
+.botonextra{
     position: relative;
+    text-align: center;
     top: 1.5rem;
 }
 
@@ -102,6 +59,20 @@ body{
     margin: auto;
     width: 80%;
 }
+
+/*Fondo*/
+.fondo{
+    position: absolute;
+    top: 2rem;
+    left: 5%;
+}
+.fondo2{
+    position: absolute;
+    visibility: hidden;
+    top: 2rem;
+    left: 5%;
+}
+
 .tema {
             background-color: #dd2e44;
             width: 95%;
@@ -137,7 +108,7 @@ body{
             animation: pulse 2s infinite;
         }
 
-@media (min-width: 368px){
+@media (min-width: 868px){
 
 .tema{
     width: 20%;
@@ -150,7 +121,7 @@ body{
 .botonextra{
     width: 99%;
     position: relative;
-    top: 5rem;
+    top: 2rem;
     text-align: end;
 }
 
@@ -177,67 +148,18 @@ body{
   align-items:flex-start; /* alinea en el eje transversal */
 }
 
-.imagen-tema{
-    display: none;
-    width: 17.5%;
+    /*Fondo*/
+.fondo{
     position: absolute;
-    top: 5rem;
-    z-index: 400;
+    top: 2rem;
+    left: 5%;
+    height: 15rem;
+    width: auto;
 }
-
-.tema:hover .imagen-tema{
-    display: block !important;
-}
-    /*Diseño de Fondo*/
-.mas{
+.fondo2{
     position: absolute;
-    width: 10%;
-    height: auto;
-    top: 1rem;
-    right: 15%;
-}
-.por{
-    position: absolute;
-    width: 10%;
-    height: auto;
-    top: 8rem;
-    left: 10%;
-}
-.div{
-    position: absolute;
-    width: 10%;
-    height: auto;
-    right: 30%;
-    top: 18rem;
-}
-.Down{
-    position: relative;
-    top: 20rem;
-}
-.mas2{
-    position: absolute;
-    width: 10%;
-    height: auto;
-    left: 20%;
-}
-.por2{
-    position: absolute;
-    width: 10%;
-    height: auto;
-    top: 9rem;
-    right: 15%;
-}
-
-.div2{
-    position: absolute;
-    width: 10%;
-    height: auto;
-    left: 10%;
-    top: 16rem;
+    visibility: visible;
+    top: 30rem;
+    left: 75%;
 }
 }
-
-/* Colores
-titulo #006c56
-boton #dd2e44
-*/

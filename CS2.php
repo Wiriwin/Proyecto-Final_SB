@@ -24,16 +24,16 @@
     <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Conquista de América</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Geografía e historia de Guatemala </a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Historia Nacional y Cultural</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Medios de Transporte</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\conquista de america.pdf" class="tema" class="tema">Conquista de América</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Geografía e historia de Guatemala.pdf" class="tema" class="tema">Geografía e historia de Guatemala </a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Historia Nacional y cultural.pdf" class="tema" class="tema">Historia Nacional y Cultural</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Medios de transporte.pdf" class="tema" class="tema">Medios de Transporte</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Actividades económicas de Guatemala</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Convivencia democrática y derechos humanos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Funciones del estado y organizaciones</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Participación ciudadana y equidad</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Actividades económicas de Guatemala.pdf" class="tema" class="tema">Actividades económicas de Guatemala</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Convivencia democrática y derechos humanos.pdf" class="tema" class="tema">Convivencia democrática y derechos humanos</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Funciones del estado y organizaciones.pdf" class="tema" class="tema">Funciones del estado y organizaciones</a>
+        <a href= "pdf-sociales-1\Tercero_cuartoS\Participación ciudadana y equidad.pdf" class="tema" class="tema">Participación ciudadana y equidad</a>
     </div>
     <div class="block1">
         <div></div>

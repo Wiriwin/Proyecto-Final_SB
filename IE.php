@@ -8,6 +8,9 @@
     <title>Comunicación y Lenguaje</title>
 </head>
 <body>
+    <img src="img/fondoIE.png" class="fondo">
+    <img src="img/fondoIE.png" class="fondo2">
+
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>
@@ -52,7 +55,7 @@
         <div class="LCAC">
             <li><a href="index.php">Inicio</a></li><br>
             <li><a href="Grados.php">Grados</a></li><br>
-            <li><a href="Lecciones.php">Lecciones</a></li><br>
+            <li><a href="Lecciones1.php">Lecciones</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>
     </div>

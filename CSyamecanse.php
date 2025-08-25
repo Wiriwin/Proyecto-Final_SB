@@ -7,6 +7,7 @@
     <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\CS-diseñito.css">
     <title>Ciencias Sociales</title>
+    <?php echo "Última actualización: " . date("H:i:s"); ?>
 
 </head>
 <body>

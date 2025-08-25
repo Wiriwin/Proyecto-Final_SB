@@ -6,7 +6,7 @@
     <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\universal-style.css">
     <link rel="Stylesheet" href="css\CN-diseñito.css">
-    <title>Lecciones de Ciencias Naturales</title>
+    <title>Actividades</title>
 </head>
 <body>
     <img src="img/planets.png" class="fondo">
@@ -19,8 +19,8 @@
         </div>
     </header>
 
-    <h1 class="titulo">Ciencias Naturales</h1>
-      <h1 class="subtitulo">Quinto y Sexto Grado</h1>
+    <h1 class="titulo"> Actividades </h1>
+      <h1 class="subtitulo"> Ciencias Naturales</h1>
 
     <div class="block1">
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Teoría de la gran explosión (Big Bang)</a>
@@ -43,7 +43,7 @@
 
     <div>
         <div class="botonextra">
-            <a href="CN3acti.php" class="tema" style="text-decoration: none;">Actividades</a>
+            <a href="CN3.php" class="tema" style="text-decoration: none;">Regresar a lecciones</a>
         </div>
     </div>
     

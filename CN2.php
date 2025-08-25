@@ -23,21 +23,21 @@
     <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
 
     <div class="block1">
-        <a href= "pdf_natu_1\tercero_cuarto\Descripción de el universo.pdf" class="tema" class="tema">Descripción del universo</a>
-        <a href= "pdf_natu_1\tercero_cuarto\Animales ovíparos y vivíparos..pdf" class="tema" class="tema">animales ovíparos y vivíparos</a>
-        <a href= "pdf_natu_1\tercero_cuarto\Diferencia entre boca trompa pico y hocico.pdf" class="tema" class="tema">Diferencia entre boca, trompa, pico y hocico</a>
-        <a href= "pdf_natu_1\tercero_cuarto\Seres vivos según su forma de locomoción.pdf" class="tema" class="tema">Seres vivos según su forma de locomoción</a>
+        <a href= "pdf_natu_1\tercero_cuarto\Descripción de el universo.pdf" class="tema">Descripción del universo</a>
+        <a href= "pdf_natu_1\tercero_cuarto\Animales ovíparos y vivíparos..pdf" class="tema" >animales ovíparos y vivíparos</a>
+        <a href= "pdf_natu_1\tercero_cuarto\Diferencia entre boca trompa pico y hocico.pdf" class="tema" >Diferencia entre boca, trompa, pico y hocico</a>
+        <a href= "pdf_natu_1\tercero_cuarto\Seres vivos según su forma de locomoción.pdf" class="tema">Seres vivos según su forma de locomoción</a>
     </div>
     <div class="block1">
-        <a href= "pdf_natu_1\tercero_cuarto\Estados de la Materia.pdf" class="tema" class="tema">Estados de la materia</a>
-        <a href= "pdf_natu_1\tercero_cuarto\Instituciones que Brindan Ayuda en caso de Emergencia .pdf" class="tema" class="tema">Instituciones que brindan ayuda en caso de emergencia </a>
-        <a href= "pdf_natu_1\tercero_cuarto\Identificación de Problemas Ambientales.pdf" class="tema" class="tema">Identificación de problemas ambientales </a>
-        <a href= "pdf_natu_1\tercero_cuarto\Características Fisicas de los Primeros seres vivos en la Tierra.pdf" class="tema" class="tema">Características fisicas de los primeros seres vivos en la tierra</a>
+        <a href= "pdf_natu_1\tercero_cuarto\Estados de la Materia.pdf" class="tema" >Estados de la materia</a>
+        <a href= "pdf_natu_1\tercero_cuarto\Instituciones que Brindan Ayuda en caso de Emergencia .pdf" class="tema" >Instituciones que brindan ayuda en caso de emergencia </a>
+        <a href= "pdf_natu_1\tercero_cuarto\Identificación de Problemas Ambientales.pdf" class="tema" >Identificación de problemas ambientales </a>
+        <a href= "pdf_natu_1\tercero_cuarto\Características Fisicas de los Primeros seres vivos en la Tierra.pdf" class="tema">Características fisicas de los primeros seres vivos en la tierra</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_natu_1\tercero_cuarto\La Célula como Unidad Estructural y Funcional de los seres vivos.pdf" class="tema" class="tema">Célula como unidad estructural y funcional de los seres vivos</a>
-        <a href= "pdf_natu_1\tercero_cuarto\Distinción entre los tipos de membrana celular.pdf" class="tema" class="tema">Distinción entre los tipos de membrana celular</a>
+        <a href= "pdf_natu_1\tercero_cuarto\La Célula como Unidad Estructural y Funcional de los seres vivos.pdf" class="tema">Célula como unidad estructural y funcional de los seres vivos</a>
+        <a href= "pdf_natu_1\tercero_cuarto\Distinción entre los tipos de membrana celular.pdf" class="tema">Distinción entre los tipos de membrana celular</a>
         <div></div>
     </div>
 

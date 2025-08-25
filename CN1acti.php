@@ -26,13 +26,13 @@
         <a href= "pdf_natu_2\primero_segundo\Actividad Partes Externas del Cuerpo Humano .pdf" class="tema" class="tema">Partes externas de cuerpo humano</a>
         <a href= "pdf_natu_2\primero_segundo\Actividad Partes  Internas del Cuerpo Humano .pdf" class="tema" class="tema">Partes internas de cuerpo humano</a>
         <a href= "pdf_natu_2\primero_segundo\Actividad Factores Bióticos y Abióticos.pdf" class="tema" class="tema">Factores bióticos y abióticos</a>
-        <a href= "pdf_natu_2\primero_segundo\Actividad Sistema respiratorio.pdf" class="tema" class="tema">Sistema Respiratorio</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Sistema respiratorio .pdf" class="tema" class="tema">Sistema Respiratorio</a>
     </div>
     <div class="block1">
         <div></div>
         <a href= "pdf_natu_2\primero_segundo\Actividad Ecosistemas.pdf" class="tema" class="tema">Ecosistemas</a>
         <a href= "pdf_natu_2\primero_segundo\Actividad Hábitos de Higiene corporal.pdf" class="tema" class="tema">Prácticas de hábitos de higiene corporal</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Partes de la planta</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Partes de Planta.pdf" class="tema" class="tema">Partes de la planta</a>
         <div></div>
     </div>
 

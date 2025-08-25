@@ -24,21 +24,21 @@
       <h1 class="subtitulo"> Comunicación y Lenguaje</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Campos semáticos Actividad.pdf" class="tema" >Campos semánticos</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Conjunciones Actividad.pdf" class="tema" >Conjunciones</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Ideas principales Actividad.pdf" class="tema" >Ideas principales</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Ideas secundarias Actividad.pdf" class="tema" >Ideas secundarias</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Palabras agudas, graves y esdrújulas Actividad.pdf" class="tema" >Palabras agudas, graves y esdrújulas</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Palabras homófonas y homógrafas Actividad.pdf" class="tema" >Palabras homófonas y homógrafas</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Prefijos Actividad.pdf" class="tema" >Prefijos</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Sílaba átona Actividad.pdf" class="tema" >Sílaba átona</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tema</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Sílaba tónica Actividad.pdf" class="tema">Sílaba tónica</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\quinto-sexto\Sufijos Actividad.pdf" class="tema" class="tema">Sufijos</a>
         <div></div>
     </div>
 

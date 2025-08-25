@@ -24,10 +24,10 @@
     <h1 class="subtitulo">Ciencias Sociales</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Conquista de América</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Geografía e historia de Guatemala </a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Historia Nacional y Cultural</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Medios de Transporte</a>
+        <a href= "pdf_sociales_2\Tercero_cuartoS\Actividades de conquista de america.pdf" class="tema" class="tema">Conquista de América</a>
+        <a href= "pdf_sociales_2\Tercero_cuartoS\actividad geografía e historia.pdf" class="tema" class="tema">Geografía e historia de Guatemala </a>
+        <a href= "pdf_sociales_2\Tercero_cuartoS\historia nacional y cultural actividad.pdf" class="tema" class="tema">Historia Nacional y Cultural</a>
+        <a href= "pdf_sociales_2\Tercero_cuartoS\actividades de transportes.pdf" class="tema" class="tema">Medios de Transporte</a>
     </div>
     <div class="block1">
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Actividades económicas de Guatemala</a>
@@ -37,7 +37,7 @@
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Municipios y departamentos </a>
+        <a href= "pdf_sociales_2\Tercero_cuartoS\Actividad de Municipios y departamentos.pdf" class="tema" class="tema">Municipios y departamentos </a>
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Resolución solidaria de conflictos y desigualdades</a>
         <div></div>
     </div>

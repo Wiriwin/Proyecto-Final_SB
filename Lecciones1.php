@@ -26,7 +26,7 @@
     </div>
 
     <section class="botones">
-        <a href="CS">
+        <a href="CSyamecanse">
             <button class="boton" id="L">
                 <img src="img\CS.png" class="boton-act" id="boton-act">
                 <p>Ciencias <br>Sociales</p>

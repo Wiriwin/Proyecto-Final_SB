@@ -24,21 +24,21 @@
     <h1 class="subtitulo">Primer y Segundo Grado</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Uso de Mayúsculas</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Tipos de Silabas</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Adjetivos Calificativos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Formación de Palabras</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Uso de mayúsculas.pdf" class="tema" class="tema">Uso de Mayúsculas</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Tipos de sílabas.pdf" class="tema" class="tema">Tipos de Silabas</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Adjetivos calificativos.pdf" class="tema" class="tema">Adjetivos Calificativos</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Formación de palabras.pdf" class="tema" class="tema">Formación de Palabras</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Trabalenguas y Rimas</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Uso del Punto</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Separación de Silabas</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diminutivo y Aumentativo</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Trabalenguas y rimas.pdf" class="tema" class="tema">Trabalenguas y Rimas</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Uso del punto.pdf" class="tema" class="tema">Uso del Punto</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Separación de sílabas.pdf" class="tema" class="tema">Separación de Silabas</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Diminutivos y Aumentativos.pdf" class="tema" class="tema">Diminutivo y Aumentativo</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Oraciones Exclamativas</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Oraciones Interrogativas</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Oraciones exclamativas.pdf" class="tema" class="tema">Oraciones Exclamativas</a>
+        <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Oraciones interrogativas.pdf" class="tema" class="tema">Oraciones Interrogativas</a>
         <div></div>
     </div>
 

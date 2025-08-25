@@ -39,7 +39,7 @@
         <a href= "pdf_natu_2\tercero_cuarto\Actividad distinción entre los tipos de membrana celular.pdf" class="tema" class="tema">Distinción entre los tipos de membrana celular</a>
         <div></div>
     </div>
-
+5
     <div>
         <div class="botonextra">
             <a href="CN2.php" class="tema" style="text-decoration: none;">Regresar a Lección</a>

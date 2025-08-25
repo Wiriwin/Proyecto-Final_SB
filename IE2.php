@@ -22,21 +22,21 @@
     <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
 
     <div class="block1">
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Lectura de dígrafos.pdf" class="tema" class="tema">Lectura de Díagrafos</a>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Diptongo.pdf" class="tema" class="tema">Diptongo</a>
-        <a href= "" class="tema" class="tema">Triptongos</a>
-        <a href= "" class="tema" class="tema">Singular y Plurar</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Lectura de Díagrafos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diptongo</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Triptongos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Singular y Plurar</a>
     </div>
     <div class="block1">
-        <a href= "" class="tema" class="tema">Sinonimos y Antonimos</a>
-        <a href= "" class="tema" class="tema">Sustantivos</a>
-        <a href= "" class="tema" class="tema">Predicado</a>
-        <a href= "" class="tema" class="tema">Verbo</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sinonimos y Antonimos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sustantivos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Predicado</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Verbo</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "" class="tema" class="tema">Oraciones</a>
-        <a href= "" class="tema" class="tema">Textos Informativos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Oraciones</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Textos Informativos</a>
         <div></div>
     </div>
 

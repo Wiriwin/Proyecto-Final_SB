@@ -82,7 +82,7 @@ button{
 }
 
 .tema {
-    text-decoration: none;
+            text-decoration: none;
             background-color: #c1dc62;
             width: 95%;
             height: auto;
@@ -130,7 +130,7 @@ button{
 .botonextra{
     width: 99%;
     position: relative;
-    top: 5rem;
+    top: 1rem;
     text-align: end;
 }
 

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\CS-diseñito.css">
-    <title>Ciencias Sociales</title>
+    <title> Actividades </title>
 </head>
 <body>
     <img src="img\fondoCS.png" class="fondo">
@@ -20,8 +20,8 @@
         </div>
     </header>
 
-    <h1 class="titulo">Ciencias Sociales</h1>
-    <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
+    <h1 class="titulo">Actividades</h1>
+    <h1 class="subtitulo">Ciencias Sociales</h1>
 
     <div class="block1">
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Conquista de América</a>
@@ -44,7 +44,7 @@
 
     <div>
         <div class="botonextra">
-            <a href="CS2activi.php" class="tema" style="text-decoration: none;">Actividades</a>
+            <a href="CS2.php" class="tema" style="text-decoration: none;">Regresar a Lecciones</a>
         </div>
     </div>
     

@@ -6,7 +6,7 @@
     <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\universal-style.css">
     <link rel="Stylesheet" href="css\CN-diseñito.css">
-    <title>Lecciones y Actividades</title>
+    <title>Actividades</title>
 </head>
 <body>
     <img src="img/planets.png" class="fondo">
@@ -19,26 +19,26 @@
         </div>
     </header>
 
-    <h1 class="titulo">Ciencias Naturales</h1>
-    <h1 class="subtitulo">Primer y Segundo Grado</h1>
+    <h1 class="titulo">Actividades</h1>
+    <h1 class="subtitulo">Ciencias Naturales</h1>
 
     <div class="block1">
-        <a href= "pdf_natu_1\primero_segundo\Partes Externas del Cuerpo Humano.pdf" class="tema"> Partes externas de cuerpo humano</a>
-        <a href= "pdf_natu_1\primero_segundo\Partes Internas del Cuerpo Humano.pdf" class="tema"> Partes internas de cuerpo humano</a>
-        <a href= "pdf_natu_1/primero_segundo/Factores Bióticos y Abióticos.pdf" class="tema" >Factores bióticos y abióticos</a>
-        <a href= "pdf_natu_1\primero_segundo\Sistema Respiratorio.pdf" class="tema">Sistema Respiratorio</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Partes Externas del Cuerpo Humano .pdf" class="tema" class="tema">Partes externas de cuerpo humano</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Partes  Internas del Cuerpo Humano .pdf" class="tema" class="tema">Partes internas de cuerpo humano</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Factores Bióticos y Abióticos.pdf" class="tema" class="tema">Factores bióticos y abióticos</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Sistema respiratorio .pdf" class="tema" class="tema">Sistema Respiratorio</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_natu_1\primero_segundo\Ecosistemas.pdf" class="tema" >Ecosistemas</a>
-        <a href= "pdf_natu_1\primero_segundo\Práctica de Hábitos de Higiene Corporal.pdf" class="tema" >Prácticas de hábitos de higiene corporal</a>
-        <a href= "pdf_natu_1\primero_segundo\Partes de una Planta.pdf" class="tema" >Partes de la planta</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Ecosistemas.pdf" class="tema" class="tema">Ecosistemas</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Hábitos de Higiene corporal.pdf" class="tema" class="tema">Prácticas de hábitos de higiene corporal</a>
+        <a href= "pdf_natu_2\primero_segundo\Actividad Partes de Planta.pdf" class="tema" class="tema">Partes de la planta</a>
         <div></div>
     </div>
 
     <div>
         <div class="botonextra">
-            <a href="CN1acti.php" class="tema" style="text-decoration: none;">Actividades</a>
+            <a href="CN1.php" class="tema" style="text-decoration: none;">Regresar a lecciones</a>
         </div>
     </div>
     

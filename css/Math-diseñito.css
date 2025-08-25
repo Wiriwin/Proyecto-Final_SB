@@ -1,19 +1,8 @@
-.titulo {
-            font-size: 3.2rem;
-            font-weight: 700;
-            color: #2c3e50;
-            text-align: center;
-            margin-bottom: -15px;
-            padding-bottom: -20px;
-            border-bottom: 3px solid #3498db;
-            letter-spacing: 1px;
-            text-transform: uppercase;
-            font-family: 'Georgia', serif;
-            text-shadow: 2px 2px 3px rgba(0,0,0,0.1);
-            margin-top: 0;
-        }
-        
-        .subtitulo {
+body{
+    background-color: #9cd6e5;
+    overflow-x: hidden;
+}
+  .subtitulo {
             font-size: 1.8rem;
             font-weight: 400;
             color: #7f8c8d;
@@ -25,70 +14,89 @@
             border-radius: 5px;
             border-left: 4px solid #e74c3c;
         }
-.list-PyS button {
-    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+    /*Fondo*/
+.mas{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+    top: 0.5rem;
+    right: 5%;
+}
+.por{
+    position: absolute;
+    width: 22%;
+    height: 5rem;
+    top: 8rem;
 }
 
-.list-PyS button:hover {
-    transform: scale(1.05); 
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); 
-    cursor: pointer; 
+.div{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+    right: 2%;
+    top: 18rem;
 }
-.list-TyC button {
-    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+.Down{
+    position: relative;
+    top: 20rem;
+}
+.mas2{
+    position: absolute;
+    width: 24%;
+    height: 5rem;
+}
+.por2{
+    position: absolute;
+    width: 22%;
+    height: 5rem;
+    top: 7.5rem;
+    right: 5%;
 }
 
-.list-TyC button:hover {
-    transform: scale(1.05); 
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); 
-    cursor: pointer; 
-}
-body{
-    background-color: #c3fffd;
-    overflow-x: hidden;
-}
-.fondo{
+.div2{
     position: absolute;
-    top: 2rem;
-    left: -5%;
-}
-.earth{
-    position: absolute;
-    width: 35%;
-    height: 7rem;
-    bottom: 5rem;
-    left: 10%;
+    width: 24%;
+    height: 5rem;
+    left: 2%;
+    top: 15rem;
 }
 
 .titulo{
-    color: #4dacc4;
+    color: #006c56;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 50px;
     position: relative;
 }
 
+.documento-modal{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+}
+
 .botonextra{
+    text-align: center;
     position: relative;
     top: 1.5rem;
-    text-align: center;
 }
 
 .block1{
     position: relative;
     margin: auto;
     width: 80%;
-    border: rgb(252, 252, 252);
 }
 .block2{
     position: relative;
     margin: auto;
     width: 80%;
 }
-
 .tema {
-    text-decoration: none;
-            background-color: #c1dc62;
+            background-color: #dd2e44;
             width: 95%;
             height: auto;
             padding: 1rem;
@@ -106,7 +114,7 @@ body{
 
         /* Animación al pasar el mouse */
         .tema:hover {
-            background-color: #b0d04a;
+            background-color: #dd2e44;
             transform: translateY(-3px);
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
         }
@@ -121,26 +129,8 @@ body{
         .tema {
             animation: pulse 2s infinite;
         }
- HEAD        
-.botonextra{
-    position: relative;
-    top: 1.5rem;
-    text-align: center;
-}
 
-.block1{
-    position: relative;
-    margin: auto;
-    width: 80%;
-    border: rgb(252, 252, 252);
-}
-.block2{
-    position: relative;
-    margin: auto;
-    width: 80%;
-}
-
-@media (min-width: 868px){
+@media (min-width: 368px){
 
 .tema{
     width: 20%;
@@ -180,21 +170,67 @@ body{
   align-items:flex-start; /* alinea en el eje transversal */
 }
 
-/*Diseño de Fondo*/
-.fondo{
-    top: 1rem;
-    left: 58.5%;
-    height: 44rem;
+.imagen-tema{
+    display: none;
+    width: 17.5%;
+    position: absolute;
+    top: 5rem;
+    z-index: 400;
 }
-.earth{
-    width: auto;
-    height: 14rem;
-    bottom: 4rem;
-    left: 2%;
+
+.tema:hover .imagen-tema{
+    display: block !important;
+}
+    /*Diseño de Fondo*/
+.mas{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    top: 1rem;
+    right: 15%;
+}
+.por{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    top: 8rem;
+    left: 10%;
+}
+.div{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    right: 30%;
+    top: 18rem;
+}
+.Down{
+    position: relative;
+    top: 20rem;
+}
+.mas2{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    left: 20%;
+}
+.por2{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    top: 9rem;
+    right: 15%;
+}
+
+.div2{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    left: 10%;
+    top: 16rem;
 }
 }
 
 /* Colores
-titulo color: #4dacc4;
-boton #c1dc62
+titulo #006c56
+boton #dd2e44
 */

@@ -1,0 +1,157 @@
+html, body{
+    background-color: #9cd6e5;
+    margin: 0;
+    padding: 0;
+}
+.titulo{
+    color: #4dacc4;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    position: relative;
+}
+  .subtitulo {
+            font-size: 1.8rem;
+            font-weight: 400;
+            color: #7f8c8d;
+            text-align: center;
+            margin-top: 0;
+            font-style: italic;
+            letter-spacing: 0.5px;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #e74c3c;
+        }
+
+.tema{
+    background-color: #dd2e44;
+    width: auto;
+    height: auto;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+.botonextra{
+    position: relative;
+    text-align: center;
+    top: 1.5rem;
+}
+
+.block1{
+    position: relative;
+    margin: auto;
+    width: 80%;
+}
+.block2{
+    position: relative;
+    margin: auto;
+    width: 80%;
+}
+
+/*Fondo*/
+.fondo{
+    position: absolute;
+    top: 2rem;
+    left: 5%;
+}
+.fondo2{
+    position: absolute;
+    visibility: hidden;
+    top: 2rem;
+    left: 5%;
+}
+
+.tema {
+            background-color: #dd2e44;
+            width: 95%;
+            height: auto;
+            padding: 1rem;
+            margin: 0.5rem;
+            border-radius: 20px;
+            font-size: 20px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: white;
+            text-align: center;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Animación al pasar el mouse */
+        .tema:hover {
+            background-color: #dd2e44;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+        }
+
+        /* Animación al hacer clic */
+        .tema:active {
+            transform: translateY(1px);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Animación de pulso suave */
+        .tema {
+            animation: pulse 2s infinite;
+        }
+
+@media (min-width: 868px){
+
+.tema{
+    width: 20%;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.botonextra{
+    width: 99%;
+    position: relative;
+    top: 5rem;
+    text-align: end;
+}
+
+.titulo{
+    font-size: 80px;
+}
+
+.block1 {
+  position: relative;
+  padding: 0.5rem;
+  width: 95%;  
+  height: auto;  
+  display: flex;
+  justify-content: space-between; /* distribuye espacio entre items */
+  align-items:flex-start; /* alinea en el eje transversal */
+}
+.block2{
+  position: relative;
+  padding: 0.5rem;
+  width: 100%;  
+  height: auto;  
+  display: flex;
+  justify-content: space-between; /* distribuye espacio entre items */
+  align-items:flex-start; /* alinea en el eje transversal */
+}
+
+    /*Fondo*/
+.fondo{
+    position: absolute;
+    top: 2rem;
+    left: 5%;
+    height: 15rem;
+    width: auto;
+}
+.fondo2{
+    position: absolute;
+    visibility: visible;
+    top: 30rem;
+    left: 75%;
+}
+}

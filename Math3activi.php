@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css\universal-style.css">
     <link rel="stylesheet" href="css\Math-diseñito.css">
-    <title>Matemáticas</title>
+    <title>Actividades</title>
 </head>
 <style>
 
@@ -31,25 +31,25 @@
         <img src="img/div.png" class="div2">
     </div>
 
-    <h1 class="titulo">Matemáticas</h1>
-    <h1 class="subtitulo">Quinto y Sexto Grado</h1>
+    <h1 class="titulo">Actividades</h1>
+    <h1 class="subtitulo">Matemáticas</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\quinto_sexto\La División.pdf" class="tema">La divión</a>
-        <a href= "pdf_mate_1\quinto_sexto\La Potencia.pdf" class="tema">La potencia</a>
-        <a href= "pdf_mate_1\quinto_sexto\Raíz Cuadrada.pdf" class="tema">Raíz cuadrada</a>
-        <a href= "pdf_mate_1\quinto_sexto\Clasificación de números en Primos y Compuestos..pdf" class="tema">Números primos y compuestos</a>
+        <a href= "pdf_mate_2\quinto_sexto\Actividad la División.pdf" class="tema">La divión</a>
+        <a href= "pdf_mate_2\quinto_sexto\Actividad La Potencia.pdf" class="tema">La potencia</a>
+        <a href= "pdf_mate_2\quinto_sexto\Actividad Raíz Cuadrada.pdf" class="tema">Raíz cuadrada</a>
+        <a href= "pdf_mate_2\quinto_sexto\Actividad Clasificación de números primos y compuestos.pdf" class="tema">Números primos y compuestos</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\quinto_sexto\Identificación de la circunferencia, radio y diámetro..pdf" class="tema">Identificación de la circunferencia, radio y diámetro</a>
-        <a href= "pdf_mate_1\quinto_sexto\Clasificación de triángulos por sus ángulos (rectángulo, obtusángulo, acutángulo)..pdf" class="tema">Clasificación de triángulos por sus ángulos</a>
-        <a href= "pdf_mate_1\quinto_sexto\Cálculo de circunferencia y área del círculo..pdf" class="tema">Cálculo de circunferencia y área del círculo</a>
-        <a href= "pdf_mate_1\quinto_sexto\Cálculo de área de un rectángulo y cuadrado aplicando fórmula..pdf" class="tema">Cálculo de un rectángulo y cuadrado aplicando fórmula</a>
+        <a href= "pdf_mate_2\quinto_sexto\Actividad Identificación de la circunferencia, radio y diámetro.pdf" class="tema">Identificación de la circunferencia, radio y diámetro</a>
+        <a href= "pdf_mate_2\quinto_sexto\Actividad Clasificación de triángulos por sus Ángulos.pdf" class="tema">Clasificación de triángulos por sus ángulos</a>
+        <a href= "pdf_mate_2\quinto_sexto\Actividad Cálculo de circunferencia y área de círculo.pdf" class="tema">Cálculo de circunferencia y área del círculo</a>
+        <a href= "pdf_mate_2\quinto_sexto\Actividad Cálculo de área de un rectángulo cuadrado aplicando fórmula.pdf" class="tema">Cálculo de un rectángulo y cuadrado aplicando fórmula</a>
     </div>
 
     <div>
         <div class="botonextra">
-            <a href="Math3activi.php" class="tema" style="text-decoration: none;">Actividades</a>
+            <a href="Math3.php" class="tema" style="text-decoration: none;">Regresar a Lecciones</a>
         </div>
     </div>
     

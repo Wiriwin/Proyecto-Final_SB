@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
     <link rel="Stylesheet" href="css\Math-diseñito.css">
-    <title>Matemáticas</title>
+    <title>Actividades</title>
 </head>
 <body>
     <header>
@@ -27,30 +27,30 @@
         <img src="img/div.png" class="div2">
     </div>
 
-    <h1 class="titulo">Matemáticas</h1>
-    <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
+    <h1 class="titulo">Actividades</h1>
+    <h1 class="subtitulo">Matemáticas</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\tercero_cuarto\Concepto de los Ángulos.pdf" class="tema">Concepto de los ángulos</a>
-        <a href= "pdf_mate_1\tercero_cuarto\La suma.pdf" class="tema">La suma</a>
-        <a href= "pdf_mate_1\tercero_cuarto\La resta.pdf" class="tema">La resta</a>
-        <a href= "pdf_mate_1\tercero_cuarto\La Multiplicación.pdf" class="tema">La multiplicación</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad Concepto de los Ángulos.pdf" class="tema">Concepto de los ángulos</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad La Suma.pdf" class="tema">La suma</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad La Resta.pdf" class="tema">La resta</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad La Multiplicación.pdf" class="tema">La multiplicación</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\tercero_cuarto\Lectura y escritura de números Romanos de I hasta C ..pdf" class="tema">Números romanos</a>
-        <a href= "pdf_mate_1\tercero_cuarto\Asociación de Concepto de Conjunto Vacío y Unitario con Conjuntos de su Entorno..pdf" class="tema">concepto de conjunto vacío y unitario</a>
-        <a href= "pdf_mate_1\tercero_cuarto\Identificación de conjuntos en Iguales y Equivalentes..pdf" class="tema">Identificación de conjuntos iguales y equivalentes</a>
-        <a href= "pdf_mate_1\tercero_cuarto\Descripción del significado de la unión e intersección de conjuntos..pdf" class="tema">Unión e intersecciónde conjuntos</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad Lectura y Escritura de Números Romanos.pdf" class="tema">Números romanos</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad Asociación de conjunto vacío numeral cero.pdf" class="tema">concepto de conjunto vacío y unitario</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad Identificación de conjuntos iguales y equivalentes.pdf" class="tema">Identificación de conjuntos iguales y equivalentes</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad Descripción del significado de la unión e intersección de conjuntos.pdf" class="tema">Unión e intersecciónde conjuntos</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\tercero_cuarto\Asociación del concepto de Triángulo Equilátero, Isósceles y Escaleno.pdf" class="tema">Asociación de triángulo equilátero, isósceles y escaleno</a>
+        <a href= "pdf_mate_2\tercero_cuarto\Actividad Asociación del concepto de Triángulo Equilátero, Isósceles y Escaleno.pdf" class="tema">Asociación de triángulo equilátero, isósceles y escaleno</a>
         <div></div>
     </div>
 
     <div>
         <div class="botonextra">
-            <a href="Math2activi.php" class="tema" style="text-decoration: none;">Actividades</a>
+            <a href="Math2.php" class="tema" style="text-decoration: none;">Regresar a Lecciones</a>
         </div>
     </div>
 

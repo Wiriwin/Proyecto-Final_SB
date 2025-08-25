@@ -61,7 +61,7 @@
             <span class="bar-cerrar2"></span>
         </div>
         <div class="LCAC">
-            <li><a href="index.php">Inicio</a></li><br>
+            <li><a href="login.php">Inicio</a></li><br>
             <li><a href="Grados.php">Grados</a></li><br>
             <li><a href="">Cerrar Sesion</a></li>
         </div>

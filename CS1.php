@@ -26,20 +26,20 @@
 
     <div class="block1">
         <a href= "pdf-sociales-1\Primero_segundoS\El barrio y la comunidad.pdf" class="tema">El barrio y la comunidad</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Identidad cultural</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La escuela</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La familia </a>
+        <a href= "pdf-sociales-1\Primero_segundoS\Identidad Cultural.pdf" class="tema">Identidad cultural</a>
+        <a href= "pdf-sociales-1\Primero_segundoS\La escuela.pdf" class="tema">La escuela</a>
+        <a href= "pdf-sociales-1\Primero_segundoS\La familia.pdf" class="tema">La familia </a>
     </div>
     <div class="block1">
         <a href= "pdf-sociales-1\Primero_segundoS\Características de américa.pdf" class="tema">Características de América</a>
         <a href= "pdf-sociales-1\Primero_segundoS\Demografía de Guatemala.pdf">Demografía de Guatemala </a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Historia universal </a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Migración y crecimiento Urbano </a>
+        <a href= "pdf-sociales-1\Primero_segundoS\historia universal.pdf" class="tema">Historia universal </a>
+        <a href= "pdf-sociales-1\Primero_segundoS\Migracion y crecimiento urbano.pdf" class="tema">Migración y crecimiento Urbano </a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Valores y principios</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Problemas ambientales</a>
+        <a href= "pdf-sociales-1\Primero_segundoS\Valores y principios.pdf" class="tema">Valores y principios</a>
+        <a href= "pdf-sociales-1\Primero_segundoS\Problemas ambientales.pdf" class="tema">Problemas ambientales</a>
         <div></div>
     </div>
 

@@ -31,20 +31,20 @@
     <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Concepto de los ángulos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La suma</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La resta</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La multiplicación</a>
+        <a href= "pdf_mate_1\tercero_cuarto\Concepto de los Ángulos.pdf" class="tema">Concepto de los ángulos</a>
+        <a href= "pdf_mate_1\tercero_cuarto\La suma.pdf" class="tema">La suma</a>
+        <a href= "pdf_mate_1\tercero_cuarto\La resta.pdf" class="tema">La resta</a>
+        <a href= "pdf_mate_1\tercero_cuarto\La Multiplicación.pdf" class="tema">La multiplicación</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Números romanos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">concepto de conjunto vacío y unitario</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Identificación de conjuntos iguales y equivalentes</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Unión e intersecciónde conjuntos</a>
+        <a href= "pdf_mate_1\tercero_cuarto\Lectura y escritura de números Romanos de I hasta C ..pdf" class="tema">Números romanos</a>
+        <a href= "pdf_mate_1\tercero_cuarto\Asociación de Concepto de Conjunto Vacío y Unitario con Conjuntos de su Entorno..pdf" class="tema">concepto de conjunto vacío y unitario</a>
+        <a href= "pdf_mate_1\tercero_cuarto\Identificación de conjuntos en Iguales y Equivalentes..pdf" class="tema">Identificación de conjuntos iguales y equivalentes</a>
+        <a href= "pdf_mate_1\tercero_cuarto\Descripción del significado de la unión e intersección de conjuntos..pdf" class="tema">Unión e intersecciónde conjuntos</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Asociación de triángulo equilátero, isósceles y escaleno</a>
+        <a href= "pdf_mate_1\tercero_cuarto\Asociación del concepto de Triángulo Equilátero, Isósceles y Escaleno.pdf" class="tema">Asociación de triángulo equilátero, isósceles y escaleno</a>
         <div></div>
     </div>
 

@@ -35,16 +35,16 @@
     <h1 class="subtitulo">Quinto y Sexto Grado</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La divión</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La potencia</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Raíz cuadrada</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Números primos y compuestos</a>
+        <a href= "pdf_mate_1\quinto_sexto\La División.pdf" class="tema">La divión</a>
+        <a href= "pdf_mate_1\quinto_sexto\La Potencia.pdf" class="tema">La potencia</a>
+        <a href= "pdf_mate_1\quinto_sexto\Raíz Cuadrada.pdf" class="tema">Raíz cuadrada</a>
+        <a href= "pdf_mate_1\quinto_sexto\Clasificación de números en Primos y Compuestos..pdf" class="tema">Números primos y compuestos</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Identificación de la circunferencia, radio y diámetro</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Clasificación de triángulos por sus ángulos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Cálculo de circunferencia y área del círculo</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Cálculo de un rectángulo y cuadrado aplicando fórmula</a>
+        <a href= "pdf_mate_1\quinto_sexto\Identificación de la circunferencia, radio y diámetro..pdf" class="tema">Identificación de la circunferencia, radio y diámetro</a>
+        <a href= "pdf_mate_1\quinto_sexto\Clasificación de triángulos por sus ángulos (rectángulo, obtusángulo, acutángulo)..pdf" class="tema">Clasificación de triángulos por sus ángulos</a>
+        <a href= "pdf_mate_1\quinto_sexto\Cálculo de circunferencia y área del círculo..pdf" class="tema">Cálculo de circunferencia y área del círculo</a>
+        <a href= "pdf_mate_1\quinto_sexto\Cálculo de área de un rectángulo y cuadrado aplicando fórmula..pdf" class="tema">Cálculo de un rectángulo y cuadrado aplicando fórmula</a>
     </div>
 
     <div>

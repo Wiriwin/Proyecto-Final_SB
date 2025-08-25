@@ -31,21 +31,21 @@
     <h1 class="subtitulo">Matemáticas</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Partes de una fracción</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Identificación de conjuntos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Figuras geométricas</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La recta numérica</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Descripción del significado de cada parte de una fracción.pdf" class="tema">Partes de una fracción</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Identificación de conjuntos.pdf" class="tema">Identificación de conjuntos</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Identificación de Figuras Geométricas.pdf" class="tema">Figuras geométricas</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Localización de numerales en la recta numérica.pdf" class="tema">La recta numérica</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Trazo de líneas</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Asociacion del conjunto vacío con el numeral cero</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Descripción de triángulos y Cuadrilateros</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Lectura y escritura de numerales del 1 al 9</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Trazo de Líneas.pdf" class="tema">Trazo de líneas</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Asociación de conjunto vacío numeral cero.pdf" class="tema">Asociacion del conjunto vacío con el numeral cero</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad descripción de Triangulos y Cuadriláteros.pdf" class="tema">Descripción de triángulos y Cuadrilateros</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Lectura y Escritura de numerales de 1 a 9.pdf" class="tema">Lectura y escritura de numerales del 1 al 9</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Unidades de medidas de peso</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">identificacion de ángulo recto</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Utilización de Unidades de medidas de peso (1).pdf" class="tema">Unidades de medidas de peso</a>
+        <a href= "pdf_mate_2\primero_segundo\Actividad Identificación de ángulo recto.pdf" class="tema">identificacion de ángulo recto</a>
         <div></div>
     </div>
 

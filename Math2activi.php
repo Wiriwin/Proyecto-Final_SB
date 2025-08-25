@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
     <link rel="Stylesheet" href="css\Math-diseñito.css">
-    <title>Matemáticas</title>
+    <title>Actividades</title>
 </head>
 <body>
     <header>
@@ -27,8 +27,8 @@
         <img src="img/div.png" class="div2">
     </div>
 
-    <h1 class="titulo">Matemáticas</h1>
-    <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
+    <h1 class="titulo">Actividades</h1>
+    <h1 class="subtitulo">Matemáticas</h1>
 
     <div class="block1">
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Concepto de los ángulos</a>
@@ -50,7 +50,7 @@
 
     <div>
         <div class="botonextra">
-            <a href="Math2activi.php" class="tema" style="text-decoration: none;">Actividades</a>
+            <a href="Math2.php" class="tema" style="text-decoration: none;">Regresar a Lecciones</a>
         </div>
     </div>
 

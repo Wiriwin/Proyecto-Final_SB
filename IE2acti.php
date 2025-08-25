@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\IE-diseñito.css">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <title>Comunicación y Lenguaje</title>
+    <title>Actividades</title>
 </head>
 <body>
 
@@ -20,8 +20,8 @@
         </div>
     </header>
 
-    <h1 class="titulo">Comunicación y Lenguaje</h1>
-    <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
+    <h1 class="titulo">Actividades</h1>
+    <h1 class="subtitulo">Comunicación y Lenguaje</h1>
 
     <div class="block1">
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Lectura de Díagrafos</a>
@@ -44,7 +44,7 @@
 
     <div>
         <div class="botonextra">
-            <a href="IE2acti.php" class="tema" style="text-decoration: none;">Actividades</a>
+            <a href="IE2.php" class="tema" style="text-decoration: none;">Regresar a Lecciones</a>
         </div>
     </div>
 

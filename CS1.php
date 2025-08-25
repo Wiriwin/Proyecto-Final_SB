@@ -25,14 +25,14 @@
     <h1 class="subtitulo">Primer y Segundo Grado</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">El barrio y la comunidad</a>
+        <a href= "pdf-sociales-1\Primero_segundoS\El barrio y la comunidad.pdf" class="tema">El barrio y la comunidad</a>
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Identidad cultural</a>
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La escuela</a>
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">La familia </a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Características de América</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Demografía de Guatemala </a>
+        <a href= "pdf-sociales-1\Primero_segundoS\Características de américa.pdf" class="tema">Características de América</a>
+        <a href= "pdf-sociales-1\Primero_segundoS\Demografía de Guatemala.pdf">Demografía de Guatemala </a>
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Historia universal </a>
         <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema">Migración y crecimiento Urbano </a>
     </div>

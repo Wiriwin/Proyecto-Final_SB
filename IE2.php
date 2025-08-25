@@ -3,13 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\IE-diseñito.css">
+    <link rel="Stylesheet" href="css\IE-diseñitos.css">
     <link rel="Stylesheet" href="css\universal-styles.css">
     <title>Comunicación y Lenguaje</title>
 </head>
 <body>
-
-    <img src="img/fondoIE.png" class="fondo">
     <img src="img/fondoIE.png" class="fondo2">
 
     <header>
@@ -24,21 +22,21 @@
     <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
 
     <div class="block1">
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Lectura de dígrafos.pdf" class="tema" class="tema">Lectura de Díagrafos</a>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Diptongo.pdf" class="tema" class="tema">Diptongo</a>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Triptongo.pdf" class="tema" class="tema">Triptongos</a>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Singular y plural.pdf" class="tema" class="tema">Singular y Plurar</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Lectura de Díagrafos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diptongo</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Triptongos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Singular y Plurar</a>
     </div>
     <div class="block1">
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Sinónimos y antónimos.pdf" class="tema" class="tema">Sinonimos y Antonimos</a>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Sustantivo.pdf" class="tema" class="tema">Sustantivos</a>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Predicado.pdf" class="tema" class="tema">Predicado</a>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Verbo.pdf" class="tema" class="tema">Verbo</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sinonimos y Antonimos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sustantivos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Predicado</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Verbo</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Oraciones.pdf" class="tema" class="tema">Oraciones</a>
-        <a href= "pdf-comunicacion-1\comunicacion_1\tercero-cuarto\Textos informativos.pdf" class="tema" class="tema">Textos Informativos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Oraciones</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Textos Informativos</a>
         <div></div>
     </div>
 

@@ -32,7 +32,7 @@
                 <p>Ciencias <br>Sociales</p>
             </button>
         </a>
-        <a href="Math2">
+        <a href="Math2.php">
             <button class="boton" id="A">
                 <img src="img\Mate.png" class="boton-act2" id="boton-act">
                 <p class="p2">Matemáticas</p>
@@ -46,7 +46,7 @@
                 <p class="p3">Ciencias <br>Naturales</p>
             </button>
         </a>
-        <a href="IE2">
+        <a href="IE2.php">
             <button class="boton" id="D">
                 <img src="img\IE.png" class="boton-act4" id="boton-act">
                 <p class="p4">Idioma <br>Español</p>

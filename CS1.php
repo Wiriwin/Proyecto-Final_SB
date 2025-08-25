@@ -32,7 +32,7 @@
     </div>
     <div class="block1">
         <a href= "pdf-sociales-1\Primero_segundoS\Características de américa.pdf" class="tema">Características de América</a>
-        <a href= "pdf-sociales-1\Primero_segundoS\Demografía de Guatemala.pdf">Demografía de Guatemala </a>
+        <a href= "pdf-sociales-1\Primero_segundoS\Demografía de Guatemala.pdf" class="tema">Demografía de Guatemala </a>
         <a href= "pdf-sociales-1\Primero_segundoS\historia universal.pdf" class="tema">Historia universal </a>
         <a href= "pdf-sociales-1\Primero_segundoS\Migracion y crecimiento urbano.pdf" class="tema">Migración y crecimiento Urbano </a>
     </div>

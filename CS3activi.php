@@ -29,7 +29,7 @@
         <a href= "pdf_sociales_2\Quinto_sextoS\Derechos y deberes actividad.pdf" class="tema" class="tema">Derechos y Deberes</a>
         <a href= "pdf_sociales_2\Quinto_sextoS\Diversidad Cultural actividad.pdf" class="tema" class="tema">Diversidad cultural</a>
         <a href= "pdf_sociales_2\Quinto_sextoS\Actividad Geografía de Guatemala.pdf" class="tema" class="tema">Geografía</a>
-        <a href= "pdf_sociales_2\Quinto_sextoS\Actividad Historia de Guatemala.pdf" class="tema" class="tema">historia de Guatemala</a>
+        <a href= "pdf_sociales_2\Quinto_sextoS\Actividad Historia de Guatemala.pdf" class="tema" class="tema">Historia de Guatemala</a>
     </div>
     
     <div class="block1">

@@ -35,7 +35,7 @@
     <h1 class="subtitulo">Quinto y Sexto Grado</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\quinto_sexto\La División.pdf" class="tema">La divión</a>
+        <a href= "pdf_mate_1\quinto_sexto\La División.pdf" class="tema">La división</a>
         <a href= "pdf_mate_1\quinto_sexto\La Potencia.pdf" class="tema">La potencia</a>
         <a href= "pdf_mate_1\quinto_sexto\Raíz Cuadrada.pdf" class="tema">Raíz cuadrada</a>
         <a href= "pdf_mate_1\quinto_sexto\Clasificación de números en Primos y Compuestos..pdf" class="tema">Números primos y compuestos</a>

@@ -9,7 +9,6 @@
 </head>
 <body>
 
-    <img src="img/fondoIE.png" class="fondo">
     <img src="img/fondoIE.png" class="fondo2">
 
     <header>

@@ -24,21 +24,20 @@
     <h1 class="subtitulo">Comunicación y Lenguaje</h1>
 
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Lectura de Díagrafos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diptongo</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Triptongos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Singular y Plurar</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Dígrafos Actividad.pdf" class="tema" >Lectura de Dígrafos</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Diptongo Actividad.pdf" class="tema" >Diptongo</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Triptongos Actividad.pdf" class="tema" >Triptongos</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Singular y plural Actividad.pdf" class="tema" >Singular y Plurar</a>
     </div>
     <div class="block1">
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sinonimos y Antonimos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Sustantivos</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Predicado</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Verbo</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Sinónimos Actividad.pdf" class="tema" >Sinónimos</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Antónimos Actividad.pdf" class="tema" >Antónimos</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Sustantivos y predicado Actividad.pdf" class="tema" >Sustantivo y predicado</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Oraciones y verbo Actividad.pdf" class="tema" >Oraciones y verbo</a>
     </div>
     <div class="block1">
         <div></div>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Oraciones</a>
-        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Textos Informativos</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\tercero-cuarto\Textos informativos Actividad.pdf" class="tema" >Textos Informativos</a>
         <div></div>
     </div>
 

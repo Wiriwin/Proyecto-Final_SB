@@ -3,15 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\IE-diseñito.css">
+    <link rel="Stylesheet" href="css\IE-diseñitos.css">
     <link rel="Stylesheet" href="css\universal-styles.css">
     <title>Comunicación y Lenguaje</title>
 </head>
 <body>
-
-    <img src="img/fondoIE.png" class="fondo">
-    <img src="img/fondoIE.png" class="fondo2">
-
     <header>
         <div class="hamburger-abrir" id="hamburger-abrir">
             <span class="bar-abrir"></span>

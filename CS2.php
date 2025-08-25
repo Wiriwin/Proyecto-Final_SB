@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\CS-style.css">
+    <link rel="Stylesheet" href="css\universal-styles.css">
+    <link rel="Stylesheet" href="css\CS-diseñito.css">
     <title>Ciencias Sociales</title>
 </head>
 <body>
@@ -20,25 +20,25 @@
         </div>
     </header>
 
-    <h1>Ciencias Sociales</h1>
-    <h1>Tercer y Cuarto grado</h1>
+    <h1 class="titulo">Ciencias Sociales</h1>
+    <h1 class="subtitulo">ya no doy</h1>
 
     <div class="block1">
-        <button class="tema">Conquista de América</button>
-        <button class="tema">Geografía e historia de Guatemala </button>
-        <button class="tema">Historia Nacional y Cultural</button>
-        <button class="tema">Medios de Transporte</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Conquista de América</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Geografía e historia de Guatemala </a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Historia Nacional y Cultural</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Medios de Transporte</a>
     </div>
     <div class="block1">
-        <button class="tema">Actividades económicas de Guatemala</button>
-        <button class="tema">Convivencia democrática y derechos humanos</button>
-        <button class="tema">Funciones del estado y organizaciones</button>
-        <button class="tema">Participación ciudadana y equidad</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Actividades económicas de Guatemala</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Convivencia democrática y derechos humanos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Funciones del estado y organizaciones</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Participación ciudadana y equidad</a>
     </div>
     <div class="block1">
         <div></div>
-        <button class="tema">Municipios y departamentos </button>
-        <button class="tema">Resolución solidaria de conflictos y desigualdades</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Municipios y departamentos </a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Resolución solidaria de conflictos y desigualdades</a>
         <div></div>
     </div>
 

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\Math-style.css">
+    <link rel="Stylesheet" href="css\Math-diseñito.css">
     <title>Matemáticas</title>
 </head>
 <body>
@@ -28,23 +28,24 @@
     </div>
 
     <h1 class="titulo">Matemáticas</h1>
+    <h1 class="subtitulo">Primer y Segundo Grado</h1>
 
     <div class="block1">
-        <button class="tema">Partes de una fracción</button>
-        <button class="tema">Identificación de conjuntos</button>
-        <button class="tema">Figuras geométricas</button>
-        <button class="tema">La recta numérica</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Partes de una fracción</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Identificación de conjuntos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Figuras geométricas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">La recta numérica</a>
     </div>
     <div class="block1">
-        <button class="tema">Trazo de líneas</button>
-        <button class="tema">Asociacion del conjunto vacío con el numeral cero</button>
-        <button class="tema">Descripción de triángulos y Cuadrilateros</button>
-        <button class="tema">Lectura y escritura de numerales del 1 al 9</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Trazo de líneas</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Asociacion del conjunto vacío con el numeral cero</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Descripción de triángulos y Cuadrilateros</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Lectura y escritura de numerales del 1 al 9</a>
     </div>
     <div class="block1">
         <div></div>
-        <button class="tema">Unidades de medidas de peso</button>
-        <button class="tema">identificacion de ángulo recto</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">Unidades de medidas de peso</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf">identificacion de ángulo recto</a>
         <div></div>
     </div>
 

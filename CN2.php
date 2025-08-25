@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="Stylesheet" href="css\universal-styles.css">
     <link rel="Stylesheet" href="css\universal-style.css">
-    <link rel="Stylesheet" href="css\CN-diseño.css">
+    <link rel="Stylesheet" href="css\CN-diseñito.css">
     <title>Lecciones y Actividades</title>
 </head>
 <body>
@@ -20,23 +20,24 @@
     </header>
 
     <h1 class="titulo">Ciencias Naturales</h1>
+    <h1 class="subtitulo">Tercer y Cuarto Grado</h1>
 
     <div class="block1">
-        <button class="tema">Descripción del universo</button>
-        <button class="tema">animales ovíparos y vivíparos</button>
-        <button class="tema">Diferencia entre boca, trompa, pico y hocico</button>
-        <button class="tema">Seres vivos según su forma de locomoción</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Descripción del universo</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">animales ovíparos y vivíparos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Diferencia entre boca, trompa, pico y hocico</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Seres vivos según su forma de locomoción</a>
     </div>
     <div class="block1">
-        <button class="tema">Estados de la materia</button>
-        <button class="tema">Instituciones que brindan ayuda en caso de emergencia </button>
-        <button class="tema">Identificación de problemas ambientales </button>
-        <button class="tema">Características fisicas de los primeros seres vivos en la tierra</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Estados de la materia</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Instituciones que brindan ayuda en caso de emergencia </a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Identificación de problemas ambientales </a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Características fisicas de los primeros seres vivos en la tierra</a>
     </div>
     <div class="block1">
         <div></div>
-        <button class="tema">Célula como unidad estructural y funcional de los seres vivos</button>
-        <button class="tema">Distinción entre los tipos de membrana celular</button>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Célula como unidad estructural y funcional de los seres vivos</a>
+        <a href= "pdf_mate_1\primero_segundo\Asociación del Conjunto vacío con el Numeral Cero.pdf" class="tema" class="tema">Distinción entre los tipos de membrana celular</a>
         <div></div>
     </div>
 

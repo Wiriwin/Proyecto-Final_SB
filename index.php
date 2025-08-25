@@ -5,7 +5,7 @@ session_start();
 
 // Verificar si el usuario está logueado
 if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
-    header("Location: /login.php"); // Usar URL absoluta
+    header("Location:/login.php"); // Usar URL absoluta
     exit();
 }
 ?>
@@ -59,7 +59,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
         </div>
         <div class="LCAC">
             <ul>
-                <li><a href="Grades.php">Grados</a></li>
+                <li><a href="Grados.php">Grados</a></li>
                 <li><a href="logout.php">Cerrar Sesión</a></li>
             </ul>
         </div>

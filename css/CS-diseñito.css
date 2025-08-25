@@ -25,6 +25,7 @@
             border-radius: 5px;
             border-left: 4px solid #e74c3c;
         }
+        
 .list-PyS button {
     transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
@@ -68,7 +69,26 @@ body{
     position: relative;
 }
 
+.botonextra{
+    position: relative;
+    top: 1.5rem;
+    text-align: center;
+}
+
+.block1{
+    position: relative;
+    margin: auto;
+    width: 80%;
+    border: rgb(252, 252, 252);
+}
+.block2{
+    position: relative;
+    margin: auto;
+    width: 80%;
+}
+
 .tema {
+    text-decoration: none;
             background-color: #c1dc62;
             width: 95%;
             height: auto;
@@ -102,6 +122,7 @@ body{
         .tema {
             animation: pulse 2s infinite;
         }
+ HEAD        
 .botonextra{
     position: relative;
     top: 1.5rem;

@@ -27,7 +27,7 @@
         <a href= "pdf-comunicacion-2\comunicacion-2\primero_segundo\Mayúsculas Actividad.pdf" class="tema" >Uso de Mayúsculas</a>
         <a href= "pdf-comunicacion-2\comunicacion-2\primero_segundo\Tipos de sílabas Actividad.pdf" class="tema" >Tipos de Silabas</a>
         <a href= "pdf-comunicacion-1\comunicacion_1\primero_segundo\Adjetivos calificativos.pdf" class="tema" >Adjetivos Calificativos</a>
-        <a href= "pdf-comunicacion-2\comunicacion-2\primero_segundo\Adjetivos calificativos Actividad.pdf" class="tema" >Formación de Palabras</a>
+        <a href= "pdf-comunicacion-2\comunicacion-2\primero_segundo\Formación de palabras Actividad.pdf" class="tema" >Formación de Palabras</a>
     </div>
     <div class="block1">
         <a href= "pdf-comunicacion-2\comunicacion-2\primero_segundo\Trabalenguas y rimas Actividad.pdf" class="tema">Trabalenguas y Rimas</a>

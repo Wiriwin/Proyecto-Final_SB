@@ -75,9 +75,10 @@ html, body {
 .niños{
     align-items: center;
     width: 95%;
-    position: relative;
-    top: 22rem;
+    position: absolute;
+    top: 17.5rem;
     left: 2%;
+    display: flex;
 }
 .cesped{
     position: relative;

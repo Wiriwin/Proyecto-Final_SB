@@ -8,6 +8,6 @@ $_SESSION = array();
 session_destroy();
 
 // Redirigir al login
-header("Location: login.php");
+header("Location:http://localhost/Proyecto-Final_SB/index.php");
 exit();
 ?>

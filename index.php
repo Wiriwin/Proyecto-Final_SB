@@ -5,7 +5,7 @@ session_start();
 
 // Verificar si el usuario está logueado
 if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
-    header("Location:/login.php"); // Usar URL absoluta
+    header("http://localhost/Proyecto-Final_SB/index.php"); // Usar URL absoluta
     exit();
 }
 ?>

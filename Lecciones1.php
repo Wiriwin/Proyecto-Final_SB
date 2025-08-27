@@ -29,10 +29,10 @@
         <a href="CS1.php">
             <button class="boton" id="L">
                 <img src="img\CS.png" class="boton-act" id="boton-act">
-                <p>Ciencias <br>Sociales</p>
+                <p> Ciencias <br>Sociales</p>
             </button>
         </a>
-        <a href="Math">
+        <a href="Math.php">
             <button class="boton" id="A">
                 <img src="img\Mate.png" class="boton-act2" id="boton-act">
                 <p class="p2">Matemáticas</p>

@@ -79,34 +79,7 @@ h1{
     transform: rotate(135deg);
     background-color: #ffa64d;
     position: absolute;
-}
-.boton {
-            padding: 15px 30px;
-            font-size: 18px;
-            background-color: #ffffff;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        }
-        
-        .boton:hover {
-            background-color: #ffffff;
-            transform: translateY(-3px);
-            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-        }
-        
-        .boton:active {
-            transform: translateY(0);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        }
-
-.boton-act4{
-    position: fixed;
-}
-
+} 
 @media (min-width: 368px) {
 
 .bar-abrir {

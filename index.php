@@ -14,8 +14,8 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/universal-styles.css">
-    <link rel="stylesheet" href="css/index-styles.css">
+    <link rel="stylesheet" href="css/universal-diseño.css">
+    <link rel="stylesheet" href="css/index-diseño.css">
     <title>Sabiduría Chapina</title>
 </head>
 <body>
@@ -31,8 +31,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
     </header>
 
     <section class="center">
-        <h1 class="titulo-bienvenida">Bienvenido, <?php echo htmlspecialchars($_SESSION['user_name'] ?? 'Usuario', ENT_QUOTES, 'UTF-8'); ?></h1>
-        <img src="img/arcoiris.png" class="arcoiris" alt="Arcoíris">
+        <img src="img/arcoiris.png" class="arcoiris">
     </section>
 
     <div class="fondo-nubes">
@@ -41,10 +40,9 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
         <img src="img/nube1.png" class="nubes4" id="nubes" alt="Nube">
     </div>
 
-    <div>
-        <img src="img/maripLeft.png" class="maripLeft" alt="Mariposa izquierda">
-        <img src="img/maripRight.png" class="maripRight" alt="Mariposa derecha">
-    </div>
+    <section class="center">
+        <h1 class="titulo-bienvenida">Bienvenido, <?php echo htmlspecialchars($_SESSION['user_name'] ?? 'Usuario', ENT_QUOTES, 'UTF-8'); ?></h1>
+    </section>
 
     <div class="footer">
         <img src="img/niños.png" class="niños" alt="Niños">
@@ -58,10 +56,9 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
             <span class="bar-cerrar2"></span>
         </div>
         <div class="LCAC">
-            <ul>
-                <li><a href="Grados.php">Grados</a></li>
-                <li><a href="logout.php">Cerrar Sesión</a></li>
-            </ul>
+            <li><a href="Grados.php">Grados</a></li>
+            <br>
+            <li><a href="logout.php">Cerrar Sesión</a></li>
         </div>
     </div>
 

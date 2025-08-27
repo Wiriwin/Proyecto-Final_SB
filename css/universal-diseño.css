@@ -83,24 +83,24 @@ h1{
 @media (min-width: 368px) {
 
 .bar-abrir {
-    width: 45px;
-    height: 5px;
-    margin: 4px;
+    width: 60px;
+    height: 7px;
+    margin: 5px;
     border-radius: 40px;
 }
 .nav-list {
-        padding: 1rem;
+        padding: 0.5rem;
 }
 .nav-list li a {
-        font-size: 18px;
+        font-size: 20px;
 }
 .bar-cerrar1 {
-    width: 35px;
+    width: 40px;
     height: 5px;
     top: 0.2rem;
 }
 .bar-cerrar2 {
-    width: 35px;
+    width: 40px;
     height: 5px;
     top: 0.2rem;
 }

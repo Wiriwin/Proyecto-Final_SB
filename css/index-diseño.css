@@ -11,10 +11,11 @@ html, body {
     font-size: 12px;
     color: #ffff;
     border: none;
+    padding: 0.5rem;
     border-radius: 50px;
     cursor: pointer;
-    width: 100px;
-    height: 25px;
+    width: auto;
+    height: auto;
     right: 8%;
     top: 1.5rem;
     transition: background-color 0.3s ease;
@@ -26,14 +27,14 @@ html, body {
 
 /*diseño del fondo*/
 .arcoiris {
-    width: 80%;
-    height: 11rem;
-    position: absolute;
-    display: flex;
+    position: relative;
     visibility: visible;
-    top: 8rem;
-    left: 10%;
-    filter: brightness(1)
+    top: 1.5rem;
+    filter: brightness(1);
+    width: 70%; /* Aumenta el porcentaje si quieres que ocupe más ancho */
+    height: auto; /* Mantiene la proporción original */
+    display: block;
+    margin: 0 auto; /* Centra la imagen horizontalmente */
 }
 
 .nubes{
@@ -76,58 +77,52 @@ html, body {
     align-items: center;
     width: 95%;
     position: absolute;
-    top: 17.5rem;
+    top: 26.5rem;
     left: 2%;
     display: flex;
 }
 .cesped{
     position: relative;
-    top: 20.5rem;
+    top: 8rem;
     width: 120%;
     height: 5.5rem;
 }
 .cesped2{
     position: relative;
-    top: 21rem;
+    top: 9rem;
     width: 120%;
     height: 5.5rem;
 }
-.arcoiris {
-    width: 60%; /* Aumenta el porcentaje si quieres que ocupe más ancho */
-    height: auto; /* Mantiene la proporción original */
-    display: block;
-    margin: 0 auto; /* Centra la imagen horizontalmente */
-}
 
 .titulo-bienvenida {
+    position: relative;
     font-family: 'Comic Sans MS', cursive;
     font-size: 3rem;
     color: #ff6600;
     text-align: center;
-    margin-top: 4rem;
+    margin-top: 2rem;
     text-shadow: 1px 1px 2px #fff;
 }
-
 
 @media (min-width: 368px) {
 
 .boton{
+    padding: 1rem;
     font-size: 18px;
     border-radius: 50px;
-    width: 130px;
-    height: 35px;
+    width: auto;
+    height: auto;
     right: 3%;
     top: 25px;
     transition: background-color 0.3s ease;
 }
 .arcoiris {
-    width: 45%;
-    height: 20.5rem;
-    position: absolute;
-    display: flex;
+    width: 35%;
+    height: auto;
     visibility: visible;
-    top: 3rem;
-    left: 26%;
+    top: -2rem;
+    display: block;
+    margin: 0 auto;
 }
 .nubes{
     position: absolute;
@@ -160,21 +155,33 @@ html, body {
     width: 25%;
 }
 .niños{
-    width: 45%;
+    width: 40%;
     position: relative;
-    top: 17rem;
-    left: 27%;
+    top: 8.5rem;
+    display: block;
+    margin: 0 auto;
 }
 .cesped{
     position: relative;
-    top: 9.5rem;
-    width: 100%;
+    top: 2rem;
+    width: 107%;
     height: 5.5rem;
 }
 .cesped2{
     position: relative;
-    top: 15.5rem;
+    visibility: hidden;
+    top: 0;
     width: 100%;
     height: 5.5rem;
+}
+
+.titulo-bienvenida {
+    font-size: 4rem;
+    margin-top: -15rem;
+}
+
+.footer{
+    width: 96%;
+    margin-top: -6rem;
 }
 }

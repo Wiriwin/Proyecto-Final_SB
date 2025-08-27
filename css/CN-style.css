@@ -1,5 +1,5 @@
 body{
-    background-color: #9cd6e5;
+    background-color: #b5f6af;
     overflow-x: hidden;
 }
 .fondo{
@@ -42,20 +42,6 @@ body{
             border-radius: 5px;
         }
 
-button{
-    width: 95%;
-    height: auto;
-    padding: 1rem;
-    margin-bottom: 0.5rem;
-    background-color: #dd2e44;
-
-}
-
-    body{
-    background-color: #b5f6af;
-    overflow-x: hidden;
-}
-
 .fondo{
     width: 140%;
     position: absolute;
@@ -82,12 +68,12 @@ button{
 }
 
 .tema {
-    text-decoration: none;
-            background-color: #0d5008;
+            text-decoration: none;
+            background-color: orange;
             width: 95%;
             height: auto;
             padding: 1rem;
-            margin: 0.5rem;
+            margin: 1rem;
             border-radius: 20px;
             font-size: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -150,7 +136,7 @@ button{
 .block2{
   position: relative;
   padding: 0.5rem;
-  width: 100%;  
+  width: 95%;  
   height: auto;  
   display: flex;
   justify-content: space-between; /* distribuye espacio entre items */
